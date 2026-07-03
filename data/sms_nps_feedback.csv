@@ -1,0 +1,3018 @@
+survey_id,visit_id,nps_score,customer_comment
+1003,PEN-90BEED,7,Not bad but not the fastest either
+1006,PEN-D4DDAE,4,Why does the pharmacy queue take so long?
+1009,PEN-250C84,9,"Excellent service, very organised"
+1010,PEN-7A46B5,4,Staff were fine but the system is very slow
+1012,PEN-6FE26A,0,I left without being attended to at all
+1013,PEN-6F5716,8,"It was fine, just a bit slow at times"
+1015,PEN-825F68,4,The lab took forever to process my sample
+1016,PEN-D058DE,3,Waited so long I had to leave and come back another day
+1021,PEN-1DDDA1,2,This has gotten worse over the past few visits
+1026,PEN-5D4F00,9,"Quick as always, thank you"
+1029,PEN-E026E6,6,"Lab results took over an hour, unacceptable"
+1031,PEN-F73854,7,A bit of a wait but staff were polite
+1032,PEN-4725F8,0,I left without being seen after waiting too long
+1034,PEN-A96B8D,4,"Registration was okay but after that, very long"
+1037,PEN-F2C5CF,6,The lab queue is a nightmare on weekends
+1039,PEN-6163D2,8,"It was fine, just a bit slow at times"
+1041,PEN-85D403,3,I sat for 2 hours and left without being seen
+1043,PEN-9B9F84,3,The lab queue is a nightmare on weekends
+1046,PEN-190FA8,10,"Smooth process today, no delays"
+1047,PEN-2DF7DE,10,"Quick as always, thank you"
+1051,PEN-8A60CC,8,Wait was longer than I would like but staff helped promptly once seen
+1055,PEN-2C4321,8,"Service was okay, nothing special"
+1057,PEN-15568F,2,Nobody explained why the wait was so long
+1059,PEN-F75F65,4,"Lab results took over an hour, unacceptable"
+1062,PEN-0236CC,5,I sat for 2 hours and left without being seen
+1066,PEN-CE4046,1,"Very slow service today, disappointed"
+1073,PEN-272B6A,2,"Very slow service today, disappointed"
+1076,PEN-B44A22,8,A bit of a wait but staff were polite
+1079,PEN-2CE18E,10,Sunton branch never disappoints
+1080,PEN-7357FE,0,The lab took forever to process my sample
+1081,PEN-10B82A,4,"Lab results took over an hour, unacceptable"
+1083,PEN-C4D2E5,5,Staff were fine but the system is very slow
+1084,PEN-E87382,5,Waited so long I had to leave and come back another day
+1085,PEN-49FEC1,8,"Average experience, could be faster"
+1086,PEN-7F1ABD,10,"Short wait, great service"
+1090,PEN-3EF09D,4,The lab took forever to process my sample
+1091,PEN-96DC43,2,"Registration was okay but after that, very long"
+1092,PEN-7EA7CC,5,The lab queue is a nightmare on weekends
+1094,PEN-A98342,9,"Quick as always, thank you"
+1096,PEN-8AB888,5,"Lab results took over an hour, unacceptable"
+1097,PEN-ED70F9,5,This has gotten worse over the past few visits
+1101,PEN-48ADF5,10,"Smooth process today, no delays"
+1102,PEN-C0084B,4,Too much delay at the clinic
+1103,PEN-900C97,8,Wait was longer than I would like but staff helped promptly once seen
+1104,PEN-D7AB57,8,"Average experience, could be faster"
+1107,PEN-F98CC6,7,Not bad but not the fastest either
+1108,PEN-477128,3,Staff were fine but the system is very slow
+1110,PEN-3FC1E0,9,Clean facility and quick consultation
+1114,PEN-A76F74,6,Too much delay at the clinic
+1115,PEN-60AC3A,7,Decent service overall
+1116,PEN-A45C7A,5,The lab queue is a nightmare on weekends
+1117,PEN-B7DB49,10,"Short wait, great service"
+1119,PEN-FA0422,8,"It was fine, just a bit slow at times"
+1120,PEN-CE5411,10,"Quick as always, thank you"
+1121,PEN-BEA261,8,Decent service overall
+1123,PEN-63EBDC,5,Expected faster service given the subscription price
+1127,PEN-B7F8E8,9,Sunton branch never disappoints
+1137,PEN-456017,9,Best clinic experience I have had in Nairobi
+1144,PEN-F453A8,9,"Quick as always, thank you"
+1145,PEN-6271F8,6,The lab queue is a nightmare on weekends
+1147,PEN-5CFAB5,5,I left without being attended to at all
+1149,PEN-1F0113,2,Expected faster service given the subscription price
+1152,PEN-DABC9A,6,"Very slow service today, disappointed"
+1153,PEN-FB71FE,9,Very fast treatment from start to finish
+1154,PEN-8893BE,7,"Average experience, could be faster"
+1158,PEN-2C8FD6,7,A bit of a wait but staff were polite
+1161,PEN-7811D7,0,This has gotten worse over the past few visits
+1163,PEN-DF1728,6,I left without being attended to at all
+1164,PEN-D5863F,3,The lab took forever to process my sample
+1166,PEN-132D07,7,Wait was longer than I would like but staff helped promptly once seen
+1167,PEN-B8096D,10,In and out in under 20 minutes
+1168,PEN-5B6101,6,Expected faster service given the subscription price
+1169,PEN-6F8753,8,Not bad but not the fastest either
+1170,PEN-FBC631,7,"Service was okay, nothing special"
+1172,PEN-4AE60F,2,Waited so long I had to leave and come back another day
+1174,PEN-5C8E4E,5,The lab took forever to process my sample
+1175,PEN-316C38,7,"Reasonable wait, friendly staff"
+1177,PEN-68745A,7,"Average experience, could be faster"
+1178,PEN-084470,6,"Registration was okay but after that, very long"
+1179,PEN-ACB272,10,Clean facility and quick consultation
+1180,PEN-AEED7E,4,Waited so long I had to leave and come back another day
+1181,PEN-C73A81,6,"Lab results took over an hour, unacceptable"
+1182,PEN-78F5FD,3,The lab queue is a nightmare on weekends
+1183,PEN-5B0D1B,9,"Short wait, great service"
+1184,PEN-E769A7,7,"Service was okay, nothing special"
+1186,PEN-219A2A,7,"Service was okay, nothing special"
+1188,PEN-42A514,8,Decent service overall
+1189,PEN-3ED21A,3,The lab took forever to process my sample
+1190,PEN-962F93,5,Staff were fine but the system is very slow
+1191,PEN-F54EC6,2,"Registration was okay but after that, very long"
+1194,PEN-755104,6,The lab queue is a nightmare on weekends
+1195,PEN-AF1BDE,8,"Reasonable wait, friendly staff"
+1202,PEN-1CA0EE,9,Impressed by how fast the lab results came
+1204,PEN-9909BA,9,"Quick as always, thank you"
+1206,PEN-DF5171,5,"Registration was okay but after that, very long"
+1208,PEN-F02B34,3,Too much delay at the clinic
+1211,PEN-9A8843,2,I left without being attended to at all
+1213,PEN-2BCB98,4,Waited so long I had to leave and come back another day
+1214,PEN-803472,10,In and out in under 20 minutes
+1220,PEN-A31761,7,"Service was okay, nothing special"
+1223,PEN-A5227F,2,I sat for 2 hours and left without being seen
+1228,PEN-696376,10,Impressed by how fast the lab results came
+1229,PEN-752A99,6,Waited so long I had to leave and come back another day
+1231,PEN-6620DF,8,"It was fine, just a bit slow at times"
+1237,PEN-034636,5,"Lab results took over an hour, unacceptable"
+1240,PEN-7FBF9C,1,Why does the pharmacy queue take so long?
+1245,PEN-3927D4,6,The lab took forever to process my sample
+1247,PEN-FB44F2,3,I waited too long to see the doctor
+1248,PEN-8E3136,6,Waited so long I had to leave and come back another day
+1249,PEN-D0FD27,5,The lab took forever to process my sample
+1252,PEN-3FCCE8,0,I left without being attended to at all
+1253,PEN-0C7826,7,Wait was longer than I would like but staff helped promptly once seen
+1254,PEN-28E2F9,4,Nobody explained why the wait was so long
+1255,PEN-FA9773,7,"Average experience, could be faster"
+1256,PEN-46C567,9,Best clinic experience I have had in Nairobi
+1257,PEN-B5CB7E,3,Too much delay at the clinic
+1258,PEN-A80021,4,Staff were fine but the system is very slow
+1259,PEN-3BC933,9,Pharmacy was quick and staff explained my medication
+1260,PEN-780EBC,7,"Service was okay, nothing special"
+1262,PEN-3C7119,8,"Average experience, could be faster"
+1263,PEN-761BFA,2,"Registration was okay but after that, very long"
+1269,PEN-A504B3,7,Wait was longer than I would like but staff helped promptly once seen
+1270,PEN-1B3A62,5,This has gotten worse over the past few visits
+1273,PEN-00F152,7,"Service was okay, nothing special"
+1277,PEN-B35F20,9,Sunton branch never disappoints
+1281,PEN-1D5F88,2,The lab took forever to process my sample
+1282,PEN-3A48C1,9,Impressed by how fast the lab results came
+1285,PEN-AB7DD4,7,"Reasonable wait, friendly staff"
+1289,PEN-0E5304,7,"Service was okay, nothing special"
+1290,PEN-8DF53C,1,Gave up waiting and went to another clinic
+1291,PEN-11D957,4,I waited too long to see the doctor
+1292,PEN-3E3795,8,"It was fine, just a bit slow at times"
+1297,PEN-7C1EB5,8,Not bad but not the fastest either
+1298,PEN-0443C5,4,"Lab results took over an hour, unacceptable"
+1300,PEN-24D66F,5,I sat for 2 hours and left without being seen
+1302,PEN-2E4051,10,The clinical officer was very thorough
+1305,PEN-6C8F1C,2,"Registration was okay but after that, very long"
+1306,PEN-FABCBF,7,Not bad but not the fastest either
+1308,PEN-2E6EA4,2,"Lab results took over an hour, unacceptable"
+1309,PEN-C602B6,8,"Average experience, could be faster"
+1311,PEN-79E297,10,Best clinic experience I have had in Nairobi
+1313,PEN-36C169,9,In and out in under 20 minutes
+1314,PEN-A57CD2,3,This has gotten worse over the past few visits
+1316,PEN-282A8F,6,"Very slow service today, disappointed"
+1320,PEN-B5AF2F,2,"Registration was okay but after that, very long"
+1325,PEN-1D192B,4,"Registration was okay but after that, very long"
+1326,PEN-2EEE6E,7,"Reasonable wait, friendly staff"
+1328,PEN-3E0E42,10,In and out in under 20 minutes
+1329,PEN-A716A9,1,"No one could tell me how much longer it would take, so I left"
+1333,PEN-CB1202,8,Wait was longer than I would like but staff helped promptly once seen
+1335,PEN-D52ECE,2,I left without being attended to at all
+1336,PEN-D16C0B,2,Why does the pharmacy queue take so long?
+1340,PEN-0AB01A,9,Best clinic experience I have had in Nairobi
+1342,PEN-F72045,5,"Lab results took over an hour, unacceptable"
+1343,PEN-9BCE3D,9,The clinical officer was very thorough
+1349,PEN-9CBDAE,10,In and out in under 20 minutes
+1350,PEN-7C70FB,5,The lab took forever to process my sample
+1351,PEN-B431CC,2,I sat for 2 hours and left without being seen
+1352,PEN-02C3D3,9,"Short wait, great service"
+1353,PEN-1374AE,7,"It was fine, just a bit slow at times"
+1360,PEN-911DD4,9,"Quick as always, thank you"
+1365,PEN-EACAF9,3,Too much delay at the clinic
+1367,PEN-8795FA,7,A bit of a wait but staff were polite
+1370,PEN-59A5B8,5,Nobody explained why the wait was so long
+1371,PEN-2D4A9A,10,The clinical officer was very thorough
+1374,PEN-6E48D8,8,"Service was okay, nothing special"
+1375,PEN-4E7229,9,Clean facility and quick consultation
+1376,PEN-F20AA5,6,Waited so long I had to leave and come back another day
+1377,PEN-EB1C86,8,Decent service overall
+1380,PEN-11618F,5,"Registration was okay but after that, very long"
+1384,PEN-EED0B7,10,Very fast treatment from start to finish
+1390,PEN-B6E7FB,8,"Reasonable wait, friendly staff"
+1394,PEN-91D67A,6,The lab queue is a nightmare on weekends
+1396,PEN-D4A3AB,6,Too much delay at the clinic
+1400,PEN-F32F7D,8,A bit of a wait but staff were polite
+1403,PEN-EC60F7,5,Too much delay at the clinic
+1404,PEN-607042,9,"Short wait, great service"
+1405,PEN-4EFFE0,7,"It was fine, just a bit slow at times"
+1407,PEN-3881AC,2,Too much delay at the clinic
+1410,PEN-96E69C,7,"Reasonable wait, friendly staff"
+1415,PEN-CF9474,3,"Lab results took over an hour, unacceptable"
+1417,PEN-AEDFDA,10,"Excellent service, very organised"
+1419,PEN-EECFC6,7,"It was fine, just a bit slow at times"
+1420,PEN-4CBC07,3,I waited too long to see the doctor
+1424,PEN-98730B,0,This has gotten worse over the past few visits
+1428,PEN-14A24A,1,The lab queue is a nightmare on weekends
+1430,PEN-3F0B7B,10,"Quick as always, thank you"
+1433,PEN-80B9CA,2,The lab queue is a nightmare on weekends
+1434,PEN-E2933E,2,Expected faster service given the subscription price
+1435,PEN-765C98,3,This has gotten worse over the past few visits
+1436,PEN-67364E,10,"Quick as always, thank you"
+1437,PEN-6D75AC,3,Waited so long I had to leave and come back another day
+1441,PEN-555203,1,I left without being attended to at all
+1442,PEN-36C878,3,Expected faster service given the subscription price
+1444,PEN-39785C,1,I sat for 2 hours and left without being seen
+1445,PEN-0A77CA,6,"Very slow service today, disappointed"
+1452,PEN-C505B8,5,Nobody explained why the wait was so long
+1459,PEN-665DD6,3,Staff were fine but the system is very slow
+1460,PEN-C0215F,2,"Very slow service today, disappointed"
+1461,PEN-E431F9,7,"It was fine, just a bit slow at times"
+1463,PEN-220633,7,Decent service overall
+1467,PEN-C8A036,4,"Very slow service today, disappointed"
+1472,PEN-4E433C,10,"Excellent service, very organised"
+1473,PEN-056ECC,3,Nobody explained why the wait was so long
+1474,PEN-6C86E5,10,Impressed by how fast the lab results came
+1475,PEN-AA6E7A,8,Wait was longer than I would like but staff helped promptly once seen
+1476,PEN-F0428E,8,"It was fine, just a bit slow at times"
+1478,PEN-BA46D9,6,The lab took forever to process my sample
+1484,PEN-3CD51D,9,Best clinic experience I have had in Nairobi
+1486,PEN-0A385D,6,Too much delay at the clinic
+1489,PEN-194F4F,8,Not bad but not the fastest either
+1490,PEN-C2C759,10,The clinical officer was very thorough
+1492,PEN-560E8A,6,"Lab results took over an hour, unacceptable"
+1494,PEN-CB3C98,2,Too much delay at the clinic
+1495,PEN-7B746F,5,Expected faster service given the subscription price
+1497,PEN-CC0425,8,Not bad but not the fastest either
+1503,PEN-D5B64B,9,Best clinic experience I have had in Nairobi
+1504,PEN-C1A590,10,Impressed by how fast the lab results came
+1506,PEN-E4FB68,9,Very fast treatment from start to finish
+1507,PEN-582438,6,This has gotten worse over the past few visits
+1508,PEN-28F9D4,10,Impressed by how fast the lab results came
+1513,PEN-9FB959,10,Very fast treatment from start to finish
+1517,PEN-58BF2B,10,In and out in under 20 minutes
+1518,PEN-DB3252,9,Sunton branch never disappoints
+1521,PEN-AE26FA,8,A bit of a wait but staff were polite
+1528,PEN-5AB996,8,Decent service overall
+1530,PEN-DEF1B2,10,Impressed by how fast the lab results came
+1531,PEN-D96344,3,This has gotten worse over the past few visits
+1533,PEN-41B233,7,"Average experience, could be faster"
+1534,PEN-DEFD32,10,Clean facility and quick consultation
+1536,PEN-78CEBA,3,I left without being attended to at all
+1538,PEN-454F90,4,Waited so long I had to leave and come back another day
+1542,PEN-DB9E0E,3,"Very slow service today, disappointed"
+1547,PEN-C13BC6,9,In and out in under 20 minutes
+1549,PEN-0230C2,4,I left without being attended to at all
+1550,PEN-373F63,7,A bit of a wait but staff were polite
+1554,PEN-5031EF,1,Staff were fine but the system is very slow
+1557,PEN-C95B16,5,"Registration was okay but after that, very long"
+1560,PEN-0AF16A,7,Decent service overall
+1562,PEN-D35979,8,"Reasonable wait, friendly staff"
+1565,PEN-3D516C,8,"Reasonable wait, friendly staff"
+1566,PEN-D97A28,7,"It was fine, just a bit slow at times"
+1570,PEN-2B2F76,9,"Smooth process today, no delays"
+1571,PEN-BAAD50,3,Waited so long I had to leave and come back another day
+1574,PEN-7BECAA,7,"It was fine, just a bit slow at times"
+1575,PEN-AF8059,4,Staff were fine but the system is very slow
+1576,PEN-69DA72,10,Clean facility and quick consultation
+1584,PEN-F502B4,8,A bit of a wait but staff were polite
+1585,PEN-7EF06B,8,Decent service overall
+1589,PEN-C00831,5,The lab took forever to process my sample
+1590,PEN-779DA0,10,"Smooth process today, no delays"
+1593,PEN-0B2FAF,4,"Very slow service today, disappointed"
+1597,PEN-9C81D6,1,Expected faster service given the subscription price
+1599,PEN-806FDD,3,I waited too long to see the doctor
+1602,PEN-066F72,4,I sat for 2 hours and left without being seen
+1605,PEN-0E5384,10,Pharmacy was quick and staff explained my medication
+1612,PEN-091489,10,Best clinic experience I have had in Nairobi
+1618,PEN-B94264,3,The lab took forever to process my sample
+1628,PEN-98F0F8,9,"Smooth process today, no delays"
+1629,PEN-98F039,4,Why does the pharmacy queue take so long?
+1634,PEN-E81B50,7,"Reasonable wait, friendly staff"
+1637,PEN-7E5299,6,The lab queue is a nightmare on weekends
+1639,PEN-4B92CB,8,Wait was longer than I would like but staff helped promptly once seen
+1643,PEN-FDA656,4,This has gotten worse over the past few visits
+1648,PEN-1402C1,9,"Smooth process today, no delays"
+1653,PEN-4FFE7E,1,I waited too long to see the doctor
+1655,PEN-383BC2,9,Sunton branch never disappoints
+1657,PEN-590C31,7,Wait was longer than I would like but staff helped promptly once seen
+1660,PEN-3BDCF2,3,The lab queue is a nightmare on weekends
+1664,PEN-5F9079,3,I waited too long to see the doctor
+1668,PEN-B2C9EB,3,I sat for 2 hours and left without being seen
+1676,PEN-BEBFAB,10,In and out in under 20 minutes
+1678,PEN-BC6809,9,The clinical officer was very thorough
+1681,PEN-A3D781,1,Waited so long I had to leave and come back another day
+1684,PEN-6D72ED,7,Decent service overall
+1687,PEN-28A886,10,"Quick as always, thank you"
+1690,PEN-659B7A,8,"Service was okay, nothing special"
+1692,PEN-1E0208,3,I sat for 2 hours and left without being seen
+1694,PEN-D89CBA,4,"Very slow service today, disappointed"
+1695,PEN-8A7153,7,"Reasonable wait, friendly staff"
+1696,PEN-08B3AB,5,Why does the pharmacy queue take so long?
+1697,PEN-751273,3,I sat for 2 hours and left without being seen
+1699,PEN-59D764,2,The lab took forever to process my sample
+1700,PEN-49B804,6,Staff were fine but the system is very slow
+1704,PEN-B88C1D,4,I left without being attended to at all
+1705,PEN-7AF5DD,6,"Registration was okay but after that, very long"
+1706,PEN-18B43D,10,Impressed by how fast the lab results came
+1707,PEN-257DA1,9,"Excellent service, very organised"
+1708,PEN-19D11B,8,Not bad but not the fastest either
+1710,PEN-80DD20,9,"Excellent service, very organised"
+1716,PEN-84AB40,8,"Reasonable wait, friendly staff"
+1717,PEN-339C9E,6,Waited so long I had to leave and come back another day
+1718,PEN-468019,3,Why does the pharmacy queue take so long?
+1722,PEN-EB5F57,10,Sunton branch never disappoints
+1726,PEN-65BC1B,10,The clinical officer was very thorough
+1727,PEN-9E19E6,8,Decent service overall
+1729,PEN-E5D32A,7,"Average experience, could be faster"
+1731,PEN-77B154,1,Expected faster service given the subscription price
+1732,PEN-ADA280,4,Too much delay at the clinic
+1734,PEN-62818A,3,Why does the pharmacy queue take so long?
+1741,PEN-501618,0,This has gotten worse over the past few visits
+1744,PEN-265C45,3,Staff were fine but the system is very slow
+1746,PEN-4161EA,5,I sat for 2 hours and left without being seen
+1747,PEN-7BA802,4,Expected faster service given the subscription price
+1750,PEN-8D2444,6,I waited too long to see the doctor
+1751,PEN-5E59E5,8,"It was fine, just a bit slow at times"
+1752,PEN-922983,4,"Registration was okay but after that, very long"
+1755,PEN-3B6474,2,I sat for 2 hours and left without being seen
+1757,PEN-13D0D5,8,"Reasonable wait, friendly staff"
+1760,PEN-B2C5B0,2,I waited too long to see the doctor
+1764,PEN-5A074F,7,"Reasonable wait, friendly staff"
+1771,PEN-D25DEE,6,Expected faster service given the subscription price
+1775,PEN-05EEBA,9,"Quick as always, thank you"
+1779,PEN-5DE882,10,Best clinic experience I have had in Nairobi
+1781,PEN-CD115D,6,The lab took forever to process my sample
+1784,PEN-BA89EC,6,"Lab results took over an hour, unacceptable"
+1786,PEN-5E0CDE,7,"Reasonable wait, friendly staff"
+1787,PEN-A702A6,5,"Lab results took over an hour, unacceptable"
+1788,PEN-01A4AE,1,The lab queue is a nightmare on weekends
+1789,PEN-544231,4,The lab queue is a nightmare on weekends
+1790,PEN-C523CB,5,Staff were fine but the system is very slow
+1792,PEN-1FD5BA,8,Not bad but not the fastest either
+1796,PEN-B34C21,2,This has gotten worse over the past few visits
+1797,PEN-486899,5,This has gotten worse over the past few visits
+1798,PEN-9AD535,10,Clean facility and quick consultation
+1799,PEN-8EFC93,5,Nobody explained why the wait was so long
+1803,PEN-5BFE63,7,"Service was okay, nothing special"
+1805,PEN-9A00F0,2,Expected faster service given the subscription price
+1811,PEN-1CA71E,8,Decent service overall
+1812,PEN-1A4CC4,5,The lab took forever to process my sample
+1813,PEN-C5EEBE,1,The lab took forever to process my sample
+1814,PEN-C0ACC3,9,Best clinic experience I have had in Nairobi
+1815,PEN-2F2988,4,The lab queue is a nightmare on weekends
+1816,PEN-5D8419,10,Impressed by how fast the lab results came
+1821,PEN-256A13,6,"Registration was okay but after that, very long"
+1823,PEN-6F22DA,2,Why does the pharmacy queue take so long?
+1825,PEN-F16D6B,8,"Reasonable wait, friendly staff"
+1827,PEN-268F29,10,"Excellent service, very organised"
+1830,PEN-27E284,5,Expected faster service given the subscription price
+1833,PEN-70375C,3,I left without being attended to at all
+1834,PEN-7E94C3,10,Pharmacy was quick and staff explained my medication
+1836,PEN-8EF52C,8,"Reasonable wait, friendly staff"
+1838,PEN-908FBE,6,Staff were fine but the system is very slow
+1839,PEN-E0DFF2,7,A bit of a wait but staff were polite
+1843,PEN-AF7E4C,5,The lab queue is a nightmare on weekends
+1845,PEN-E32808,5,"Registration was okay but after that, very long"
+1846,PEN-20AF5C,2,Staff were fine but the system is very slow
+1851,PEN-165598,7,Wait was longer than I would like but staff helped promptly once seen
+1853,PEN-D0BFAF,5,I waited too long to see the doctor
+1856,PEN-259848,7,"Service was okay, nothing special"
+1859,PEN-F656B8,8,"Reasonable wait, friendly staff"
+1863,PEN-82367E,8,"Reasonable wait, friendly staff"
+1870,PEN-3D1A36,4,Too much delay at the clinic
+1873,PEN-402430,6,Too much delay at the clinic
+1874,PEN-58D6B5,10,"Excellent service, very organised"
+1876,PEN-377342,7,Not bad but not the fastest either
+1877,PEN-6DAB83,10,"Excellent service, very organised"
+1879,PEN-C9CD20,8,Decent service overall
+1880,PEN-7D509E,10,Very fast treatment from start to finish
+1881,PEN-486C22,9,Clean facility and quick consultation
+1882,PEN-73A188,8,"Average experience, could be faster"
+1883,PEN-944E5C,7,Wait was longer than I would like but staff helped promptly once seen
+1887,PEN-64C3CE,0,"Lab results took over an hour, unacceptable"
+1888,PEN-652B1B,7,"Reasonable wait, friendly staff"
+1892,PEN-0A2013,10,Clean facility and quick consultation
+1899,PEN-A86544,7,Wait was longer than I would like but staff helped promptly once seen
+1916,PEN-190687,2,Expected faster service given the subscription price
+1917,PEN-767DA2,7,A bit of a wait but staff were polite
+1918,PEN-1BD139,8,"It was fine, just a bit slow at times"
+1920,PEN-DA0E07,8,"Average experience, could be faster"
+1921,PEN-AFDF83,4,Too much delay at the clinic
+1925,PEN-737464,8,Decent service overall
+1927,PEN-BC7853,3,Why does the pharmacy queue take so long?
+1933,PEN-AED7E1,4,"Lab results took over an hour, unacceptable"
+1936,PEN-118415,5,This has gotten worse over the past few visits
+1937,PEN-52D8DF,5,Too much delay at the clinic
+1942,PEN-F47AF8,4,"Very slow service today, disappointed"
+1944,PEN-8AC901,8,A bit of a wait but staff were polite
+1947,PEN-ED3985,10,Best clinic experience I have had in Nairobi
+1949,PEN-69985A,10,Sunton branch never disappoints
+1950,PEN-9101DA,5,Waited so long I had to leave and come back another day
+1953,PEN-E455D6,5,"Very slow service today, disappointed"
+1958,PEN-A43A01,9,Clean facility and quick consultation
+1959,PEN-0759F6,7,Decent service overall
+1961,PEN-34C8B7,8,"It was fine, just a bit slow at times"
+1962,PEN-55A77A,5,Why does the pharmacy queue take so long?
+1964,PEN-2DBFEB,5,"Very slow service today, disappointed"
+1967,PEN-907694,1,The lab queue is a nightmare on weekends
+1970,PEN-47B952,4,Waited so long I had to leave and come back another day
+1972,PEN-7F070F,2,I left without being seen after waiting too long
+1974,PEN-432086,9,Sunton branch never disappoints
+1979,PEN-4F8E15,10,Very fast treatment from start to finish
+1981,PEN-40D2F7,2,Staff were fine but the system is very slow
+1982,PEN-9D6BCB,5,Expected faster service given the subscription price
+1986,PEN-3C88E2,0,I left without being attended to at all
+1988,PEN-C8D98F,9,Very fast treatment from start to finish
+1989,PEN-B4C277,0,Nobody explained why the wait was so long
+1990,PEN-9FB62D,8,Decent service overall
+1991,PEN-7F41B1,2,Nobody explained why the wait was so long
+1993,PEN-4A266E,9,Sunton branch never disappoints
+1997,PEN-B2AD4D,8,Wait was longer than I would like but staff helped promptly once seen
+2004,PEN-C8675B,7,A bit of a wait but staff were polite
+2007,PEN-7F88BE,10,"Quick as always, thank you"
+2008,PEN-01F7D9,4,"Lab results took over an hour, unacceptable"
+2011,PEN-01DA5B,2,Too much delay at the clinic
+2012,PEN-9DB2B1,1,Waited so long I had to leave and come back another day
+2016,PEN-81DF39,7,"Service was okay, nothing special"
+2024,PEN-C67FD8,3,I waited too long to see the doctor
+2025,PEN-9C068C,2,I sat for 2 hours and left without being seen
+2028,PEN-201002,7,"Service was okay, nothing special"
+2031,PEN-59AAA0,3,I left without being attended to at all
+2032,PEN-53FA8B,10,"Smooth process today, no delays"
+2035,PEN-C7F26A,10,Clean facility and quick consultation
+2036,PEN-4C5C59,3,"Very slow service today, disappointed"
+2040,PEN-C92D23,6,Expected faster service given the subscription price
+2041,PEN-403DBA,10,"Quick as always, thank you"
+2045,PEN-90506F,10,In and out in under 20 minutes
+2046,PEN-84CD3D,5,The lab took forever to process my sample
+2047,PEN-1E2E96,9,"Quick as always, thank you"
+2048,PEN-38D511,9,In and out in under 20 minutes
+2050,PEN-E67C1A,7,Not bad but not the fastest either
+2052,PEN-2BB269,6,Nobody explained why the wait was so long
+2053,PEN-EF9005,9,"Excellent service, very organised"
+2055,PEN-A06056,10,"Excellent service, very organised"
+2057,PEN-75FDD2,8,"Reasonable wait, friendly staff"
+2061,PEN-3FC37E,5,I left without being attended to at all
+2063,PEN-4C418C,8,"Service was okay, nothing special"
+2073,PEN-F4E156,9,"Short wait, great service"
+2077,PEN-E9B446,7,"Service was okay, nothing special"
+2080,PEN-3146F5,6,This has gotten worse over the past few visits
+2081,PEN-284563,0,Waited so long I had to leave and come back another day
+2084,PEN-02C151,5,Staff were fine but the system is very slow
+2085,PEN-E2A0A6,1,The lab queue is a nightmare on weekends
+2086,PEN-5A315C,6,"Lab results took over an hour, unacceptable"
+2088,PEN-019D0C,6,"Very slow service today, disappointed"
+2089,PEN-E91130,3,The lab took forever to process my sample
+2090,PEN-811145,1,Why does the pharmacy queue take so long?
+2091,PEN-613064,3,The lab queue is a nightmare on weekends
+2094,PEN-498B60,5,"Lab results took over an hour, unacceptable"
+2097,PEN-B4D31F,6,I sat for 2 hours and left without being seen
+2099,PEN-812B45,9,"Excellent service, very organised"
+2105,PEN-3FB3BF,10,In and out in under 20 minutes
+2107,PEN-1FC997,8,Decent service overall
+2112,PEN-B3B360,3,I sat for 2 hours and left without being seen
+2124,PEN-C72B9E,4,The lab queue is a nightmare on weekends
+2128,PEN-5547C7,10,Clean facility and quick consultation
+2129,PEN-CE02BD,2,Nobody explained why the wait was so long
+2130,PEN-84F7B2,10,"Quick as always, thank you"
+2133,PEN-132E91,10,Friendly and professional staff
+2134,PEN-24C28F,7,"It was fine, just a bit slow at times"
+2135,PEN-E4602C,1,This has gotten worse over the past few visits
+2137,PEN-96D494,1,The lab queue is a nightmare on weekends
+2138,PEN-470FAA,2,I waited too long to see the doctor
+2139,PEN-D2A6AC,4,Nobody explained why the wait was so long
+2141,PEN-BF500D,3,I left without being attended to at all
+2150,PEN-D62F24,2,The lab queue is a nightmare on weekends
+2151,PEN-C73204,7,Wait was longer than I would like but staff helped promptly once seen
+2153,PEN-D26639,5,This has gotten worse over the past few visits
+2155,PEN-4D5CD5,2,This has gotten worse over the past few visits
+2156,PEN-2E661D,9,Impressed by how fast the lab results came
+2157,PEN-148106,7,Not bad but not the fastest either
+2158,PEN-E79E33,4,This has gotten worse over the past few visits
+2159,PEN-6DCBC9,3,"Registration was okay but after that, very long"
+2164,PEN-520F18,10,Pharmacy was quick and staff explained my medication
+2165,PEN-CB103A,5,I left without being attended to at all
+2166,PEN-CD40E0,10,"Excellent service, very organised"
+2172,PEN-04DBA6,6,The lab queue is a nightmare on weekends
+2173,PEN-E363E8,3,Nobody explained why the wait was so long
+2174,PEN-2CFEBF,5,Staff were fine but the system is very slow
+2177,PEN-3504C4,3,The lab queue is a nightmare on weekends
+2178,PEN-2DA93C,6,Nobody explained why the wait was so long
+2179,PEN-CE65C6,6,Waited so long I had to leave and come back another day
+2180,PEN-2F83C8,6,Nobody explained why the wait was so long
+2181,PEN-7F0112,10,Pharmacy was quick and staff explained my medication
+2185,PEN-4C3959,3,This has gotten worse over the past few visits
+2188,PEN-9440B1,1,"Lab results took over an hour, unacceptable"
+2191,PEN-38122F,2,Why does the pharmacy queue take so long?
+2193,PEN-520901,5,I left without being attended to at all
+2203,PEN-046FA3,3,This has gotten worse over the past few visits
+2204,PEN-22036B,2,Waited so long I had to leave and come back another day
+2205,PEN-B19342,3,I sat for 2 hours and left without being seen
+2207,PEN-9FB8DA,5,"Registration was okay but after that, very long"
+2208,PEN-F31089,2,I waited too long to see the doctor
+2210,PEN-F52664,7,"Average experience, could be faster"
+2211,PEN-CE9585,3,Why does the pharmacy queue take so long?
+2218,PEN-E70D92,8,"Reasonable wait, friendly staff"
+2219,PEN-91FE25,10,Very fast treatment from start to finish
+2220,PEN-504895,10,Impressed by how fast the lab results came
+2221,PEN-400ED7,9,Friendly and professional staff
+2222,PEN-29DF2D,7,"Service was okay, nothing special"
+2233,PEN-A58F90,5,Waited so long I had to leave and come back another day
+2234,PEN-E6B892,5,Expected faster service given the subscription price
+2235,PEN-8B4D2E,3,I sat for 2 hours and left without being seen
+2236,PEN-1B97B9,6,"Lab results took over an hour, unacceptable"
+2238,PEN-3A6BAF,3,I left without being attended to at all
+2239,PEN-4D2CED,1,The lab took forever to process my sample
+2240,PEN-B8F67C,8,"It was fine, just a bit slow at times"
+2244,PEN-E49EF1,9,"Excellent service, very organised"
+2246,PEN-F35AB5,2,I waited too long to see the doctor
+2247,PEN-CC450D,1,This has gotten worse over the past few visits
+2250,PEN-8D6625,10,"Quick as always, thank you"
+2251,PEN-B87F52,8,Not bad but not the fastest either
+2253,PEN-F17B53,7,"Average experience, could be faster"
+2259,PEN-1DDAC6,7,A bit of a wait but staff were polite
+2260,PEN-34228C,6,I left without being attended to at all
+2262,PEN-B426B1,4,Waited so long I had to leave and come back another day
+2264,PEN-030B57,2,Nobody explained why the wait was so long
+2267,PEN-4F07F3,7,"It was fine, just a bit slow at times"
+2269,PEN-2C3FF6,2,I waited too long to see the doctor
+2271,PEN-EDD47D,5,"Registration was okay but after that, very long"
+2273,PEN-11881D,8,Not bad but not the fastest either
+2274,PEN-12C001,2,Nobody explained why the wait was so long
+2275,PEN-06C906,9,"Short wait, great service"
+2276,PEN-1D3EEF,7,Wait was longer than I would like but staff helped promptly once seen
+2277,PEN-E5FF6A,9,Impressed by how fast the lab results came
+2278,PEN-3C5A4F,2,Why does the pharmacy queue take so long?
+2281,PEN-FBA268,0,This has gotten worse over the past few visits
+2282,PEN-B8DD33,7,Not bad but not the fastest either
+2283,PEN-6BEE7A,7,Not bad but not the fastest either
+2284,PEN-FBC621,4,Why does the pharmacy queue take so long?
+2285,PEN-071F53,7,"Average experience, could be faster"
+2286,PEN-34A905,5,Nobody explained why the wait was so long
+2289,PEN-D19441,6,"Registration was okay but after that, very long"
+2291,PEN-421F85,10,"Excellent service, very organised"
+2292,PEN-268620,1,"Very slow service today, disappointed"
+2294,PEN-F039EF,10,Friendly and professional staff
+2295,PEN-9FDC0D,2,I left without being attended to at all
+2298,PEN-3C003E,2,I waited too long to see the doctor
+2301,PEN-7EC44B,4,I left without being attended to at all
+2302,PEN-C95E93,7,Decent service overall
+2303,PEN-777D83,6,"Very slow service today, disappointed"
+2304,PEN-06857E,1,I sat for 2 hours and left without being seen
+2306,PEN-761E81,10,Very fast treatment from start to finish
+2310,PEN-DF5FA7,9,"Quick as always, thank you"
+2311,PEN-481568,9,Pharmacy was quick and staff explained my medication
+2314,PEN-4D5B91,0,"No one could tell me how much longer it would take, so I left"
+2315,PEN-CBDB96,6,I waited too long to see the doctor
+2316,PEN-B0719E,0,Waited so long I had to leave and come back another day
+2318,PEN-1066DD,8,A bit of a wait but staff were polite
+2319,PEN-B81D93,10,Friendly and professional staff
+2322,PEN-D6FD59,9,Clean facility and quick consultation
+2323,PEN-29A1C9,4,"Lab results took over an hour, unacceptable"
+2324,PEN-903F35,5,I sat for 2 hours and left without being seen
+2325,PEN-063336,10,Sunton branch never disappoints
+2331,PEN-122633,7,"Service was okay, nothing special"
+2332,PEN-A9B8A7,8,"It was fine, just a bit slow at times"
+2333,PEN-389F56,0,The lab took forever to process my sample
+2334,PEN-36156B,6,"Lab results took over an hour, unacceptable"
+2335,PEN-8DF00F,10,"Quick as always, thank you"
+2336,PEN-FE91BE,10,In and out in under 20 minutes
+2349,PEN-85744C,5,The lab took forever to process my sample
+2350,PEN-958FEB,7,"Average experience, could be faster"
+2352,PEN-19C5C0,8,"Average experience, could be faster"
+2353,PEN-F26225,7,A bit of a wait but staff were polite
+2355,PEN-62642F,1,I left without being seen after waiting too long
+2359,PEN-163948,8,"Reasonable wait, friendly staff"
+2361,PEN-E52ABA,4,The lab took forever to process my sample
+2365,PEN-43AA68,2,"Very slow service today, disappointed"
+2368,PEN-FF306D,2,Why does the pharmacy queue take so long?
+2369,PEN-DF321B,4,Too much delay at the clinic
+2373,PEN-18F341,8,Not bad but not the fastest either
+2374,PEN-E7E76E,6,The lab queue is a nightmare on weekends
+2378,PEN-63C327,8,"It was fine, just a bit slow at times"
+2381,PEN-E8C9AE,5,Too much delay at the clinic
+2382,PEN-D11176,2,"Lab results took over an hour, unacceptable"
+2383,PEN-183DD1,9,"Short wait, great service"
+2388,PEN-3F5E9C,7,"Average experience, could be faster"
+2393,PEN-A4B7BA,5,Expected faster service given the subscription price
+2394,PEN-C922C9,7,"Service was okay, nothing special"
+2401,PEN-BE7587,8,"Average experience, could be faster"
+2405,PEN-3BE62C,4,Expected faster service given the subscription price
+2406,PEN-C2AC6D,8,"Average experience, could be faster"
+2414,PEN-C0F70C,2,Waited so long I had to leave and come back another day
+2418,PEN-822EDB,9,The clinical officer was very thorough
+2421,PEN-65E3AF,5,I sat for 2 hours and left without being seen
+2423,PEN-C54F50,4,Why does the pharmacy queue take so long?
+2424,PEN-02D980,5,I left without being attended to at all
+2425,PEN-7428D6,5,This has gotten worse over the past few visits
+2428,PEN-C979CF,5,I sat for 2 hours and left without being seen
+2429,PEN-F97D09,4,Waited so long I had to leave and come back another day
+2433,PEN-79DD16,5,"Lab results took over an hour, unacceptable"
+2434,PEN-6CE88F,3,Why does the pharmacy queue take so long?
+2439,PEN-CEF3A9,7,Wait was longer than I would like but staff helped promptly once seen
+2443,PEN-3C9CF9,2,I left without being attended to at all
+2444,PEN-5D1321,5,"Very slow service today, disappointed"
+2447,PEN-9C084D,9,Best clinic experience I have had in Nairobi
+2449,PEN-C9FEA3,1,Nobody explained why the wait was so long
+2450,PEN-4C9444,8,A bit of a wait but staff were polite
+2451,PEN-662EC7,10,Very fast treatment from start to finish
+2454,PEN-7896E1,3,Too much delay at the clinic
+2457,PEN-B78B53,7,"Reasonable wait, friendly staff"
+2459,PEN-645D92,2,Staff were fine but the system is very slow
+2461,PEN-D30741,5,"Lab results took over an hour, unacceptable"
+2463,PEN-4947D4,7,"It was fine, just a bit slow at times"
+2464,PEN-A03064,8,A bit of a wait but staff were polite
+2466,PEN-9EC01E,10,"Quick as always, thank you"
+2467,PEN-C48D8F,4,"Registration was okay but after that, very long"
+2468,PEN-6C7C1C,8,"Average experience, could be faster"
+2470,PEN-50EEE8,2,Why does the pharmacy queue take so long?
+2475,PEN-4841BF,4,Nobody explained why the wait was so long
+2479,PEN-ECD140,8,Not bad but not the fastest either
+2481,PEN-24B487,10,"Excellent service, very organised"
+2482,PEN-8F6FA5,3,The lab queue is a nightmare on weekends
+2483,PEN-58F04E,6,Staff were fine but the system is very slow
+2488,PEN-50CD81,6,Waited so long I had to leave and come back another day
+2491,PEN-29E1BB,8,Decent service overall
+2494,PEN-23A945,6,Waited so long I had to leave and come back another day
+2495,PEN-9EA7D9,1,"Very slow service today, disappointed"
+2502,PEN-2609BC,7,"Average experience, could be faster"
+2503,PEN-E7060E,4,I left without being attended to at all
+2505,PEN-F368AC,8,"Reasonable wait, friendly staff"
+2506,PEN-5A88A5,8,"Average experience, could be faster"
+2507,PEN-FF7A49,3,"Lab results took over an hour, unacceptable"
+2508,PEN-36D9A8,9,Pharmacy was quick and staff explained my medication
+2509,PEN-32BA50,7,"Service was okay, nothing special"
+2511,PEN-31D832,3,Nobody explained why the wait was so long
+2513,PEN-AAF2EC,7,Wait was longer than I would like but staff helped promptly once seen
+2517,PEN-881C83,10,"Smooth process today, no delays"
+2520,PEN-A61754,7,Wait was longer than I would like but staff helped promptly once seen
+2521,PEN-79B774,5,Waited so long I had to leave and come back another day
+2526,PEN-AD9755,4,I left without being attended to at all
+2528,PEN-1CEEB8,8,Not bad but not the fastest either
+2529,PEN-10C645,9,Impressed by how fast the lab results came
+2532,PEN-88FEDC,5,Nobody explained why the wait was so long
+2533,PEN-87D879,4,"Registration was okay but after that, very long"
+2534,PEN-6456E6,9,Clean facility and quick consultation
+2536,PEN-E2E9B9,1,Gave up waiting and went to another clinic
+2540,PEN-9343A5,10,Pharmacy was quick and staff explained my medication
+2541,PEN-848808,2,Waited so long I had to leave and come back another day
+2542,PEN-FD39FA,4,"Lab results took over an hour, unacceptable"
+2543,PEN-9286DB,10,"Quick as always, thank you"
+2549,PEN-378A96,8,"Service was okay, nothing special"
+2554,PEN-FE97AE,4,Expected faster service given the subscription price
+2555,PEN-37674D,10,Sunton branch never disappoints
+2556,PEN-67705B,5,Why does the pharmacy queue take so long?
+2559,PEN-7078EC,5,I left without being attended to at all
+2565,PEN-54B3DB,10,Pharmacy was quick and staff explained my medication
+2566,PEN-A6A187,10,The clinical officer was very thorough
+2571,PEN-0CB412,6,"Lab results took over an hour, unacceptable"
+2572,PEN-B8631B,1,The lab took forever to process my sample
+2573,PEN-483131,9,Pharmacy was quick and staff explained my medication
+2574,PEN-065444,7,"Average experience, could be faster"
+2577,PEN-473EBE,8,"Service was okay, nothing special"
+2578,PEN-651414,10,Clean facility and quick consultation
+2579,PEN-CE8928,10,Very fast treatment from start to finish
+2581,PEN-2991EF,4,I sat for 2 hours and left without being seen
+2582,PEN-F8587E,8,A bit of a wait but staff were polite
+2583,PEN-9AD2C7,7,"Service was okay, nothing special"
+2585,PEN-A14A9D,4,Staff were fine but the system is very slow
+2587,PEN-2F2AB3,4,"Lab results took over an hour, unacceptable"
+2588,PEN-636747,9,Impressed by how fast the lab results came
+2589,PEN-71C530,10,Sunton branch never disappoints
+2590,PEN-E5E29B,0,"Very slow service today, disappointed"
+2591,PEN-445445,4,The lab took forever to process my sample
+2593,PEN-474AB8,7,"Service was okay, nothing special"
+2595,PEN-928AE1,3,This has gotten worse over the past few visits
+2596,PEN-D247F0,3,This has gotten worse over the past few visits
+2598,PEN-7055B1,9,The clinical officer was very thorough
+2600,PEN-B130C5,4,I waited too long to see the doctor
+2603,PEN-671827,10,The clinical officer was very thorough
+2605,PEN-4764BB,0,I sat for 2 hours and left without being seen
+2606,PEN-360F8F,0,Nobody explained why the wait was so long
+2611,PEN-CF1503,4,This has gotten worse over the past few visits
+2614,PEN-9459F3,9,"Quick as always, thank you"
+2616,PEN-5CA80A,6,This has gotten worse over the past few visits
+2617,PEN-2DF6F6,6,I waited too long to see the doctor
+2619,PEN-69C839,8,Not bad but not the fastest either
+2623,PEN-EF2722,4,"Very slow service today, disappointed"
+2625,PEN-E0DAD1,1,I left without being seen after waiting too long
+2628,PEN-AF93D4,6,Why does the pharmacy queue take so long?
+2631,PEN-35739F,5,Waited so long I had to leave and come back another day
+2635,PEN-867E5D,6,"Registration was okay but after that, very long"
+2636,PEN-27387E,2,I left without being attended to at all
+2637,PEN-0EA48C,7,"Service was okay, nothing special"
+2641,PEN-A1D46C,9,Sunton branch never disappoints
+2642,PEN-DA72C0,10,Friendly and professional staff
+2643,PEN-0822FB,8,Not bad but not the fastest either
+2646,PEN-367CAB,10,Sunton branch never disappoints
+2648,PEN-F0C525,4,Staff were fine but the system is very slow
+2649,PEN-CBE4E5,2,Waited so long I had to leave and come back another day
+2651,PEN-4A5474,5,I left without being attended to at all
+2652,PEN-9E4D25,2,I sat for 2 hours and left without being seen
+2653,PEN-7ED602,5,The lab took forever to process my sample
+2656,PEN-1E82A9,4,I waited too long to see the doctor
+2661,PEN-F3D259,3,Nobody explained why the wait was so long
+2664,PEN-DC15A7,2,I left without being attended to at all
+2666,PEN-909CD4,8,Decent service overall
+2669,PEN-CDD11A,9,The clinical officer was very thorough
+2673,PEN-2D8618,8,"Average experience, could be faster"
+2675,PEN-C57A12,7,Decent service overall
+2676,PEN-E7F189,7,"Service was okay, nothing special"
+2677,PEN-839560,1,Nobody explained why the wait was so long
+2679,PEN-06CC47,6,This has gotten worse over the past few visits
+2680,PEN-B3763B,10,Clean facility and quick consultation
+2682,PEN-BB8839,9,Clean facility and quick consultation
+2685,PEN-D076D5,7,"It was fine, just a bit slow at times"
+2687,PEN-5EE1D5,7,Wait was longer than I would like but staff helped promptly once seen
+2689,PEN-C603A0,8,"Service was okay, nothing special"
+2690,PEN-5404EC,8,Not bad but not the fastest either
+2691,PEN-F49680,7,"Average experience, could be faster"
+2692,PEN-23BFAB,4,Expected faster service given the subscription price
+2693,PEN-DDC5A3,5,I waited too long to see the doctor
+2695,PEN-E20C37,8,"Average experience, could be faster"
+2696,PEN-C7594C,6,"Lab results took over an hour, unacceptable"
+2699,PEN-167804,8,"It was fine, just a bit slow at times"
+2703,PEN-2AFE4B,9,"Quick as always, thank you"
+2705,PEN-6768B9,2,Expected faster service given the subscription price
+2707,PEN-E9F372,4,"Lab results took over an hour, unacceptable"
+2710,PEN-B78F27,10,In and out in under 20 minutes
+2711,PEN-2B2309,9,Sunton branch never disappoints
+2712,PEN-A8B0CE,6,Nobody explained why the wait was so long
+2716,PEN-70D1C4,3,Expected faster service given the subscription price
+2718,PEN-289343,4,Expected faster service given the subscription price
+2719,PEN-366188,4,Expected faster service given the subscription price
+2723,PEN-C1E986,8,Wait was longer than I would like but staff helped promptly once seen
+2729,PEN-EE4DCD,7,A bit of a wait but staff were polite
+2732,PEN-424415,9,Clean facility and quick consultation
+2733,PEN-9561B1,6,"Registration was okay but after that, very long"
+2736,PEN-EB2BB9,5,Nobody explained why the wait was so long
+2742,PEN-9ABE48,4,"Registration was okay but after that, very long"
+2744,PEN-FFAEE4,8,A bit of a wait but staff were polite
+2746,PEN-E21A6D,7,Decent service overall
+2750,PEN-4BED1A,8,"Service was okay, nothing special"
+2751,PEN-AB5986,8,"Average experience, could be faster"
+2756,PEN-98C21D,1,Waited so long I had to leave and come back another day
+2757,PEN-4AA219,3,The lab queue is a nightmare on weekends
+2760,PEN-1F4456,2,Waited so long I had to leave and come back another day
+2761,PEN-734DC7,9,Clean facility and quick consultation
+2762,PEN-64C828,4,"Registration was okay but after that, very long"
+2763,PEN-2320AA,2,"Registration was okay but after that, very long"
+2767,PEN-C96F90,7,Not bad but not the fastest either
+2768,PEN-028ACA,9,Very fast treatment from start to finish
+2770,PEN-D2D5CC,7,Not bad but not the fastest either
+2771,PEN-BF6537,1,I left without being attended to at all
+2772,PEN-0AC096,5,I sat for 2 hours and left without being seen
+2773,PEN-0CEDE8,10,Clean facility and quick consultation
+2774,PEN-62FF4D,2,I left without being seen after waiting too long
+2775,PEN-7ECBAE,6,Why does the pharmacy queue take so long?
+2778,PEN-C556FC,2,Expected faster service given the subscription price
+2779,PEN-52FBAF,3,Staff were fine but the system is very slow
+2783,PEN-429BBA,3,Nobody explained why the wait was so long
+2784,PEN-044488,9,Sunton branch never disappoints
+2786,PEN-967081,7,Not bad but not the fastest either
+2793,PEN-752F70,4,I left without being attended to at all
+2800,PEN-B3508A,3,"Very slow service today, disappointed"
+2805,PEN-26A444,8,"Service was okay, nothing special"
+2806,PEN-F1EEBC,7,"It was fine, just a bit slow at times"
+2811,PEN-2367C2,5,Waited so long I had to leave and come back another day
+2812,PEN-588A0C,9,Impressed by how fast the lab results came
+2813,PEN-AF1038,10,"Smooth process today, no delays"
+2814,PEN-E0E185,8,A bit of a wait but staff were polite
+2818,PEN-C69E59,5,I left without being attended to at all
+2819,PEN-98DD0D,6,I waited too long to see the doctor
+2822,PEN-6C20DD,2,I left without being attended to at all
+2824,PEN-0B58D7,5,The lab took forever to process my sample
+2826,PEN-36BC8B,7,Wait was longer than I would like but staff helped promptly once seen
+2829,PEN-0B3E67,4,This has gotten worse over the past few visits
+2830,PEN-5FE7BB,10,"Short wait, great service"
+2831,PEN-1F0A53,4,Nobody explained why the wait was so long
+2833,PEN-959613,10,Impressed by how fast the lab results came
+2834,PEN-5A016C,5,"Registration was okay but after that, very long"
+2839,PEN-05D83B,9,"Excellent service, very organised"
+2840,PEN-2FF8E1,4,The lab took forever to process my sample
+2842,PEN-D1E5FA,4,The lab queue is a nightmare on weekends
+2845,PEN-719181,8,"Average experience, could be faster"
+2846,PEN-7DDBCB,9,Very fast treatment from start to finish
+2850,PEN-E72E51,9,Clean facility and quick consultation
+2853,PEN-A2A8FE,3,Expected faster service given the subscription price
+2856,PEN-0DC75F,10,The clinical officer was very thorough
+2861,PEN-C297B1,2,Expected faster service given the subscription price
+2863,PEN-4EFADA,4,The lab took forever to process my sample
+2867,PEN-E718F0,9,In and out in under 20 minutes
+2868,PEN-B42ACE,1,I sat for 2 hours and left without being seen
+2871,PEN-8792CD,9,Impressed by how fast the lab results came
+2874,PEN-AB0FF6,8,Not bad but not the fastest either
+2877,PEN-0C3DE4,6,"Very slow service today, disappointed"
+2879,PEN-89FDB6,5,The lab queue is a nightmare on weekends
+2880,PEN-0726EC,9,Pharmacy was quick and staff explained my medication
+2882,PEN-FE95DD,1,I left without being attended to at all
+2891,PEN-BE1D6F,6,"Lab results took over an hour, unacceptable"
+2895,PEN-F33575,4,"Registration was okay but after that, very long"
+2897,PEN-486BBC,2,Staff were fine but the system is very slow
+2903,PEN-0DDB8C,3,The lab queue is a nightmare on weekends
+2909,PEN-21CD06,10,Impressed by how fast the lab results came
+2910,PEN-343D11,8,Wait was longer than I would like but staff helped promptly once seen
+2912,PEN-9C1687,9,Very fast treatment from start to finish
+2914,PEN-AB3530,3,This has gotten worse over the past few visits
+2920,PEN-F02142,10,In and out in under 20 minutes
+2921,PEN-B30849,1,"No one could tell me how much longer it would take, so I left"
+2922,PEN-D9B7CC,3,Waited so long I had to leave and come back another day
+2925,PEN-F01C28,2,"Registration was okay but after that, very long"
+2927,PEN-865DE8,4,Waited so long I had to leave and come back another day
+2931,PEN-1DF4F9,5,"Lab results took over an hour, unacceptable"
+2936,PEN-EDF706,10,"Short wait, great service"
+2938,PEN-153B83,7,"Average experience, could be faster"
+2939,PEN-511162,0,I left without being attended to at all
+2942,PEN-6DA688,9,Impressed by how fast the lab results came
+2946,PEN-21B75E,8,Decent service overall
+2947,PEN-DD7D82,10,Clean facility and quick consultation
+2949,PEN-3311D7,3,Waited so long I had to leave and come back another day
+2950,PEN-9E37A9,4,"Registration was okay but after that, very long"
+2960,PEN-2A19B4,1,Staff were fine but the system is very slow
+2962,PEN-297795,7,Decent service overall
+2963,PEN-5AA6C6,1,The lab queue is a nightmare on weekends
+2965,PEN-348461,3,I sat for 2 hours and left without being seen
+2967,PEN-3B7E9E,10,Clean facility and quick consultation
+2968,PEN-7C4757,9,Clean facility and quick consultation
+2969,PEN-F867A6,4,"Very slow service today, disappointed"
+2974,PEN-5A1FD8,4,"Registration was okay but after that, very long"
+2981,PEN-1FFFC6,8,A bit of a wait but staff were polite
+2982,PEN-BA4F09,0,Expected faster service given the subscription price
+2989,PEN-D5ABE6,10,Friendly and professional staff
+2991,PEN-1CC57D,4,Staff were fine but the system is very slow
+2993,PEN-A55EF5,10,Pharmacy was quick and staff explained my medication
+2994,PEN-462A7E,4,Nobody explained why the wait was so long
+2995,PEN-F12DC5,6,I waited too long to see the doctor
+2998,PEN-9F40F9,10,Very fast treatment from start to finish
+3003,PEN-0FEE55,4,I sat for 2 hours and left without being seen
+3007,PEN-77E639,6,Waited so long I had to leave and come back another day
+3009,PEN-106788,2,The lab queue is a nightmare on weekends
+3014,PEN-F29D1C,8,A bit of a wait but staff were polite
+3019,PEN-3A14A4,5,The lab queue is a nightmare on weekends
+3020,PEN-CEC15A,2,"Lab results took over an hour, unacceptable"
+3021,PEN-F8D7A7,6,Staff were fine but the system is very slow
+3023,PEN-E79DBB,7,"Reasonable wait, friendly staff"
+3025,PEN-21115D,4,"Lab results took over an hour, unacceptable"
+3026,PEN-86D07E,4,I sat for 2 hours and left without being seen
+3027,PEN-EF19FB,6,Waited so long I had to leave and come back another day
+3030,PEN-502E7F,4,I waited too long to see the doctor
+3032,PEN-C9D1C6,7,"It was fine, just a bit slow at times"
+3033,PEN-EF897C,10,Friendly and professional staff
+3042,PEN-05CE68,6,I sat for 2 hours and left without being seen
+3043,PEN-528D05,3,"Lab results took over an hour, unacceptable"
+3045,PEN-5F4A52,9,Impressed by how fast the lab results came
+3048,PEN-DCB95C,3,The lab took forever to process my sample
+3052,PEN-0F9554,4,Too much delay at the clinic
+3053,PEN-F29993,4,I sat for 2 hours and left without being seen
+3055,PEN-0FE422,8,"Reasonable wait, friendly staff"
+3058,PEN-6BC322,3,This has gotten worse over the past few visits
+3059,PEN-59443C,9,The clinical officer was very thorough
+3060,PEN-A87415,7,Not bad but not the fastest either
+3062,PEN-29F49C,3,"Lab results took over an hour, unacceptable"
+3064,PEN-F07388,5,Staff were fine but the system is very slow
+3071,PEN-DCEE8E,3,I waited too long to see the doctor
+3072,PEN-D9F0AC,10,Friendly and professional staff
+3074,PEN-99B8F8,10,Friendly and professional staff
+3077,PEN-5F2125,9,"Smooth process today, no delays"
+3078,PEN-F86F9B,3,Expected faster service given the subscription price
+3082,PEN-EBCC7A,9,Friendly and professional staff
+3085,PEN-4326E8,7,A bit of a wait but staff were polite
+3086,PEN-200B78,8,Not bad but not the fastest either
+3088,PEN-8319D8,7,Wait was longer than I would like but staff helped promptly once seen
+3089,PEN-ED92BC,0,I left without being seen after waiting too long
+3090,PEN-2F4F48,9,In and out in under 20 minutes
+3092,PEN-B1C8E1,6,Too much delay at the clinic
+3094,PEN-F42886,7,Wait was longer than I would like but staff helped promptly once seen
+3097,PEN-087D9F,9,Friendly and professional staff
+3100,PEN-99E242,9,"Quick as always, thank you"
+3104,PEN-81A9A6,2,"Very slow service today, disappointed"
+3105,PEN-B08C0D,4,Nobody explained why the wait was so long
+3106,PEN-B40C79,6,Staff were fine but the system is very slow
+3110,PEN-B9F853,3,Expected faster service given the subscription price
+3112,PEN-ECCE63,6,I left without being attended to at all
+3122,PEN-949FD8,9,Best clinic experience I have had in Nairobi
+3123,PEN-132A99,6,Why does the pharmacy queue take so long?
+3124,PEN-201FE5,3,"No one could tell me how much longer it would take, so I left"
+3127,PEN-9614B0,9,Friendly and professional staff
+3128,PEN-187D06,2,Nobody explained why the wait was so long
+3133,PEN-08A2CC,3,Nobody explained why the wait was so long
+3135,PEN-FC666E,8,Not bad but not the fastest either
+3137,PEN-2DB4D7,5,Nobody explained why the wait was so long
+3140,PEN-2BF0EF,1,Waited so long I had to leave and come back another day
+3142,PEN-59DACA,5,"Very slow service today, disappointed"
+3146,PEN-48905B,8,"Reasonable wait, friendly staff"
+3150,PEN-AFCBD8,5,The lab took forever to process my sample
+3153,PEN-238DEC,4,Waited so long I had to leave and come back another day
+3159,PEN-0416B2,8,A bit of a wait but staff were polite
+3161,PEN-A2ADF1,0,The lab queue is a nightmare on weekends
+3163,PEN-945927,9,"Quick as always, thank you"
+3164,PEN-7B8C9F,10,Pharmacy was quick and staff explained my medication
+3167,PEN-84A12D,4,"Lab results took over an hour, unacceptable"
+3171,PEN-7E7281,4,Why does the pharmacy queue take so long?
+3172,PEN-06506B,4,The lab took forever to process my sample
+3175,PEN-FEE081,6,Staff were fine but the system is very slow
+3179,PEN-9C11BB,2,This has gotten worse over the past few visits
+3180,PEN-05966B,7,"Average experience, could be faster"
+3183,PEN-1555E4,10,Pharmacy was quick and staff explained my medication
+3188,PEN-47894A,4,Too much delay at the clinic
+3192,PEN-BF6177,6,"Lab results took over an hour, unacceptable"
+3194,PEN-D26C6A,7,"It was fine, just a bit slow at times"
+3197,PEN-74D220,6,Expected faster service given the subscription price
+3199,PEN-FA4D95,4,Expected faster service given the subscription price
+3200,PEN-AABDC6,8,"Reasonable wait, friendly staff"
+3201,PEN-814FE4,6,The lab took forever to process my sample
+3202,PEN-CF8627,1,Why does the pharmacy queue take so long?
+3203,PEN-98890D,2,Staff were fine but the system is very slow
+3208,PEN-61CEBF,7,"Average experience, could be faster"
+3211,PEN-D1AF28,9,Very fast treatment from start to finish
+3213,PEN-10E860,8,Decent service overall
+3215,PEN-08CDD1,2,I left without being seen after waiting too long
+3218,PEN-FC8394,7,Not bad but not the fastest either
+3219,PEN-A65D03,9,Best clinic experience I have had in Nairobi
+3222,PEN-F9D30F,6,Too much delay at the clinic
+3223,PEN-A0B4D4,9,"Smooth process today, no delays"
+3227,PEN-A5FB13,4,"Very slow service today, disappointed"
+3229,PEN-7D1D3D,5,The lab took forever to process my sample
+3230,PEN-37B4C3,4,Too much delay at the clinic
+3231,PEN-BBD8CE,3,I left without being attended to at all
+3233,PEN-BC77E3,10,Very fast treatment from start to finish
+3234,PEN-53C181,10,In and out in under 20 minutes
+3237,PEN-54865F,9,Clean facility and quick consultation
+3240,PEN-20860D,4,Waited so long I had to leave and come back another day
+3241,PEN-3A41EA,8,Not bad but not the fastest either
+3247,PEN-CA0870,3,I waited too long to see the doctor
+3253,PEN-87B534,4,This has gotten worse over the past few visits
+3255,PEN-77254E,6,This has gotten worse over the past few visits
+3264,PEN-1FE0E3,9,"Smooth process today, no delays"
+3265,PEN-C850F2,6,I sat for 2 hours and left without being seen
+3267,PEN-942A52,3,The lab took forever to process my sample
+3275,PEN-056388,2,"Registration was okay but after that, very long"
+3276,PEN-F523FC,6,I sat for 2 hours and left without being seen
+3282,PEN-489DEC,3,Waited so long I had to leave and come back another day
+3284,PEN-E1F554,0,"Registration was okay but after that, very long"
+3289,PEN-F91344,10,In and out in under 20 minutes
+3290,PEN-DE1E8D,9,"Smooth process today, no delays"
+3291,PEN-2301AB,8,A bit of a wait but staff were polite
+3292,PEN-8EA09E,2,I sat for 2 hours and left without being seen
+3294,PEN-2FE7A1,8,"Average experience, could be faster"
+3297,PEN-B5E8F7,0,This has gotten worse over the past few visits
+3299,PEN-59A915,9,Very fast treatment from start to finish
+3301,PEN-827604,8,"Reasonable wait, friendly staff"
+3304,PEN-F8993B,9,"Quick as always, thank you"
+3305,PEN-604534,5,"Lab results took over an hour, unacceptable"
+3306,PEN-611257,9,Sunton branch never disappoints
+3308,PEN-DAC555,10,"Excellent service, very organised"
+3311,PEN-F973F1,6,Waited so long I had to leave and come back another day
+3314,PEN-DD3C06,5,The lab took forever to process my sample
+3316,PEN-A2C9CB,8,Wait was longer than I would like but staff helped promptly once seen
+3318,PEN-0FF4D8,1,Gave up waiting and went to another clinic
+3319,PEN-E79F31,5,Nobody explained why the wait was so long
+3321,PEN-D51D4B,3,I sat for 2 hours and left without being seen
+3324,PEN-8C3FA1,7,"Reasonable wait, friendly staff"
+3326,PEN-278BF1,9,Friendly and professional staff
+3328,PEN-224809,5,I sat for 2 hours and left without being seen
+3332,PEN-D4E914,7,"It was fine, just a bit slow at times"
+3334,PEN-2B8863,5,Nobody explained why the wait was so long
+3339,PEN-CECAEA,6,Too much delay at the clinic
+3344,PEN-4AFFD6,9,Very fast treatment from start to finish
+3347,PEN-060189,2,I waited too long to see the doctor
+3348,PEN-4D746B,10,Sunton branch never disappoints
+3349,PEN-B1602C,9,Very fast treatment from start to finish
+3351,PEN-E520EF,10,"Quick as always, thank you"
+3352,PEN-898215,2,Nobody explained why the wait was so long
+3355,PEN-B65880,9,Clean facility and quick consultation
+3357,PEN-26D9B8,3,"Very slow service today, disappointed"
+3358,PEN-5E94A4,9,Pharmacy was quick and staff explained my medication
+3359,PEN-36C5A2,10,Friendly and professional staff
+3360,PEN-E7935E,2,Waited so long I had to leave and come back another day
+3361,PEN-C0CEDD,1,Too much delay at the clinic
+3364,PEN-6FA28E,9,Clean facility and quick consultation
+3365,PEN-BD4902,3,This has gotten worse over the past few visits
+3366,PEN-5F9A77,4,Too much delay at the clinic
+3367,PEN-4A2F72,10,"Short wait, great service"
+3368,PEN-5DB69D,7,"Average experience, could be faster"
+3371,PEN-1C4248,5,Too much delay at the clinic
+3378,PEN-D07F1F,4,"Very slow service today, disappointed"
+3379,PEN-593DEE,4,Expected faster service given the subscription price
+3382,PEN-4550A1,6,The lab took forever to process my sample
+3393,PEN-4E2833,10,Very fast treatment from start to finish
+3394,PEN-8CC641,10,"Smooth process today, no delays"
+3397,PEN-BBCB15,5,Staff were fine but the system is very slow
+3399,PEN-51DD5C,6,"Lab results took over an hour, unacceptable"
+3403,PEN-B88E97,4,I left without being attended to at all
+3404,PEN-06F75C,5,The lab took forever to process my sample
+3408,PEN-E129E9,7,"It was fine, just a bit slow at times"
+3410,PEN-92B11F,10,"Short wait, great service"
+3412,PEN-8DD642,6,Too much delay at the clinic
+3413,PEN-B2687D,9,Clean facility and quick consultation
+3414,PEN-6CE194,5,Staff were fine but the system is very slow
+3421,PEN-671D77,1,The lab took forever to process my sample
+3422,PEN-AD94AD,6,Nobody explained why the wait was so long
+3424,PEN-578947,7,A bit of a wait but staff were polite
+3425,PEN-1AB0DB,9,"Short wait, great service"
+3427,PEN-1ECB4B,0,Staff were fine but the system is very slow
+3428,PEN-4A1F8F,10,Pharmacy was quick and staff explained my medication
+3431,PEN-F084F6,8,"Average experience, could be faster"
+3436,PEN-8CCFA2,4,"Registration was okay but after that, very long"
+3437,PEN-EAC348,7,A bit of a wait but staff were polite
+3440,PEN-B078E5,4,Too much delay at the clinic
+3442,PEN-73F406,5,"Registration was okay but after that, very long"
+3447,PEN-1CF76A,9,In and out in under 20 minutes
+3449,PEN-68B1FD,7,"Reasonable wait, friendly staff"
+3450,PEN-8E790C,7,"Reasonable wait, friendly staff"
+3453,PEN-C52028,4,"Registration was okay but after that, very long"
+3454,PEN-DE0396,5,Nobody explained why the wait was so long
+3455,PEN-598A7C,10,Best clinic experience I have had in Nairobi
+3456,PEN-534E6F,10,The clinical officer was very thorough
+3457,PEN-B99A24,3,I sat for 2 hours and left without being seen
+3458,PEN-836193,2,The lab queue is a nightmare on weekends
+3461,PEN-8CF2F8,8,"Reasonable wait, friendly staff"
+3463,PEN-B022D6,2,The lab queue is a nightmare on weekends
+3469,PEN-16144C,7,"Service was okay, nothing special"
+3470,PEN-3CBEBB,2,The lab took forever to process my sample
+3471,PEN-2A83AC,8,Wait was longer than I would like but staff helped promptly once seen
+3472,PEN-3D6BE1,5,Nobody explained why the wait was so long
+3473,PEN-FCC3DB,7,"Reasonable wait, friendly staff"
+3478,PEN-20DA85,2,I waited too long to see the doctor
+3484,PEN-0F104A,10,Very fast treatment from start to finish
+3485,PEN-192E7E,10,"Excellent service, very organised"
+3486,PEN-575A0E,7,Decent service overall
+3488,PEN-F97E36,4,Nobody explained why the wait was so long
+3491,PEN-6D3BAF,8,"Reasonable wait, friendly staff"
+3492,PEN-56B258,10,Clean facility and quick consultation
+3494,PEN-41F9A5,5,The lab took forever to process my sample
+3497,PEN-B312C9,8,Not bad but not the fastest either
+3501,PEN-908561,6,Waited so long I had to leave and come back another day
+3502,PEN-233E37,10,Sunton branch never disappoints
+3504,PEN-AD7C8F,8,"Reasonable wait, friendly staff"
+3505,PEN-762B06,10,Pharmacy was quick and staff explained my medication
+3507,PEN-C48079,5,Expected faster service given the subscription price
+3513,PEN-CB431D,8,"Reasonable wait, friendly staff"
+3515,PEN-1DE2FD,9,The clinical officer was very thorough
+3516,PEN-00F801,1,Why does the pharmacy queue take so long?
+3517,PEN-2D946E,7,"It was fine, just a bit slow at times"
+3519,PEN-D45614,9,"Smooth process today, no delays"
+3525,PEN-7EDEEE,6,"Lab results took over an hour, unacceptable"
+3527,PEN-7AC4D2,8,"Reasonable wait, friendly staff"
+3530,PEN-643243,7,"Service was okay, nothing special"
+3538,PEN-FC4854,7,Wait was longer than I would like but staff helped promptly once seen
+3541,PEN-BD085E,10,Sunton branch never disappoints
+3544,PEN-4839CB,4,This has gotten worse over the past few visits
+3545,PEN-2C8B91,9,"Excellent service, very organised"
+3550,PEN-4ACEA4,2,Too much delay at the clinic
+3551,PEN-51593B,2,I sat for 2 hours and left without being seen
+3556,PEN-54F348,2,"Lab results took over an hour, unacceptable"
+3559,PEN-327FA7,4,"Registration was okay but after that, very long"
+3561,PEN-4305AD,10,Best clinic experience I have had in Nairobi
+3563,PEN-EC861B,5,This has gotten worse over the past few visits
+3565,PEN-2FB37B,8,Decent service overall
+3566,PEN-BD229A,8,Not bad but not the fastest either
+3570,PEN-28CA87,8,Not bad but not the fastest either
+3573,PEN-7EE2B9,1,Staff were fine but the system is very slow
+3578,PEN-388387,3,Why does the pharmacy queue take so long?
+3579,PEN-AD6B03,3,I left without being attended to at all
+3580,PEN-37DC25,7,"Service was okay, nothing special"
+3581,PEN-A9300D,7,Decent service overall
+3583,PEN-C4BC8B,2,This has gotten worse over the past few visits
+3584,PEN-41E653,9,Impressed by how fast the lab results came
+3585,PEN-33A8D3,8,Not bad but not the fastest either
+3587,PEN-55704D,8,"Average experience, could be faster"
+3591,PEN-1C4C92,8,A bit of a wait but staff were polite
+3594,PEN-D58628,9,"Excellent service, very organised"
+3595,PEN-3FF640,5,This has gotten worse over the past few visits
+3596,PEN-B75E21,4,The lab took forever to process my sample
+3604,PEN-54D394,4,I sat for 2 hours and left without being seen
+3608,PEN-C1A0CE,1,I waited too long to see the doctor
+3612,PEN-6C6B27,9,Friendly and professional staff
+3614,PEN-5B7253,4,Too much delay at the clinic
+3615,PEN-E54892,0,Too much delay at the clinic
+3616,PEN-C90424,10,Best clinic experience I have had in Nairobi
+3617,PEN-21FD20,10,"Excellent service, very organised"
+3618,PEN-23D4A9,2,I left without being attended to at all
+3620,PEN-09B640,6,"Lab results took over an hour, unacceptable"
+3621,PEN-6B4D8E,9,The clinical officer was very thorough
+3623,PEN-09029F,6,Why does the pharmacy queue take so long?
+3627,PEN-C18849,4,Waited so long I had to leave and come back another day
+3628,PEN-0C9687,9,The clinical officer was very thorough
+3629,PEN-20DA77,7,"Service was okay, nothing special"
+3631,PEN-770023,4,The lab took forever to process my sample
+3632,PEN-C88007,10,Pharmacy was quick and staff explained my medication
+3633,PEN-433588,1,This has gotten worse over the past few visits
+3634,PEN-C48EDE,8,A bit of a wait but staff were polite
+3638,PEN-3C000E,8,"Reasonable wait, friendly staff"
+3642,PEN-661D57,7,Decent service overall
+3644,PEN-65B034,9,Very fast treatment from start to finish
+3647,PEN-1754AF,6,This has gotten worse over the past few visits
+3649,PEN-F5D92B,2,Nobody explained why the wait was so long
+3650,PEN-28E5E8,9,"Smooth process today, no delays"
+3663,PEN-7F20D5,6,I left without being attended to at all
+3665,PEN-477C51,8,"Average experience, could be faster"
+3668,PEN-FB656A,7,"Service was okay, nothing special"
+3672,PEN-E30982,10,"Short wait, great service"
+3673,PEN-68AE6B,4,Staff were fine but the system is very slow
+3674,PEN-ED1E18,9,"Quick as always, thank you"
+3675,PEN-CB3213,9,"Quick as always, thank you"
+3678,PEN-B9B89D,4,"No one could tell me how much longer it would take, so I left"
+3680,PEN-8F6AB9,3,"Lab results took over an hour, unacceptable"
+3683,PEN-7475B9,0,I left without being seen after waiting too long
+3686,PEN-329F56,7,Not bad but not the fastest either
+3688,PEN-9256A1,3,Nobody explained why the wait was so long
+3689,PEN-5E73FE,6,"Registration was okay but after that, very long"
+3694,PEN-09EA25,1,This has gotten worse over the past few visits
+3697,PEN-EA335E,4,Too much delay at the clinic
+3704,PEN-3CCB4C,8,Not bad but not the fastest either
+3706,PEN-135C88,5,"Very slow service today, disappointed"
+3708,PEN-11E589,10,"Smooth process today, no delays"
+3711,PEN-F9874C,4,"Registration was okay but after that, very long"
+3712,PEN-8DE62A,4,Too much delay at the clinic
+3713,PEN-0B3CDA,8,Decent service overall
+3715,PEN-0F10B1,5,"Lab results took over an hour, unacceptable"
+3717,PEN-2C217A,4,I left without being attended to at all
+3720,PEN-89E3D5,10,Sunton branch never disappoints
+3722,PEN-9D2B18,4,I waited too long to see the doctor
+3723,PEN-77960D,4,Too much delay at the clinic
+3724,PEN-79BB63,1,The lab took forever to process my sample
+3727,PEN-275276,4,Waited so long I had to leave and come back another day
+3729,PEN-90AAC2,6,"Registration was okay but after that, very long"
+3732,PEN-ECA0E1,4,The lab took forever to process my sample
+3734,PEN-5E4152,5,"Lab results took over an hour, unacceptable"
+3737,PEN-A214E9,3,I waited too long to see the doctor
+3741,PEN-4245B3,5,Staff were fine but the system is very slow
+3746,PEN-F29917,10,Pharmacy was quick and staff explained my medication
+3747,PEN-383EA1,6,This has gotten worse over the past few visits
+3750,PEN-A9B9AB,7,"Reasonable wait, friendly staff"
+3753,PEN-398B6C,10,"Short wait, great service"
+3754,PEN-9D59E2,2,Waited so long I had to leave and come back another day
+3755,PEN-0E6A24,5,Staff were fine but the system is very slow
+3756,PEN-83A552,8,Not bad but not the fastest either
+3758,PEN-E2B2F7,10,"Smooth process today, no delays"
+3759,PEN-74CE26,5,Nobody explained why the wait was so long
+3760,PEN-B3FEDB,7,Not bad but not the fastest either
+3761,PEN-32F4B6,6,Expected faster service given the subscription price
+3762,PEN-9DE9C3,6,The lab took forever to process my sample
+3765,PEN-AC8A26,10,In and out in under 20 minutes
+3767,PEN-B108C3,10,Very fast treatment from start to finish
+3768,PEN-EE1E49,6,The lab queue is a nightmare on weekends
+3770,PEN-077E3B,4,Expected faster service given the subscription price
+3772,PEN-EBEC35,5,I waited too long to see the doctor
+3776,PEN-72D341,4,"Registration was okay but after that, very long"
+3780,PEN-CE7F29,8,A bit of a wait but staff were polite
+3785,PEN-B95AC7,1,"Lab results took over an hour, unacceptable"
+3786,PEN-7D31E1,10,Best clinic experience I have had in Nairobi
+3791,PEN-4B46AA,10,In and out in under 20 minutes
+3793,PEN-90CA48,3,This has gotten worse over the past few visits
+3795,PEN-DA2074,4,I left without being attended to at all
+3797,PEN-F4A72B,2,I waited too long to see the doctor
+3801,PEN-8E806A,6,Why does the pharmacy queue take so long?
+3804,PEN-2B8C4D,8,A bit of a wait but staff were polite
+3805,PEN-1E61BE,7,A bit of a wait but staff were polite
+3807,PEN-5F15FA,9,Friendly and professional staff
+3810,PEN-EAFBD3,7,"Reasonable wait, friendly staff"
+3811,PEN-DC24E7,4,"Registration was okay but after that, very long"
+3812,PEN-A3D97F,7,Not bad but not the fastest either
+3816,PEN-94A522,5,"Lab results took over an hour, unacceptable"
+3819,PEN-93852D,6,"Very slow service today, disappointed"
+3822,PEN-8F1AF1,3,The lab took forever to process my sample
+3825,PEN-00D086,8,Decent service overall
+3826,PEN-9A1FA1,5,I sat for 2 hours and left without being seen
+3832,PEN-F3F176,4,The lab took forever to process my sample
+3835,PEN-DFF4C7,3,Expected faster service given the subscription price
+3841,PEN-295A99,6,Staff were fine but the system is very slow
+3842,PEN-A285DC,7,Not bad but not the fastest either
+3843,PEN-1333BE,7,"Reasonable wait, friendly staff"
+3845,PEN-12075E,9,"Short wait, great service"
+3846,PEN-BB2917,6,"Very slow service today, disappointed"
+3850,PEN-4ABD1B,10,Best clinic experience I have had in Nairobi
+3852,PEN-105E20,5,This has gotten worse over the past few visits
+3855,PEN-E25F90,5,I waited too long to see the doctor
+3857,PEN-53ACA1,3,Nobody explained why the wait was so long
+3859,PEN-300295,4,Why does the pharmacy queue take so long?
+3861,PEN-08DC53,7,"Reasonable wait, friendly staff"
+3863,PEN-46D0A0,7,Not bad but not the fastest either
+3866,PEN-00C69A,8,"Service was okay, nothing special"
+3868,PEN-C3BBD3,2,"Very slow service today, disappointed"
+3871,PEN-24909D,9,Impressed by how fast the lab results came
+3876,PEN-820746,10,The clinical officer was very thorough
+3878,PEN-106C8A,9,Impressed by how fast the lab results came
+3880,PEN-00585B,3,"Lab results took over an hour, unacceptable"
+3883,PEN-F9AAD5,3,I left without being attended to at all
+3886,PEN-6B3586,5,I sat for 2 hours and left without being seen
+3890,PEN-BB97FC,7,"It was fine, just a bit slow at times"
+3893,PEN-269335,2,Gave up waiting and went to another clinic
+3898,PEN-307431,8,A bit of a wait but staff were polite
+3900,PEN-AD0FFF,5,Why does the pharmacy queue take so long?
+3911,PEN-52723F,0,Staff were fine but the system is very slow
+3913,PEN-2A33C4,10,"Quick as always, thank you"
+3916,PEN-7B8BF8,5,Why does the pharmacy queue take so long?
+3917,PEN-CFF172,10,Impressed by how fast the lab results came
+3918,PEN-6E69F5,8,"Service was okay, nothing special"
+3922,PEN-7F360F,5,"Registration was okay but after that, very long"
+3923,PEN-41525C,8,Wait was longer than I would like but staff helped promptly once seen
+3927,PEN-B981AF,10,"Quick as always, thank you"
+3928,PEN-7D2D33,3,This has gotten worse over the past few visits
+3930,PEN-AE6C5A,7,"It was fine, just a bit slow at times"
+3932,PEN-47435E,2,I waited too long to see the doctor
+3934,PEN-1735D6,10,"Excellent service, very organised"
+3936,PEN-5ECEEA,1,Too much delay at the clinic
+3938,PEN-580AA1,9,Very fast treatment from start to finish
+3939,PEN-877F41,1,I left without being attended to at all
+3943,PEN-D4CBE2,9,Clean facility and quick consultation
+3946,PEN-BAFC25,10,"Excellent service, very organised"
+3949,PEN-E33127,10,"Excellent service, very organised"
+3953,PEN-CB3FEB,5,This has gotten worse over the past few visits
+3955,PEN-D2D28C,8,Wait was longer than I would like but staff helped promptly once seen
+3960,PEN-94845F,4,Expected faster service given the subscription price
+3962,PEN-4DFD32,8,Wait was longer than I would like but staff helped promptly once seen
+3964,PEN-9DD96A,6,"Very slow service today, disappointed"
+3965,PEN-F106CE,10,Friendly and professional staff
+3967,PEN-62F8E5,6,Too much delay at the clinic
+3969,PEN-1E107D,3,I sat for 2 hours and left without being seen
+3971,PEN-F2AB22,6,This has gotten worse over the past few visits
+3979,PEN-6DCFE0,0,I waited too long to see the doctor
+3980,PEN-C79423,2,"Registration was okay but after that, very long"
+3981,PEN-1D4A7D,10,Sunton branch never disappoints
+3982,PEN-E5CEC5,10,Clean facility and quick consultation
+3983,PEN-687AA9,0,Why does the pharmacy queue take so long?
+3984,PEN-8BFDAC,3,This has gotten worse over the past few visits
+3985,PEN-6EC26A,4,I left without being attended to at all
+3986,PEN-F3992D,10,"Quick as always, thank you"
+3987,PEN-CECE70,4,Nobody explained why the wait was so long
+3989,PEN-B1DF65,6,"Very slow service today, disappointed"
+3990,PEN-BAA657,4,Too much delay at the clinic
+3991,PEN-C9E994,9,Impressed by how fast the lab results came
+3995,PEN-6A71E8,5,"Registration was okay but after that, very long"
+3996,PEN-D964FB,5,The lab took forever to process my sample
+4002,PEN-CB5C1A,3,Why does the pharmacy queue take so long?
+4006,PEN-CD2036,8,A bit of a wait but staff were polite
+4007,PEN-630976,4,"Lab results took over an hour, unacceptable"
+4014,PEN-8D1422,9,"Quick as always, thank you"
+4018,PEN-36EEA7,6,I left without being attended to at all
+4019,PEN-33FA6C,6,"Lab results took over an hour, unacceptable"
+4021,PEN-B74FF0,4,"Very slow service today, disappointed"
+4023,PEN-A78AB0,6,Staff were fine but the system is very slow
+4025,PEN-50CD20,8,"Service was okay, nothing special"
+4026,PEN-08087F,10,In and out in under 20 minutes
+4031,PEN-E8E0E6,9,"Excellent service, very organised"
+4032,PEN-F78F8D,2,The lab queue is a nightmare on weekends
+4037,PEN-241F37,2,"Very slow service today, disappointed"
+4038,PEN-285795,6,Waited so long I had to leave and come back another day
+4039,PEN-2FF525,1,"Very slow service today, disappointed"
+4041,PEN-C15B37,10,Sunton branch never disappoints
+4042,PEN-4A8B1C,10,The clinical officer was very thorough
+4043,PEN-AD7171,5,"Very slow service today, disappointed"
+4048,PEN-0DF9CE,6,The lab queue is a nightmare on weekends
+4049,PEN-0514D1,8,"Reasonable wait, friendly staff"
+4059,PEN-E7A9D0,8,A bit of a wait but staff were polite
+4069,PEN-BE93EF,4,Expected faster service given the subscription price
+4070,PEN-8BB296,7,Not bad but not the fastest either
+4071,PEN-19DEDF,6,Nobody explained why the wait was so long
+4072,PEN-E2145A,6,I left without being attended to at all
+4076,PEN-F79929,4,I sat for 2 hours and left without being seen
+4077,PEN-4D2206,10,Impressed by how fast the lab results came
+4081,PEN-FDFAE8,1,Too much delay at the clinic
+4083,PEN-FDD07B,1,Expected faster service given the subscription price
+4086,PEN-C59A76,8,A bit of a wait but staff were polite
+4088,PEN-50FF93,3,Expected faster service given the subscription price
+4090,PEN-FDC9E4,6,Too much delay at the clinic
+4093,PEN-67FF22,5,Waited so long I had to leave and come back another day
+4094,PEN-6DE77E,10,Impressed by how fast the lab results came
+4095,PEN-BDEEAE,8,Decent service overall
+4096,PEN-F8B706,9,"Excellent service, very organised"
+4100,PEN-0D0414,6,Why does the pharmacy queue take so long?
+4104,PEN-2A51C4,10,Best clinic experience I have had in Nairobi
+4109,PEN-8CDB19,9,"Quick as always, thank you"
+4111,PEN-951FEF,8,"It was fine, just a bit slow at times"
+4115,PEN-828C1E,5,I sat for 2 hours and left without being seen
+4117,PEN-117381,9,Sunton branch never disappoints
+4118,PEN-6E97B0,10,Very fast treatment from start to finish
+4120,PEN-27C160,7,Not bad but not the fastest either
+4124,PEN-2D8CB8,6,This has gotten worse over the past few visits
+4125,PEN-BAE57E,9,"Short wait, great service"
+4127,PEN-2B0A30,6,Too much delay at the clinic
+4131,PEN-3C1807,3,I sat for 2 hours and left without being seen
+4136,PEN-745E56,6,Expected faster service given the subscription price
+4138,PEN-F1A9D1,3,Waited so long I had to leave and come back another day
+4140,PEN-E9222D,5,The lab queue is a nightmare on weekends
+4142,PEN-14A457,7,Wait was longer than I would like but staff helped promptly once seen
+4143,PEN-66463D,7,"Reasonable wait, friendly staff"
+4150,PEN-728E38,6,I left without being attended to at all
+4153,PEN-9B7C13,0,I left without being seen after waiting too long
+4159,PEN-FF63FD,7,"Reasonable wait, friendly staff"
+4160,PEN-518174,9,"Quick as always, thank you"
+4168,PEN-CEAD1D,9,Friendly and professional staff
+4170,PEN-353C53,4,Expected faster service given the subscription price
+4171,PEN-B4B96A,6,Too much delay at the clinic
+4172,PEN-BB7C9F,10,In and out in under 20 minutes
+4173,PEN-307EE6,3,Staff were fine but the system is very slow
+4176,PEN-260B17,3,I sat for 2 hours and left without being seen
+4178,PEN-3592B5,10,Impressed by how fast the lab results came
+4186,PEN-A80EA5,7,Decent service overall
+4187,PEN-80DF50,5,"Lab results took over an hour, unacceptable"
+4188,PEN-7A68DE,2,The lab took forever to process my sample
+4191,PEN-925E43,8,Not bad but not the fastest either
+4196,PEN-42A30B,9,Very fast treatment from start to finish
+4203,PEN-199D66,2,I left without being attended to at all
+4205,PEN-23B63B,5,"Very slow service today, disappointed"
+4206,PEN-9FC8EE,3,Why does the pharmacy queue take so long?
+4208,PEN-35868E,8,Decent service overall
+4209,PEN-0892C5,10,In and out in under 20 minutes
+4210,PEN-04D762,9,In and out in under 20 minutes
+4213,PEN-D13D97,9,Very fast treatment from start to finish
+4214,PEN-49D820,8,A bit of a wait but staff were polite
+4215,PEN-9189A9,3,Why does the pharmacy queue take so long?
+4217,PEN-15F57A,6,"Very slow service today, disappointed"
+4219,PEN-6427AE,9,"Smooth process today, no delays"
+4220,PEN-37515A,1,I waited too long to see the doctor
+4225,PEN-005013,4,Too much delay at the clinic
+4227,PEN-B0EC06,6,"Lab results took over an hour, unacceptable"
+4228,PEN-D6202E,9,Friendly and professional staff
+4232,PEN-69DCDC,2,Nobody explained why the wait was so long
+4236,PEN-76869D,9,"Short wait, great service"
+4237,PEN-0A20D5,8,A bit of a wait but staff were polite
+4242,PEN-544BB5,8,"Average experience, could be faster"
+4246,PEN-ABCB8C,8,"Average experience, could be faster"
+4252,PEN-9FF7FC,8,Decent service overall
+4255,PEN-51106E,8,Decent service overall
+4257,PEN-41A47C,4,"Very slow service today, disappointed"
+4258,PEN-D88C28,0,Why does the pharmacy queue take so long?
+4260,PEN-7D9E27,7,Not bad but not the fastest either
+4262,PEN-DE8818,7,"Average experience, could be faster"
+4264,PEN-DCCEDF,6,I waited too long to see the doctor
+4267,PEN-A17EC7,2,I sat for 2 hours and left without being seen
+4271,PEN-367835,9,"Quick as always, thank you"
+4279,PEN-E99E8C,2,I waited too long to see the doctor
+4283,PEN-1681F0,3,Staff were fine but the system is very slow
+4286,PEN-0805AA,10,Friendly and professional staff
+4288,PEN-79BFA1,10,Impressed by how fast the lab results came
+4289,PEN-DD72B4,6,"Registration was okay but after that, very long"
+4291,PEN-AA27CE,4,I sat for 2 hours and left without being seen
+4292,PEN-B4FD90,10,Clean facility and quick consultation
+4294,PEN-525437,2,"Lab results took over an hour, unacceptable"
+4295,PEN-12FAFB,4,"Registration was okay but after that, very long"
+4296,PEN-3B6028,10,Sunton branch never disappoints
+4298,PEN-D3CD8E,7,"It was fine, just a bit slow at times"
+4299,PEN-95E9B5,5,"Very slow service today, disappointed"
+4301,PEN-A60014,7,Not bad but not the fastest either
+4302,PEN-C588E8,10,Clean facility and quick consultation
+4309,PEN-AFFB5A,4,I sat for 2 hours and left without being seen
+4312,PEN-0654CE,8,"It was fine, just a bit slow at times"
+4313,PEN-5D0785,3,This has gotten worse over the past few visits
+4314,PEN-B2615C,9,In and out in under 20 minutes
+4317,PEN-06C028,10,"Short wait, great service"
+4321,PEN-3D0069,8,"Reasonable wait, friendly staff"
+4322,PEN-60A8EC,3,"Registration was okay but after that, very long"
+4323,PEN-4CE1A2,7,"Reasonable wait, friendly staff"
+4326,PEN-7728E3,7,"It was fine, just a bit slow at times"
+4328,PEN-EFC8B6,2,"Lab results took over an hour, unacceptable"
+4332,PEN-D03536,9,Very fast treatment from start to finish
+4337,PEN-DB387A,2,Waited so long I had to leave and come back another day
+4339,PEN-0BB1F4,4,This has gotten worse over the past few visits
+4341,PEN-301772,4,"Lab results took over an hour, unacceptable"
+4344,PEN-3B1C45,3,"Lab results took over an hour, unacceptable"
+4347,PEN-C1E656,5,Staff were fine but the system is very slow
+4349,PEN-445AA2,3,Waited so long I had to leave and come back another day
+4350,PEN-378766,10,Clean facility and quick consultation
+4351,PEN-1D74F5,5,The lab queue is a nightmare on weekends
+4352,PEN-3BDD4A,5,"Registration was okay but after that, very long"
+4353,PEN-94BC68,3,This has gotten worse over the past few visits
+4357,PEN-DAADEA,10,Pharmacy was quick and staff explained my medication
+4359,PEN-9F7A1F,1,Too much delay at the clinic
+4360,PEN-6E3331,6,Why does the pharmacy queue take so long?
+4363,PEN-E6701D,4,Staff were fine but the system is very slow
+4364,PEN-F6558D,5,Nobody explained why the wait was so long
+4365,PEN-E09A4C,7,"It was fine, just a bit slow at times"
+4366,PEN-9630FB,8,"Reasonable wait, friendly staff"
+4367,PEN-C26DB7,4,"Very slow service today, disappointed"
+4370,PEN-4B7A0D,4,Staff were fine but the system is very slow
+4372,PEN-376C35,8,Decent service overall
+4373,PEN-92DE57,5,I left without being attended to at all
+4375,PEN-D44753,4,This has gotten worse over the past few visits
+4377,PEN-AC0ED9,2,Too much delay at the clinic
+4379,PEN-3FCAB0,10,"Excellent service, very organised"
+4382,PEN-C01838,10,"Smooth process today, no delays"
+4385,PEN-5F2A27,3,This has gotten worse over the past few visits
+4386,PEN-A89649,9,In and out in under 20 minutes
+4394,PEN-0A6B19,8,"Average experience, could be faster"
+4397,PEN-F29EEC,9,Friendly and professional staff
+4399,PEN-8F146C,7,A bit of a wait but staff were polite
+4401,PEN-F80542,10,Friendly and professional staff
+4404,PEN-493D0E,4,"Registration was okay but after that, very long"
+4406,PEN-262958,5,I left without being attended to at all
+4409,PEN-C1E4DE,4,"Lab results took over an hour, unacceptable"
+4411,PEN-8131AF,8,Decent service overall
+4413,PEN-6BBBF5,0,The lab queue is a nightmare on weekends
+4417,PEN-64D8BA,4,Staff were fine but the system is very slow
+4418,PEN-FF3B80,9,Sunton branch never disappoints
+4419,PEN-F2C478,3,The lab queue is a nightmare on weekends
+4423,PEN-1D8984,6,"Lab results took over an hour, unacceptable"
+4425,PEN-A4413C,4,This has gotten worse over the past few visits
+4429,PEN-CA7018,7,Not bad but not the fastest either
+4430,PEN-E288C6,6,Expected faster service given the subscription price
+4432,PEN-6D7FC1,7,"Service was okay, nothing special"
+4434,PEN-8AC07E,6,Expected faster service given the subscription price
+4435,PEN-48AEBB,8,Not bad but not the fastest either
+4438,PEN-4BFC74,5,"Registration was okay but after that, very long"
+4442,PEN-7D923E,4,The lab took forever to process my sample
+4443,PEN-5778C7,10,Very fast treatment from start to finish
+4444,PEN-9BAF94,3,Waited so long I had to leave and come back another day
+4447,PEN-7DBA82,4,Nobody explained why the wait was so long
+4448,PEN-069427,10,"Short wait, great service"
+4453,PEN-DA9926,7,Wait was longer than I would like but staff helped promptly once seen
+4454,PEN-358094,9,"Excellent service, very organised"
+4455,PEN-334A94,10,"Smooth process today, no delays"
+4458,PEN-572EF9,9,Pharmacy was quick and staff explained my medication
+4460,PEN-9B704B,4,"Very slow service today, disappointed"
+4461,PEN-23DDE3,9,"Short wait, great service"
+4462,PEN-CA0A44,8,"Reasonable wait, friendly staff"
+4463,PEN-3096AC,10,Sunton branch never disappoints
+4466,PEN-AD0A27,7,Not bad but not the fastest either
+4469,PEN-82BBD5,5,Nobody explained why the wait was so long
+4472,PEN-7B7A90,3,I waited too long to see the doctor
+4473,PEN-CAD130,5,"Very slow service today, disappointed"
+4475,PEN-128B05,8,Wait was longer than I would like but staff helped promptly once seen
+4476,PEN-1C64EC,6,Expected faster service given the subscription price
+4477,PEN-E216D5,9,In and out in under 20 minutes
+4482,PEN-9D86BF,7,"It was fine, just a bit slow at times"
+4483,PEN-FA73C1,4,I waited too long to see the doctor
+4486,PEN-22E54F,3,Why does the pharmacy queue take so long?
+4488,PEN-C8A637,8,"Reasonable wait, friendly staff"
+4490,PEN-5B5B4C,4,The lab took forever to process my sample
+4502,PEN-CD3E5C,2,Staff were fine but the system is very slow
+4503,PEN-AB103F,9,"Excellent service, very organised"
+4504,PEN-75EDB9,7,"Service was okay, nothing special"
+4506,PEN-ACC5DB,5,I waited too long to see the doctor
+4512,PEN-098004,6,"Registration was okay but after that, very long"
+4515,PEN-C2A864,5,The lab queue is a nightmare on weekends
+4519,PEN-5F2872,5,"Lab results took over an hour, unacceptable"
+4520,PEN-47FB83,7,"Service was okay, nothing special"
+4521,PEN-70C294,7,Not bad but not the fastest either
+4522,PEN-BB2A30,10,Sunton branch never disappoints
+4525,PEN-6A13FB,7,A bit of a wait but staff were polite
+4527,PEN-E61DB6,8,Decent service overall
+4529,PEN-E2A0F0,5,The lab took forever to process my sample
+4530,PEN-273746,8,"Service was okay, nothing special"
+4531,PEN-32E3F5,8,A bit of a wait but staff were polite
+4535,PEN-593463,7,Decent service overall
+4539,PEN-A476B4,9,"Quick as always, thank you"
+4540,PEN-A90131,8,"Reasonable wait, friendly staff"
+4542,PEN-C9F56A,6,"Registration was okay but after that, very long"
+4544,PEN-15105D,5,Expected faster service given the subscription price
+4547,PEN-C2B75E,8,Not bad but not the fastest either
+4548,PEN-E78A0E,5,Waited so long I had to leave and come back another day
+4550,PEN-605E09,6,"Very slow service today, disappointed"
+4555,PEN-AEB2E5,3,The lab queue is a nightmare on weekends
+4556,PEN-31E784,10,Impressed by how fast the lab results came
+4557,PEN-DF714A,7,"Average experience, could be faster"
+4558,PEN-B865EE,6,Expected faster service given the subscription price
+4562,PEN-EA2927,8,"It was fine, just a bit slow at times"
+4564,PEN-821627,2,"Lab results took over an hour, unacceptable"
+4566,PEN-F0DDEC,3,Staff were fine but the system is very slow
+4567,PEN-983C92,9,"Excellent service, very organised"
+4570,PEN-2AFB2E,6,I waited too long to see the doctor
+4572,PEN-715B0C,10,Clean facility and quick consultation
+4576,PEN-9F2DC1,10,Friendly and professional staff
+4577,PEN-DFBADF,8,Wait was longer than I would like but staff helped promptly once seen
+4579,PEN-818786,9,Pharmacy was quick and staff explained my medication
+4581,PEN-3D3775,8,"It was fine, just a bit slow at times"
+4583,PEN-8CB519,5,"Lab results took over an hour, unacceptable"
+4584,PEN-B11AE6,5,Why does the pharmacy queue take so long?
+4588,PEN-781AC9,4,Why does the pharmacy queue take so long?
+4589,PEN-8F6C63,8,Wait was longer than I would like but staff helped promptly once seen
+4590,PEN-EE1A5B,6,The lab queue is a nightmare on weekends
+4591,PEN-366186,4,Too much delay at the clinic
+4592,PEN-9894D7,9,Very fast treatment from start to finish
+4593,PEN-A445FD,4,Nobody explained why the wait was so long
+4594,PEN-1F31EF,10,Impressed by how fast the lab results came
+4599,PEN-B83530,3,The lab queue is a nightmare on weekends
+4601,PEN-C84AB6,1,Nobody explained why the wait was so long
+4606,PEN-F3517E,8,Decent service overall
+4607,PEN-15773C,5,"Lab results took over an hour, unacceptable"
+4609,PEN-57BAF2,9,In and out in under 20 minutes
+4610,PEN-0C94E4,1,Staff were fine but the system is very slow
+4612,PEN-3BF3C6,4,I waited too long to see the doctor
+4620,PEN-40314E,3,Too much delay at the clinic
+4621,PEN-5F34EF,1,Staff were fine but the system is very slow
+4624,PEN-A4912A,10,Friendly and professional staff
+4625,PEN-911845,1,I left without being attended to at all
+4627,PEN-F36FC1,8,Wait was longer than I would like but staff helped promptly once seen
+4630,PEN-D94E46,1,Why does the pharmacy queue take so long?
+4633,PEN-A08A3D,4,"Lab results took over an hour, unacceptable"
+4634,PEN-2983E6,4,Waited so long I had to leave and come back another day
+4637,PEN-129B73,9,"Excellent service, very organised"
+4638,PEN-A58F6D,1,Waited so long I had to leave and come back another day
+4639,PEN-08C207,9,Friendly and professional staff
+4640,PEN-BAAAE3,9,Clean facility and quick consultation
+4643,PEN-97FA30,9,The clinical officer was very thorough
+4652,PEN-5BECFF,5,I sat for 2 hours and left without being seen
+4656,PEN-1F94D0,5,Waited so long I had to leave and come back another day
+4658,PEN-1F92FB,10,Friendly and professional staff
+4659,PEN-1C126D,5,This has gotten worse over the past few visits
+4660,PEN-E1D8B0,6,I left without being attended to at all
+4663,PEN-A905FA,1,The lab queue is a nightmare on weekends
+4664,PEN-331FC4,5,"Registration was okay but after that, very long"
+4665,PEN-0B8791,3,The lab took forever to process my sample
+4667,PEN-C05A48,4,"Registration was okay but after that, very long"
+4669,PEN-A8F995,10,The clinical officer was very thorough
+4670,PEN-6A0EBA,10,Clean facility and quick consultation
+4673,PEN-FDBF48,8,Not bad but not the fastest either
+4674,PEN-B9A328,1,The lab queue is a nightmare on weekends
+4678,PEN-87E8C3,6,Waited so long I had to leave and come back another day
+4679,PEN-BC11B8,2,Too much delay at the clinic
+4681,PEN-BE5CD9,10,"Excellent service, very organised"
+4682,PEN-57CE79,5,The lab took forever to process my sample
+4684,PEN-BECACC,10,Sunton branch never disappoints
+4687,PEN-3595A1,7,A bit of a wait but staff were polite
+4688,PEN-02281E,3,Too much delay at the clinic
+4689,PEN-CA5F1B,8,Wait was longer than I would like but staff helped promptly once seen
+4690,PEN-08562C,3,Nobody explained why the wait was so long
+4702,PEN-92840F,10,The clinical officer was very thorough
+4703,PEN-A81F2E,4,Too much delay at the clinic
+4704,PEN-458385,7,Not bad but not the fastest either
+4705,PEN-E422F0,7,Not bad but not the fastest either
+4706,PEN-4D34DB,10,Best clinic experience I have had in Nairobi
+4711,PEN-41F099,7,Not bad but not the fastest either
+4714,PEN-13A975,7,Decent service overall
+4716,PEN-DD973A,4,Nobody explained why the wait was so long
+4717,PEN-815FBC,4,Expected faster service given the subscription price
+4719,PEN-70AE69,2,"Registration was okay but after that, very long"
+4724,PEN-F99A92,1,"Registration was okay but after that, very long"
+4725,PEN-C1675C,5,This has gotten worse over the past few visits
+4727,PEN-419BFE,7,"It was fine, just a bit slow at times"
+4728,PEN-6C8F83,1,Waited so long I had to leave and come back another day
+4729,PEN-15DD0F,6,Nobody explained why the wait was so long
+4732,PEN-F15554,4,"Registration was okay but after that, very long"
+4738,PEN-B1CE0E,9,Clean facility and quick consultation
+4742,PEN-0AE6AD,10,Best clinic experience I have had in Nairobi
+4743,PEN-4B490C,6,Expected faster service given the subscription price
+4744,PEN-F0D140,4,I left without being attended to at all
+4747,PEN-83EB62,9,Impressed by how fast the lab results came
+4748,PEN-1B40AF,1,I sat for 2 hours and left without being seen
+4749,PEN-DA5E18,9,"Quick as always, thank you"
+4750,PEN-9C16D4,7,"It was fine, just a bit slow at times"
+4751,PEN-C7540B,10,The clinical officer was very thorough
+4753,PEN-53A4CC,6,I sat for 2 hours and left without being seen
+4754,PEN-4E9A54,9,"Excellent service, very organised"
+4755,PEN-779553,5,"Very slow service today, disappointed"
+4757,PEN-DF2E71,6,I left without being attended to at all
+4758,PEN-6B28D1,1,I left without being attended to at all
+4763,PEN-21971F,8,Wait was longer than I would like but staff helped promptly once seen
+4764,PEN-612395,10,"Short wait, great service"
+4767,PEN-5B1EB1,0,I waited too long to see the doctor
+4769,PEN-8E83C1,8,Decent service overall
+4772,PEN-BA4472,2,The lab queue is a nightmare on weekends
+4778,PEN-DF63DB,8,"Reasonable wait, friendly staff"
+4784,PEN-C0C3D9,2,Waited so long I had to leave and come back another day
+4785,PEN-A77A00,6,Staff were fine but the system is very slow
+4790,PEN-2D220D,9,Very fast treatment from start to finish
+4791,PEN-F470AB,3,Too much delay at the clinic
+4793,PEN-6417A0,5,I left without being attended to at all
+4795,PEN-7CFB15,8,"It was fine, just a bit slow at times"
+4796,PEN-B3CD63,5,The lab queue is a nightmare on weekends
+4797,PEN-E5EF14,10,"Excellent service, very organised"
+4798,PEN-EEA420,7,Wait was longer than I would like but staff helped promptly once seen
+4801,PEN-C2F458,2,Nobody explained why the wait was so long
+4803,PEN-DB93DD,6,Waited so long I had to leave and come back another day
+4807,PEN-8A1EEB,9,Sunton branch never disappoints
+4816,PEN-0E3F64,10,Friendly and professional staff
+4817,PEN-AB732B,8,A bit of a wait but staff were polite
+4818,PEN-AAE5C1,2,"Registration was okay but after that, very long"
+4820,PEN-BC8C61,8,"Reasonable wait, friendly staff"
+4823,PEN-006558,8,"Reasonable wait, friendly staff"
+4825,PEN-6FC1B2,3,The lab queue is a nightmare on weekends
+4826,PEN-CA662F,8,"Service was okay, nothing special"
+4829,PEN-1636A0,4,I waited too long to see the doctor
+4833,PEN-A89B29,10,"Smooth process today, no delays"
+4834,PEN-B6770A,7,Decent service overall
+4836,PEN-F4C825,4,"Very slow service today, disappointed"
+4838,PEN-01E18D,6,The lab queue is a nightmare on weekends
+4840,PEN-5E07DC,9,Friendly and professional staff
+4843,PEN-6B1CEE,8,Wait was longer than I would like but staff helped promptly once seen
+4845,PEN-ED2290,3,"Registration was okay but after that, very long"
+4847,PEN-A46F4F,6,"Very slow service today, disappointed"
+4849,PEN-0EA761,8,"Average experience, could be faster"
+4854,PEN-FFD93E,4,The lab queue is a nightmare on weekends
+4856,PEN-F9D739,9,"Quick as always, thank you"
+4858,PEN-329075,2,Nobody explained why the wait was so long
+4861,PEN-34E8B4,3,I waited too long to see the doctor
+4862,PEN-D18525,4,"Very slow service today, disappointed"
+4863,PEN-C0EBF0,8,Wait was longer than I would like but staff helped promptly once seen
+4866,PEN-0AACF4,2,The lab queue is a nightmare on weekends
+4872,PEN-B64ABA,7,Not bad but not the fastest either
+4873,PEN-DB0F9C,4,"Very slow service today, disappointed"
+4876,PEN-C22D89,10,"Short wait, great service"
+4877,PEN-92F005,10,Sunton branch never disappoints
+4879,PEN-D20F8F,6,Expected faster service given the subscription price
+4882,PEN-5DD7ED,7,"Average experience, could be faster"
+4883,PEN-3F78F1,6,"Very slow service today, disappointed"
+4886,PEN-6419EF,0,Staff were fine but the system is very slow
+4887,PEN-567789,4,I waited too long to see the doctor
+4891,PEN-121795,1,Too much delay at the clinic
+4892,PEN-AE8116,0,The lab queue is a nightmare on weekends
+4893,PEN-FED4A5,9,Sunton branch never disappoints
+4894,PEN-EC1AA6,10,Impressed by how fast the lab results came
+4895,PEN-2424EE,9,Friendly and professional staff
+4898,PEN-BB9DD5,1,The lab took forever to process my sample
+4901,PEN-D0570D,4,The lab queue is a nightmare on weekends
+4903,PEN-BCA6CB,3,Nobody explained why the wait was so long
+4905,PEN-8907DF,3,"Very slow service today, disappointed"
+4907,PEN-B951CB,4,The lab took forever to process my sample
+4908,PEN-638AF0,0,Staff were fine but the system is very slow
+4909,PEN-84949F,6,Expected faster service given the subscription price
+4912,PEN-432390,5,The lab took forever to process my sample
+4919,PEN-0C85F8,9,"Excellent service, very organised"
+4922,PEN-582BF9,9,Very fast treatment from start to finish
+4928,PEN-98E108,9,Sunton branch never disappoints
+4931,PEN-51BE4A,8,"Service was okay, nothing special"
+4932,PEN-414F5B,5,Why does the pharmacy queue take so long?
+4935,PEN-C42F88,1,I left without being attended to at all
+4937,PEN-F75447,7,"Service was okay, nothing special"
+4938,PEN-B1214F,6,This has gotten worse over the past few visits
+4940,PEN-596FDD,8,Decent service overall
+4949,PEN-001885,2,Staff were fine but the system is very slow
+4952,PEN-AADABD,4,"Very slow service today, disappointed"
+4957,PEN-0359DD,3,Nobody explained why the wait was so long
+4958,PEN-96D95D,8,"Average experience, could be faster"
+4959,PEN-1AE985,6,I left without being attended to at all
+4960,PEN-40A21D,8,Not bad but not the fastest either
+4961,PEN-BF957C,10,Best clinic experience I have had in Nairobi
+4963,PEN-1B8089,10,Sunton branch never disappoints
+4964,PEN-0E4B14,3,I left without being attended to at all
+4966,PEN-291498,8,A bit of a wait but staff were polite
+4967,PEN-B8FBA7,3,I waited too long to see the doctor
+4969,PEN-06C420,9,The clinical officer was very thorough
+4972,PEN-C3F428,6,Expected faster service given the subscription price
+4973,PEN-3D145C,3,"Lab results took over an hour, unacceptable"
+4974,PEN-D6DC96,6,"Registration was okay but after that, very long"
+4976,PEN-210C4C,4,The lab took forever to process my sample
+4979,PEN-1B95F3,0,This has gotten worse over the past few visits
+4980,PEN-6FFAE2,4,Why does the pharmacy queue take so long?
+4981,PEN-957B6F,3,Staff were fine but the system is very slow
+4982,PEN-60BA44,9,"Excellent service, very organised"
+4984,PEN-D29080,3,This has gotten worse over the past few visits
+4986,PEN-F6E368,7,"Service was okay, nothing special"
+4987,PEN-394BDC,10,Friendly and professional staff
+4989,PEN-4440A3,7,Not bad but not the fastest either
+4995,PEN-BDDFCE,3,This has gotten worse over the past few visits
+4998,PEN-2CADD3,4,Waited so long I had to leave and come back another day
+5002,PEN-8DE1CF,3,I left without being attended to at all
+5004,PEN-31BE25,2,"Very slow service today, disappointed"
+5006,PEN-4939D7,10,Sunton branch never disappoints
+5010,PEN-08AAB3,1,I waited too long to see the doctor
+5012,PEN-15C7FB,1,Nobody explained why the wait was so long
+5014,PEN-806ED3,10,The clinical officer was very thorough
+5015,PEN-E66AEF,10,Friendly and professional staff
+5018,PEN-49799E,9,Friendly and professional staff
+5020,PEN-F7432D,9,"Quick as always, thank you"
+5022,PEN-60338B,8,A bit of a wait but staff were polite
+5025,PEN-2F9DD7,8,A bit of a wait but staff were polite
+5029,PEN-7FC169,4,This has gotten worse over the past few visits
+5032,PEN-E5EB02,9,In and out in under 20 minutes
+5033,PEN-0DB51E,6,The lab took forever to process my sample
+5038,PEN-B9D21D,2,The lab took forever to process my sample
+5040,PEN-7467AA,10,The clinical officer was very thorough
+5042,PEN-3B0541,8,"Service was okay, nothing special"
+5043,PEN-817379,4,Waited so long I had to leave and come back another day
+5045,PEN-A3BAD9,6,"Registration was okay but after that, very long"
+5050,PEN-D5B2E1,8,Wait was longer than I would like but staff helped promptly once seen
+5052,PEN-D9700B,8,A bit of a wait but staff were polite
+5055,PEN-439CBD,7,Decent service overall
+5056,PEN-559F93,5,Why does the pharmacy queue take so long?
+5059,PEN-094829,0,I waited too long to see the doctor
+5062,PEN-85343F,9,Impressed by how fast the lab results came
+5063,PEN-8BE847,6,Nobody explained why the wait was so long
+5064,PEN-439918,6,Expected faster service given the subscription price
+5067,PEN-DF2C3E,10,"Quick as always, thank you"
+5069,PEN-031512,2,The lab took forever to process my sample
+5073,PEN-CFF9C8,2,Staff were fine but the system is very slow
+5076,PEN-1F0490,2,Expected faster service given the subscription price
+5077,PEN-6D60C8,9,Sunton branch never disappoints
+5082,PEN-698235,5,Nobody explained why the wait was so long
+5086,PEN-5FE351,8,Decent service overall
+5095,PEN-9B01A8,2,Nobody explained why the wait was so long
+5096,PEN-2C3D7B,10,Very fast treatment from start to finish
+5097,PEN-825191,3,Waited so long I had to leave and come back another day
+5099,PEN-F075EF,5,"Registration was okay but after that, very long"
+5101,PEN-F7D1A1,7,Not bad but not the fastest either
+5103,PEN-8938A9,8,"Service was okay, nothing special"
+5105,PEN-FC3B6B,5,The lab took forever to process my sample
+5106,PEN-3B9181,9,Very fast treatment from start to finish
+5111,PEN-F8FD52,5,"Lab results took over an hour, unacceptable"
+5113,PEN-6A2E61,7,"Average experience, could be faster"
+5114,PEN-09CBA9,1,Expected faster service given the subscription price
+5115,PEN-A3471E,7,Not bad but not the fastest either
+5118,PEN-91B373,5,I left without being attended to at all
+5120,PEN-33B979,7,"Service was okay, nothing special"
+5123,PEN-B171AE,2,Staff were fine but the system is very slow
+5124,PEN-305165,4,"Registration was okay but after that, very long"
+5126,PEN-1BA9C0,2,"Lab results took over an hour, unacceptable"
+5128,PEN-1A4A55,5,Too much delay at the clinic
+5129,PEN-B41D58,7,Wait was longer than I would like but staff helped promptly once seen
+5132,PEN-97B2EA,9,Friendly and professional staff
+5133,PEN-5B6071,8,"Reasonable wait, friendly staff"
+5135,PEN-4BE98F,2,The lab queue is a nightmare on weekends
+5138,PEN-4C9155,9,Sunton branch never disappoints
+5144,PEN-6B80DD,3,The lab queue is a nightmare on weekends
+5146,PEN-532BAE,2,The lab queue is a nightmare on weekends
+5148,PEN-7910A1,9,Best clinic experience I have had in Nairobi
+5150,PEN-598CBB,3,"Registration was okay but after that, very long"
+5151,PEN-748A18,5,I sat for 2 hours and left without being seen
+5153,PEN-BD438E,8,Wait was longer than I would like but staff helped promptly once seen
+5154,PEN-DDFBA6,8,"Reasonable wait, friendly staff"
+5159,PEN-6AE36B,8,Decent service overall
+5161,PEN-181B0F,5,I sat for 2 hours and left without being seen
+5164,PEN-330B03,5,Why does the pharmacy queue take so long?
+5165,PEN-D8ADC9,2,I sat for 2 hours and left without being seen
+5166,PEN-CF52BD,6,I waited too long to see the doctor
+5170,PEN-58BC68,3,"Very slow service today, disappointed"
+5171,PEN-30D08D,0,"No one could tell me how much longer it would take, so I left"
+5174,PEN-F17B20,7,Not bad but not the fastest either
+5176,PEN-C3BECC,8,"Reasonable wait, friendly staff"
+5177,PEN-A08D86,8,"Service was okay, nothing special"
+5178,PEN-FE8871,9,Best clinic experience I have had in Nairobi
+5179,PEN-564BE2,8,"Reasonable wait, friendly staff"
+5180,PEN-DD958C,10,Impressed by how fast the lab results came
+5184,PEN-00B27C,3,"Lab results took over an hour, unacceptable"
+5187,PEN-996E4D,2,I waited too long to see the doctor
+5191,PEN-26A6BB,5,I waited too long to see the doctor
+5192,PEN-50A608,10,Best clinic experience I have had in Nairobi
+5193,PEN-17FAD5,3,"Registration was okay but after that, very long"
+5195,PEN-021D8B,5,This has gotten worse over the past few visits
+5196,PEN-8C7886,9,Best clinic experience I have had in Nairobi
+5198,PEN-CAE9DC,5,I sat for 2 hours and left without being seen
+5199,PEN-D769B7,10,Sunton branch never disappoints
+5206,PEN-2012AE,2,Expected faster service given the subscription price
+5208,PEN-6AF25B,8,Wait was longer than I would like but staff helped promptly once seen
+5212,PEN-D43986,8,Not bad but not the fastest either
+5213,PEN-F0E23F,9,"Short wait, great service"
+5216,PEN-BFE296,8,Decent service overall
+5217,PEN-F1A5A6,7,Wait was longer than I would like but staff helped promptly once seen
+5218,PEN-A5065B,4,Too much delay at the clinic
+5219,PEN-AD8FA2,7,Wait was longer than I would like but staff helped promptly once seen
+5220,PEN-615443,10,The clinical officer was very thorough
+5222,PEN-37BB88,4,I waited too long to see the doctor
+5223,PEN-36859E,8,Not bad but not the fastest either
+5224,PEN-BCF1F9,8,Not bad but not the fastest either
+5229,PEN-33AE5E,10,The clinical officer was very thorough
+5231,PEN-D4B5FE,2,I sat for 2 hours and left without being seen
+5235,PEN-399A52,7,Wait was longer than I would like but staff helped promptly once seen
+5236,PEN-F2E3F0,3,Expected faster service given the subscription price
+5237,PEN-58B058,3,"Lab results took over an hour, unacceptable"
+5238,PEN-A951D3,8,Wait was longer than I would like but staff helped promptly once seen
+5239,PEN-155A05,6,Nobody explained why the wait was so long
+5241,PEN-F4A93E,6,I sat for 2 hours and left without being seen
+5245,PEN-DBC737,7,Decent service overall
+5246,PEN-F824DC,1,"Very slow service today, disappointed"
+5248,PEN-AAB9BA,2,Nobody explained why the wait was so long
+5250,PEN-7A7F60,5,"Very slow service today, disappointed"
+5259,PEN-55C01F,9,Pharmacy was quick and staff explained my medication
+5261,PEN-2ACB92,5,Why does the pharmacy queue take so long?
+5262,PEN-742AFE,10,Clean facility and quick consultation
+5266,PEN-5B0D86,6,Nobody explained why the wait was so long
+5270,PEN-FC417C,8,"It was fine, just a bit slow at times"
+5272,PEN-E73136,6,I waited too long to see the doctor
+5275,PEN-064DC2,8,Decent service overall
+5278,PEN-3A42C5,6,"Registration was okay but after that, very long"
+5279,PEN-175A34,1,I waited too long to see the doctor
+5281,PEN-97E278,6,The lab took forever to process my sample
+5284,PEN-858CD1,5,Too much delay at the clinic
+5287,PEN-1A4CAD,10,Very fast treatment from start to finish
+5293,PEN-9001DA,9,Friendly and professional staff
+5295,PEN-F57145,8,"It was fine, just a bit slow at times"
+5296,PEN-3C4D45,4,Too much delay at the clinic
+5298,PEN-7712D5,5,"Lab results took over an hour, unacceptable"
+5299,PEN-5BDB92,8,"Service was okay, nothing special"
+5300,PEN-8FE5CF,5,"Lab results took over an hour, unacceptable"
+5301,PEN-2264C8,10,The clinical officer was very thorough
+5302,PEN-2C9C22,5,This has gotten worse over the past few visits
+5310,PEN-F1BA2D,8,Decent service overall
+5314,PEN-D568F6,6,"Registration was okay but after that, very long"
+5316,PEN-22AC79,9,In and out in under 20 minutes
+5318,PEN-BC24D0,3,Staff were fine but the system is very slow
+5319,PEN-60A813,4,I left without being attended to at all
+5321,PEN-BFB891,7,A bit of a wait but staff were polite
+5324,PEN-6EA695,7,Decent service overall
+5327,PEN-7B8A32,8,Wait was longer than I would like but staff helped promptly once seen
+5330,PEN-BF20D8,10,"Excellent service, very organised"
+5331,PEN-E077F1,5,Staff were fine but the system is very slow
+5332,PEN-9ED5B2,1,Too much delay at the clinic
+5333,PEN-17B8E7,5,"Registration was okay but after that, very long"
+5334,PEN-D42C08,8,Decent service overall
+5336,PEN-C10150,9,"Short wait, great service"
+5337,PEN-B1A91D,10,Clean facility and quick consultation
+5339,PEN-DE7222,8,Not bad but not the fastest either
+5344,PEN-919809,10,Pharmacy was quick and staff explained my medication
+5348,PEN-D3D6EA,5,"Registration was okay but after that, very long"
+5350,PEN-D884C3,7,Decent service overall
+5352,PEN-E4F8C9,6,This has gotten worse over the past few visits
+5353,PEN-CC0AC3,1,Why does the pharmacy queue take so long?
+5360,PEN-9933B8,7,"Reasonable wait, friendly staff"
+5361,PEN-5F0B56,9,"Quick as always, thank you"
+5362,PEN-867FEF,5,I left without being attended to at all
+5365,PEN-1A7DC7,1,"Very slow service today, disappointed"
+5366,PEN-777D30,4,I sat for 2 hours and left without being seen
+5376,PEN-22397A,9,Clean facility and quick consultation
+5378,PEN-53A03E,8,A bit of a wait but staff were polite
+5383,PEN-C7D7C5,10,Impressed by how fast the lab results came
+5385,PEN-42C49C,9,Pharmacy was quick and staff explained my medication
+5386,PEN-6C9E48,1,This has gotten worse over the past few visits
+5387,PEN-E0D4D9,10,Sunton branch never disappoints
+5390,PEN-531027,4,Staff were fine but the system is very slow
+5394,PEN-C31034,8,"Service was okay, nothing special"
+5396,PEN-EA8635,6,Too much delay at the clinic
+5399,PEN-219A11,7,"Service was okay, nothing special"
+5400,PEN-93E240,1,The lab took forever to process my sample
+5401,PEN-8C0511,9,Friendly and professional staff
+5404,PEN-9AFAFD,9,Sunton branch never disappoints
+5405,PEN-5258FE,9,"Short wait, great service"
+5407,PEN-893FF8,4,Nobody explained why the wait was so long
+5410,PEN-1D077F,7,Not bad but not the fastest either
+5411,PEN-DC894F,8,"Reasonable wait, friendly staff"
+5415,PEN-05C296,2,The lab queue is a nightmare on weekends
+5417,PEN-3FEC3E,3,"Lab results took over an hour, unacceptable"
+5419,PEN-31E357,4,"Registration was okay but after that, very long"
+5420,PEN-22F566,2,I sat for 2 hours and left without being seen
+5422,PEN-A4D5FD,10,In and out in under 20 minutes
+5426,PEN-03BA36,4,This has gotten worse over the past few visits
+5429,PEN-A421F7,10,In and out in under 20 minutes
+5431,PEN-6B2E41,10,Sunton branch never disappoints
+5433,PEN-75BF0E,10,Best clinic experience I have had in Nairobi
+5435,PEN-746F2B,7,"Service was okay, nothing special"
+5437,PEN-9FCE1D,3,Nobody explained why the wait was so long
+5438,PEN-BFA93F,3,Waited so long I had to leave and come back another day
+5442,PEN-36D419,5,The lab took forever to process my sample
+5447,PEN-10FE60,7,Decent service overall
+5448,PEN-370E28,4,I left without being attended to at all
+5451,PEN-2F3ABB,8,Not bad but not the fastest either
+5455,PEN-99CCEF,6,"Very slow service today, disappointed"
+5458,PEN-E76CE5,6,"Lab results took over an hour, unacceptable"
+5459,PEN-1F2E02,6,The lab took forever to process my sample
+5460,PEN-B62E30,1,Gave up waiting and went to another clinic
+5466,PEN-6F815E,6,I sat for 2 hours and left without being seen
+5467,PEN-27B32E,6,"Registration was okay but after that, very long"
+5468,PEN-A4EFE8,6,This has gotten worse over the past few visits
+5469,PEN-CA63F2,3,I left without being attended to at all
+5470,PEN-5E66BC,10,Pharmacy was quick and staff explained my medication
+5471,PEN-AF4561,7,"It was fine, just a bit slow at times"
+5472,PEN-AE7403,3,Why does the pharmacy queue take so long?
+5473,PEN-44B66F,4,"Very slow service today, disappointed"
+5475,PEN-1AFE4E,7,"Reasonable wait, friendly staff"
+5476,PEN-883ADF,8,"Service was okay, nothing special"
+5478,PEN-7A86F2,7,"Reasonable wait, friendly staff"
+5480,PEN-C32F32,8,Wait was longer than I would like but staff helped promptly once seen
+5484,PEN-DCF71D,3,"Lab results took over an hour, unacceptable"
+5485,PEN-BD3C3F,7,"Service was okay, nothing special"
+5488,PEN-5156F9,9,Friendly and professional staff
+5490,PEN-43DBCD,4,Why does the pharmacy queue take so long?
+5491,PEN-D059EF,7,Not bad but not the fastest either
+5492,PEN-E966F2,3,Expected faster service given the subscription price
+5495,PEN-F86033,4,"Lab results took over an hour, unacceptable"
+5502,PEN-076A1A,2,Nobody explained why the wait was so long
+5503,PEN-3512C7,4,This has gotten worse over the past few visits
+5507,PEN-8AE21E,5,The lab queue is a nightmare on weekends
+5510,PEN-F8B6EB,7,"It was fine, just a bit slow at times"
+5512,PEN-ADCF54,9,"Excellent service, very organised"
+5514,PEN-6650E0,4,The lab queue is a nightmare on weekends
+5516,PEN-8870E4,6,I waited too long to see the doctor
+5518,PEN-2888EF,8,"It was fine, just a bit slow at times"
+5521,PEN-29C728,1,Nobody explained why the wait was so long
+5523,PEN-056B06,9,"Quick as always, thank you"
+5527,PEN-98242E,9,Sunton branch never disappoints
+5528,PEN-9053F1,2,Staff were fine but the system is very slow
+5530,PEN-2387BB,6,"Lab results took over an hour, unacceptable"
+5533,PEN-B94B4A,10,"Excellent service, very organised"
+5534,PEN-1E8E85,9,"Excellent service, very organised"
+5538,PEN-2F28AC,9,Friendly and professional staff
+5542,PEN-7D9244,10,Clean facility and quick consultation
+5544,PEN-24FC99,2,Expected faster service given the subscription price
+5547,PEN-97E2E4,8,Not bad but not the fastest either
+5549,PEN-5C7E01,5,Staff were fine but the system is very slow
+5563,PEN-DD8784,10,"Excellent service, very organised"
+5564,PEN-267CC3,4,This has gotten worse over the past few visits
+5565,PEN-9C5CDB,9,The clinical officer was very thorough
+5568,PEN-466CED,9,Clean facility and quick consultation
+5572,PEN-2275D5,5,Staff were fine but the system is very slow
+5574,PEN-EE6BFC,10,Best clinic experience I have had in Nairobi
+5575,PEN-10F399,7,Not bad but not the fastest either
+5576,PEN-D82A05,3,This has gotten worse over the past few visits
+5578,PEN-8A2B43,9,"Quick as always, thank you"
+5580,PEN-17ACC3,5,Waited so long I had to leave and come back another day
+5582,PEN-026C90,6,I sat for 2 hours and left without being seen
+5583,PEN-758134,9,Very fast treatment from start to finish
+5586,PEN-54A252,6,"Registration was okay but after that, very long"
+5587,PEN-A80444,3,I waited too long to see the doctor
+5590,PEN-B2E347,4,Waited so long I had to leave and come back another day
+5591,PEN-B96204,9,"Short wait, great service"
+5594,PEN-5BEADA,3,Expected faster service given the subscription price
+5595,PEN-C8BDE5,6,Too much delay at the clinic
+5596,PEN-918CBA,5,Staff were fine but the system is very slow
+5598,PEN-0C59FF,8,Wait was longer than I would like but staff helped promptly once seen
+5600,PEN-CD98E3,10,"Excellent service, very organised"
+5602,PEN-EB568C,7,A bit of a wait but staff were polite
+5603,PEN-F8C6C2,3,"Registration was okay but after that, very long"
+5604,PEN-D87847,7,"It was fine, just a bit slow at times"
+5615,PEN-89D34E,10,"Smooth process today, no delays"
+5616,PEN-6795F7,9,In and out in under 20 minutes
+5623,PEN-9FCF3F,10,Clean facility and quick consultation
+5626,PEN-A65E26,10,"Excellent service, very organised"
+5631,PEN-970C63,7,A bit of a wait but staff were polite
+5635,PEN-373016,8,Decent service overall
+5638,PEN-C4EA32,7,"Average experience, could be faster"
+5639,PEN-BF6731,8,"Average experience, could be faster"
+5644,PEN-E613A8,2,Nobody explained why the wait was so long
+5649,PEN-FFCC8D,5,Staff were fine but the system is very slow
+5651,PEN-65B506,6,I sat for 2 hours and left without being seen
+5656,PEN-7B276C,2,"Lab results took over an hour, unacceptable"
+5659,PEN-12B737,6,The lab took forever to process my sample
+5660,PEN-5F68B0,1,"Lab results took over an hour, unacceptable"
+5670,PEN-294A83,8,"Service was okay, nothing special"
+5671,PEN-88746F,6,Why does the pharmacy queue take so long?
+5673,PEN-55C000,4,Why does the pharmacy queue take so long?
+5675,PEN-BC3FCD,1,"Registration was okay but after that, very long"
+5677,PEN-8CE058,10,Sunton branch never disappoints
+5678,PEN-2ABFCB,2,Staff were fine but the system is very slow
+5682,PEN-3C6525,3,Why does the pharmacy queue take so long?
+5695,PEN-572FCF,10,"Smooth process today, no delays"
+5696,PEN-E0FEF3,7,Not bad but not the fastest either
+5700,PEN-63CE1E,4,Too much delay at the clinic
+5702,PEN-A6C509,9,Impressed by how fast the lab results came
+5703,PEN-B688BC,6,I left without being attended to at all
+5706,PEN-4893D6,10,Sunton branch never disappoints
+5709,PEN-C678FA,3,The lab took forever to process my sample
+5710,PEN-CA6063,4,Nobody explained why the wait was so long
+5711,PEN-C4566B,9,Impressed by how fast the lab results came
+5713,PEN-69CEB6,1,Staff were fine but the system is very slow
+5715,PEN-2EF768,7,"Reasonable wait, friendly staff"
+5716,PEN-AA92B5,8,"Service was okay, nothing special"
+5719,PEN-F9BFF9,0,Why does the pharmacy queue take so long?
+5720,PEN-6571EE,1,I waited too long to see the doctor
+5725,PEN-C69261,3,"Registration was okay but after that, very long"
+5727,PEN-66C92D,6,"Lab results took over an hour, unacceptable"
+5729,PEN-AB1A11,9,Very fast treatment from start to finish
+5730,PEN-AB7E8C,4,I left without being attended to at all
+5731,PEN-9240F3,6,Too much delay at the clinic
+5734,PEN-EDB913,9,Sunton branch never disappoints
+5735,PEN-B6887A,7,Decent service overall
+5738,PEN-7FBB88,8,"Service was okay, nothing special"
+5743,PEN-EBB504,3,Expected faster service given the subscription price
+5745,PEN-84E24A,8,"Average experience, could be faster"
+5746,PEN-4ABEDB,3,"Registration was okay but after that, very long"
+5748,PEN-D34199,7,A bit of a wait but staff were polite
+5749,PEN-EC0B81,5,"Registration was okay but after that, very long"
+5750,PEN-ABAE57,7,Wait was longer than I would like but staff helped promptly once seen
+5753,PEN-6687F4,6,"Lab results took over an hour, unacceptable"
+5754,PEN-145A78,8,Not bad but not the fastest either
+5755,PEN-73E35A,7,"Average experience, could be faster"
+5762,PEN-449192,5,Why does the pharmacy queue take so long?
+5763,PEN-EA0C3C,0,I waited too long to see the doctor
+5764,PEN-18B3B3,3,"Very slow service today, disappointed"
+5766,PEN-99C24D,8,"It was fine, just a bit slow at times"
+5767,PEN-8B20B9,9,Friendly and professional staff
+5769,PEN-47FF09,4,"Very slow service today, disappointed"
+5771,PEN-CFF86B,2,"Very slow service today, disappointed"
+5774,PEN-E8A68E,8,"It was fine, just a bit slow at times"
+5776,PEN-E8B916,9,Clean facility and quick consultation
+5778,PEN-6AE7E4,9,Very fast treatment from start to finish
+5781,PEN-3CB4E2,10,"Smooth process today, no delays"
+5783,PEN-A436E8,5,"Registration was okay but after that, very long"
+5787,PEN-E58449,3,Expected faster service given the subscription price
+5789,PEN-A14C07,10,"Smooth process today, no delays"
+5791,PEN-B3CD76,7,A bit of a wait but staff were polite
+5792,PEN-7A893D,9,Very fast treatment from start to finish
+5795,PEN-169AF1,10,"Short wait, great service"
+5796,PEN-DC241E,9,Clean facility and quick consultation
+5797,PEN-716860,9,Best clinic experience I have had in Nairobi
+5800,PEN-6BCFAC,8,A bit of a wait but staff were polite
+5804,PEN-2CDC8F,8,A bit of a wait but staff were polite
+5808,PEN-696DBF,10,"Short wait, great service"
+5809,PEN-235EA0,9,Impressed by how fast the lab results came
+5810,PEN-5529E4,4,"Very slow service today, disappointed"
+5811,PEN-641799,1,Why does the pharmacy queue take so long?
+5812,PEN-898ABF,4,Waited so long I had to leave and come back another day
+5813,PEN-40D911,7,A bit of a wait but staff were polite
+5816,PEN-1C6A0D,9,"Short wait, great service"
+5818,PEN-174583,9,Friendly and professional staff
+5821,PEN-527416,10,Clean facility and quick consultation
+5822,PEN-F27018,3,Nobody explained why the wait was so long
+5824,PEN-14939C,7,Not bad but not the fastest either
+5825,PEN-B1CC0E,5,This has gotten worse over the past few visits
+5835,PEN-F9A9A7,4,"Very slow service today, disappointed"
+5840,PEN-20C052,8,Decent service overall
+5842,PEN-AF03C8,6,I sat for 2 hours and left without being seen
+5843,PEN-D652CC,8,Decent service overall
+5846,PEN-4994F7,5,Staff were fine but the system is very slow
+5847,PEN-1A2413,2,Expected faster service given the subscription price
+5848,PEN-CEE372,10,The clinical officer was very thorough
+5849,PEN-066618,10,Sunton branch never disappoints
+5850,PEN-654A1F,8,Not bad but not the fastest either
+5854,PEN-6752FB,2,Why does the pharmacy queue take so long?
+5856,PEN-2B08B4,1,Why does the pharmacy queue take so long?
+5859,PEN-D50820,8,"Reasonable wait, friendly staff"
+5861,PEN-2112CC,10,Very fast treatment from start to finish
+5864,PEN-04051F,10,"Short wait, great service"
+5865,PEN-F6F645,0,"Very slow service today, disappointed"
+5866,PEN-4741A4,8,A bit of a wait but staff were polite
+5867,PEN-446BB0,10,In and out in under 20 minutes
+5871,PEN-D84F26,7,Decent service overall
+5872,PEN-CBF363,8,Wait was longer than I would like but staff helped promptly once seen
+5873,PEN-07B3E1,5,This has gotten worse over the past few visits
+5875,PEN-02E75C,2,The lab queue is a nightmare on weekends
+5879,PEN-292751,7,"Service was okay, nothing special"
+5881,PEN-90E41F,3,"Registration was okay but after that, very long"
+5882,PEN-0BA1DF,4,I sat for 2 hours and left without being seen
+5883,PEN-3C34AB,4,Nobody explained why the wait was so long
+5885,PEN-727FB4,8,"Reasonable wait, friendly staff"
+5886,PEN-338737,4,"Registration was okay but after that, very long"
+5895,PEN-1F5D98,3,Why does the pharmacy queue take so long?
+5896,PEN-B78D3D,1,The lab queue is a nightmare on weekends
+5897,PEN-35E31A,6,Expected faster service given the subscription price
+5898,PEN-F2A992,0,The lab queue is a nightmare on weekends
+5900,PEN-BE99FC,9,In and out in under 20 minutes
+5902,PEN-0C17A7,5,I sat for 2 hours and left without being seen
+5906,PEN-ED4581,10,"Quick as always, thank you"
+5915,PEN-0FA28C,8,Not bad but not the fastest either
+5923,PEN-CF7CF7,6,This has gotten worse over the past few visits
+5924,PEN-8615E0,3,"Registration was okay but after that, very long"
+5925,PEN-9579D7,10,In and out in under 20 minutes
+5926,PEN-972E28,4,Gave up waiting and went to another clinic
+5927,PEN-B03A40,5,Staff were fine but the system is very slow
+5928,PEN-5FB286,5,I left without being attended to at all
+5937,PEN-422BBC,8,"Service was okay, nothing special"
+5938,PEN-7D909A,1,Expected faster service given the subscription price
+5939,PEN-7BA840,5,Expected faster service given the subscription price
+5940,PEN-6F537C,5,"Lab results took over an hour, unacceptable"
+5941,PEN-FF6A3C,5,This has gotten worse over the past few visits
+5948,PEN-B27C31,2,"Very slow service today, disappointed"
+5949,PEN-884C01,7,"It was fine, just a bit slow at times"
+5952,PEN-6F1057,5,"Very slow service today, disappointed"
+5953,PEN-2CD322,10,"Short wait, great service"
+5955,PEN-791642,3,"Very slow service today, disappointed"
+5957,PEN-D8C8B0,10,"Excellent service, very organised"
+5961,PEN-09E9BF,4,Why does the pharmacy queue take so long?
+5962,PEN-78446F,4,Waited so long I had to leave and come back another day
+5966,PEN-75B786,7,"It was fine, just a bit slow at times"
+5967,PEN-2959E6,2,Nobody explained why the wait was so long
+5968,PEN-F473EC,8,"It was fine, just a bit slow at times"
+5971,PEN-380668,4,I sat for 2 hours and left without being seen
+5973,PEN-35AB06,7,"It was fine, just a bit slow at times"
+5976,PEN-625DC3,4,Nobody explained why the wait was so long
+5977,PEN-238F60,0,Why does the pharmacy queue take so long?
+5978,PEN-4A8591,9,Best clinic experience I have had in Nairobi
+5982,PEN-E440CE,5,Why does the pharmacy queue take so long?
+5988,PEN-47AE6C,2,Staff were fine but the system is very slow
+5991,PEN-E71E83,5,Expected faster service given the subscription price
+5996,PEN-F0ECF3,8,A bit of a wait but staff were polite
+5997,PEN-C90635,2,Staff were fine but the system is very slow
+6001,PEN-4C2968,3,Too much delay at the clinic
+6003,PEN-B83E78,8,"Reasonable wait, friendly staff"
+6008,PEN-3F1C68,4,Why does the pharmacy queue take so long?
+6009,PEN-9B533A,4,"Registration was okay but after that, very long"
+6019,PEN-2E0323,3,"Lab results took over an hour, unacceptable"
+6023,PEN-02E359,9,"Excellent service, very organised"
+6031,PEN-E90F14,3,Nobody explained why the wait was so long
+6032,PEN-8EA57D,10,"Quick as always, thank you"
+6034,PEN-220EFF,4,The lab took forever to process my sample
+6035,PEN-8BE969,4,I sat for 2 hours and left without being seen
+6036,PEN-0CE94A,3,This has gotten worse over the past few visits
+6038,PEN-870A06,4,Waited so long I had to leave and come back another day
+6039,PEN-5DCB39,5,This has gotten worse over the past few visits
+6040,PEN-2E1ABF,5,I sat for 2 hours and left without being seen
+6043,PEN-71B53B,6,Why does the pharmacy queue take so long?
+6045,PEN-C5128A,2,I waited too long to see the doctor
+6047,PEN-3C7D10,10,In and out in under 20 minutes
+6048,PEN-32938E,8,"Average experience, could be faster"
+6049,PEN-611859,7,"It was fine, just a bit slow at times"
+6052,PEN-BBDA75,2,Expected faster service given the subscription price
+6053,PEN-9378AA,9,Very fast treatment from start to finish
+6066,PEN-AC671F,10,"Excellent service, very organised"
+6070,PEN-1D113A,6,"Lab results took over an hour, unacceptable"
+6072,PEN-EA71DE,5,Expected faster service given the subscription price
+6082,PEN-CD19CD,10,The clinical officer was very thorough
+6085,PEN-AEB749,4,The lab queue is a nightmare on weekends
+6086,PEN-F85378,8,Wait was longer than I would like but staff helped promptly once seen
+6088,PEN-3CBF5B,10,Pharmacy was quick and staff explained my medication
+6090,PEN-764384,3,Staff were fine but the system is very slow
+6093,PEN-9B8210,5,Expected faster service given the subscription price
+6096,PEN-30494B,9,In and out in under 20 minutes
+6100,PEN-956E70,3,The lab queue is a nightmare on weekends
+6103,PEN-31F580,3,Why does the pharmacy queue take so long?
+6106,PEN-AEB977,2,Too much delay at the clinic
+6107,PEN-3AB271,10,Clean facility and quick consultation
+6108,PEN-DBB768,7,"It was fine, just a bit slow at times"
+6109,PEN-5D63A3,9,Pharmacy was quick and staff explained my medication
+6113,PEN-565C29,9,The clinical officer was very thorough
+6114,PEN-AE7CA8,7,"It was fine, just a bit slow at times"
+6118,PEN-AECB7C,4,I left without being attended to at all
+6121,PEN-E487FC,4,The lab queue is a nightmare on weekends
+6123,PEN-D696E1,1,The lab took forever to process my sample
+6125,PEN-946A8A,8,Decent service overall
+6129,PEN-87CF16,8,Decent service overall
+6139,PEN-16922D,8,A bit of a wait but staff were polite
+6140,PEN-1DF4AE,5,This has gotten worse over the past few visits
+6143,PEN-8629C9,10,Sunton branch never disappoints
+6144,PEN-100527,5,I left without being attended to at all
+6149,PEN-2E5563,7,"It was fine, just a bit slow at times"
+6150,PEN-3393E4,10,"Quick as always, thank you"
+6152,PEN-61AA97,6,Expected faster service given the subscription price
+6153,PEN-32C201,4,The lab queue is a nightmare on weekends
+6155,PEN-234337,0,Gave up waiting and went to another clinic
+6157,PEN-275D7F,3,"Very slow service today, disappointed"
+6158,PEN-CC6BC4,8,Decent service overall
+6162,PEN-692B61,10,Sunton branch never disappoints
+6166,PEN-DE0123,1,Nobody explained why the wait was so long
+6168,PEN-F77ED4,5,Waited so long I had to leave and come back another day
+6171,PEN-8157E4,9,Best clinic experience I have had in Nairobi
+6174,PEN-479CC0,10,The clinical officer was very thorough
+6178,PEN-D0F66E,6,Staff were fine but the system is very slow
+6184,PEN-ECB8D2,5,I left without being attended to at all
+6190,PEN-3D36CB,7,"It was fine, just a bit slow at times"
+6192,PEN-0F82E2,0,The lab queue is a nightmare on weekends
+6193,PEN-C95C6D,5,The lab took forever to process my sample
+6196,PEN-BD3109,0,"Registration was okay but after that, very long"
+6197,PEN-4307CA,2,Waited so long I had to leave and come back another day
+6198,PEN-1C38C1,5,The lab took forever to process my sample
+6199,PEN-3C8AC4,9,In and out in under 20 minutes
+6201,PEN-946A7F,3,"Very slow service today, disappointed"
+6214,PEN-F293C1,8,"Reasonable wait, friendly staff"
+6217,PEN-39C007,5,Too much delay at the clinic
+6218,PEN-02C832,2,Nobody explained why the wait was so long
+6219,PEN-0819E9,10,Clean facility and quick consultation
+6224,PEN-08C587,5,Staff were fine but the system is very slow
+6225,PEN-C31341,9,In and out in under 20 minutes
+6226,PEN-D89099,9,"Quick as always, thank you"
+6227,PEN-E44F72,9,Pharmacy was quick and staff explained my medication
+6232,PEN-54C0E9,4,Waited so long I had to leave and come back another day
+6235,PEN-758C6B,7,Not bad but not the fastest either
+6236,PEN-D97DD7,8,"Reasonable wait, friendly staff"
+6245,PEN-17E9F3,9,The clinical officer was very thorough
+6246,PEN-DFDCFA,6,"Lab results took over an hour, unacceptable"
+6247,PEN-0E1401,10,Best clinic experience I have had in Nairobi
+6248,PEN-A61134,3,"Registration was okay but after that, very long"
+6251,PEN-4F60D9,10,Sunton branch never disappoints
+6254,PEN-0CDAB8,4,I left without being attended to at all
+6257,PEN-2133A3,10,Impressed by how fast the lab results came
+6262,PEN-12A15F,5,I left without being attended to at all
+6265,PEN-68DD64,3,"Lab results took over an hour, unacceptable"
+6268,PEN-19DCDC,10,"Smooth process today, no delays"
+6269,PEN-D40B36,3,This has gotten worse over the past few visits
+6273,PEN-0D8A49,1,Why does the pharmacy queue take so long?
+6274,PEN-4340CB,8,Wait was longer than I would like but staff helped promptly once seen
+6276,PEN-BDD775,6,I left without being attended to at all
+6279,PEN-D604A5,5,"Lab results took over an hour, unacceptable"
+6280,PEN-125D5A,1,"Very slow service today, disappointed"
+6282,PEN-ED654E,1,This has gotten worse over the past few visits
+6283,PEN-1C3983,3,I sat for 2 hours and left without being seen
+6284,PEN-127686,3,The lab took forever to process my sample
+6286,PEN-805FCC,5,Waited so long I had to leave and come back another day
+6287,PEN-C7A015,5,"Lab results took over an hour, unacceptable"
+6288,PEN-EF1B2D,6,The lab queue is a nightmare on weekends
+6292,PEN-C6D9C0,4,Why does the pharmacy queue take so long?
+6296,PEN-047F50,4,This has gotten worse over the past few visits
+6300,PEN-C5038D,5,Nobody explained why the wait was so long
+6301,PEN-8628C1,10,Friendly and professional staff
+6302,PEN-667D47,5,Expected faster service given the subscription price
+6303,PEN-45AE0D,8,"Service was okay, nothing special"
+6304,PEN-3D236B,8,Wait was longer than I would like but staff helped promptly once seen
+6309,PEN-58402C,9,Clean facility and quick consultation
+6311,PEN-C565C5,0,"Very slow service today, disappointed"
+6313,PEN-D27B17,3,Waited so long I had to leave and come back another day
+6317,PEN-14F0D6,7,A bit of a wait but staff were polite
+6324,PEN-A26611,3,The lab took forever to process my sample
+6326,PEN-83B5AD,7,"It was fine, just a bit slow at times"
+6328,PEN-BD90DE,9,"Short wait, great service"
+6329,PEN-C24A10,6,Waited so long I had to leave and come back another day
+6332,PEN-D67A9A,2,The lab took forever to process my sample
+6337,PEN-76C4B0,4,I left without being attended to at all
+6338,PEN-80F8EA,9,Very fast treatment from start to finish
+6339,PEN-44ECE6,8,Wait was longer than I would like but staff helped promptly once seen
+6345,PEN-A02D51,9,"Excellent service, very organised"
+6346,PEN-BAD6BA,5,Why does the pharmacy queue take so long?
+6347,PEN-928CD5,9,Very fast treatment from start to finish
+6349,PEN-8E9066,7,"Average experience, could be faster"
+6350,PEN-0E5966,6,Too much delay at the clinic
+6351,PEN-539F08,10,Impressed by how fast the lab results came
+6361,PEN-44FDE4,5,Staff were fine but the system is very slow
+6364,PEN-D9C28C,5,Nobody explained why the wait was so long
+6368,PEN-30AB9B,5,I left without being attended to at all
+6372,PEN-2BB1BD,2,Expected faster service given the subscription price
+6378,PEN-C3BC44,2,Why does the pharmacy queue take so long?
+6379,PEN-B5CB2C,5,Nobody explained why the wait was so long
+6380,PEN-0247A3,4,Expected faster service given the subscription price
+6385,PEN-C3B7B4,7,A bit of a wait but staff were polite
+6386,PEN-C4DBFF,7,"It was fine, just a bit slow at times"
+6387,PEN-FC5E97,8,"It was fine, just a bit slow at times"
+6388,PEN-48B663,5,"Lab results took over an hour, unacceptable"
+6389,PEN-3527CD,3,Nobody explained why the wait was so long
+6391,PEN-F50B16,8,"Average experience, could be faster"
+6392,PEN-CEC2FC,4,I left without being attended to at all
+6395,PEN-C45644,5,I left without being attended to at all
+6396,PEN-C43591,8,A bit of a wait but staff were polite
+6398,PEN-F8C99A,3,Expected faster service given the subscription price
+6403,PEN-D40BFC,9,In and out in under 20 minutes
+6408,PEN-859808,1,Too much delay at the clinic
+6409,PEN-8B6FF0,1,Too much delay at the clinic
+6418,PEN-99240C,8,"Reasonable wait, friendly staff"
+6419,PEN-6E5581,9,Very fast treatment from start to finish
+6421,PEN-8F5024,2,Expected faster service given the subscription price
+6422,PEN-8C398D,5,Waited so long I had to leave and come back another day
+6423,PEN-2A132C,1,Gave up waiting and went to another clinic
+6425,PEN-48B542,5,The lab took forever to process my sample
+6429,PEN-7E0E56,2,I waited too long to see the doctor
+6432,PEN-635C9D,5,I waited too long to see the doctor
+6433,PEN-3553D7,4,The lab queue is a nightmare on weekends
+6441,PEN-D7EEA3,9,"Smooth process today, no delays"
+6445,PEN-47AD10,9,"Quick as always, thank you"
+6447,PEN-945868,6,I left without being attended to at all
+6448,PEN-9270A4,6,This has gotten worse over the past few visits
+6449,PEN-8D4CDE,9,"Quick as always, thank you"
+6453,PEN-61C033,1,Why does the pharmacy queue take so long?
+6461,PEN-455B12,8,Not bad but not the fastest either
+6468,PEN-9752C1,8,"Average experience, could be faster"
+6469,PEN-B36307,8,A bit of a wait but staff were polite
+6475,PEN-F6FB23,7,A bit of a wait but staff were polite
+6483,PEN-07A1DA,8,Wait was longer than I would like but staff helped promptly once seen
+6487,PEN-1B66C7,0,I left without being attended to at all
+6490,PEN-E0779B,10,Best clinic experience I have had in Nairobi
+6493,PEN-85D49E,8,Wait was longer than I would like but staff helped promptly once seen
+6494,PEN-41B9F7,7,"Service was okay, nothing special"
+6496,PEN-9FCE61,7,"Average experience, could be faster"
+6497,PEN-A48114,4,"Lab results took over an hour, unacceptable"
+6498,PEN-C29539,10,In and out in under 20 minutes
+6500,PEN-46205E,0,"No one could tell me how much longer it would take, so I left"
+6501,PEN-83F09F,6,I waited too long to see the doctor
+6503,PEN-CA7F9C,6,Nobody explained why the wait was so long
+6504,PEN-0427E0,5,The lab queue is a nightmare on weekends
+6508,PEN-81DE47,3,"Lab results took over an hour, unacceptable"
+6516,PEN-6EC034,4,Why does the pharmacy queue take so long?
+6520,PEN-04085D,4,Nobody explained why the wait was so long
+6524,PEN-B61BD0,5,Waited so long I had to leave and come back another day
+6525,PEN-BADC79,2,I left without being attended to at all
+6526,PEN-18A6A1,8,"Service was okay, nothing special"
+6528,PEN-409B9A,4,"Lab results took over an hour, unacceptable"
+6529,PEN-5AF2B9,4,Why does the pharmacy queue take so long?
+6532,PEN-267ECD,9,"Short wait, great service"
+6535,PEN-FAE669,1,"Very slow service today, disappointed"
+6537,PEN-1A081F,10,Sunton branch never disappoints
+6541,PEN-47C839,7,"Reasonable wait, friendly staff"
+6542,PEN-CF839F,1,Why does the pharmacy queue take so long?
+6543,PEN-2CE76E,10,"Excellent service, very organised"
+6545,PEN-7993FB,1,Staff were fine but the system is very slow
+6546,PEN-75154A,8,Wait was longer than I would like but staff helped promptly once seen
+6551,PEN-D22E30,7,"It was fine, just a bit slow at times"
+6552,PEN-74D994,1,The lab took forever to process my sample
+6554,PEN-282126,10,"Smooth process today, no delays"
+6555,PEN-E691AA,8,Decent service overall
+6557,PEN-CD3D1C,8,"Average experience, could be faster"
+6558,PEN-6CD343,2,Staff were fine but the system is very slow
+6561,PEN-5B1124,3,"Lab results took over an hour, unacceptable"
+6563,PEN-4918FD,7,Wait was longer than I would like but staff helped promptly once seen
+6567,PEN-AF98B7,7,"It was fine, just a bit slow at times"
+6570,PEN-048CB7,6,This has gotten worse over the past few visits
+6571,PEN-BCCEE5,2,"Lab results took over an hour, unacceptable"
+6574,PEN-9E094B,7,A bit of a wait but staff were polite
+6578,PEN-2297FD,7,"Reasonable wait, friendly staff"
+6579,PEN-1980D9,3,Staff were fine but the system is very slow
+6582,PEN-491E83,6,Why does the pharmacy queue take so long?
+6583,PEN-F9D531,9,Friendly and professional staff
+6584,PEN-5B332F,10,The clinical officer was very thorough
+6585,PEN-62AC75,5,Staff were fine but the system is very slow
+6588,PEN-7EF7F5,8,"Reasonable wait, friendly staff"
+6594,PEN-1C6CC7,10,Clean facility and quick consultation
+6596,PEN-437ACF,8,"It was fine, just a bit slow at times"
+6597,PEN-AEAAF7,8,"It was fine, just a bit slow at times"
+6598,PEN-C54B31,5,Staff were fine but the system is very slow
+6599,PEN-481CBE,2,Staff were fine but the system is very slow
+6602,PEN-15BCBC,3,Why does the pharmacy queue take so long?
+6606,PEN-6C3BBD,5,I left without being attended to at all
+6608,PEN-1704A2,1,Waited so long I had to leave and come back another day
+6615,PEN-984556,9,"Quick as always, thank you"
+6616,PEN-8BFAA3,4,Too much delay at the clinic
+6617,PEN-925944,3,This has gotten worse over the past few visits
+6619,PEN-BC024E,9,Clean facility and quick consultation
+6622,PEN-9DF428,2,Too much delay at the clinic
+6625,PEN-7C5DE5,9,"Short wait, great service"
+6626,PEN-C6638C,7,"It was fine, just a bit slow at times"
+6629,PEN-90E9B0,3,Why does the pharmacy queue take so long?
+6633,PEN-C0F968,7,"Reasonable wait, friendly staff"
+6638,PEN-1CCF3F,10,Best clinic experience I have had in Nairobi
+6639,PEN-0660F2,10,Friendly and professional staff
+6640,PEN-6F49B4,6,Why does the pharmacy queue take so long?
+6645,PEN-B8AD80,10,"Short wait, great service"
+6646,PEN-5961E6,10,"Excellent service, very organised"
+6647,PEN-3E9BAB,7,"Reasonable wait, friendly staff"
+6648,PEN-BC4A32,5,"Very slow service today, disappointed"
+6650,PEN-176BBD,0,Gave up waiting and went to another clinic
+6652,PEN-95830E,7,"It was fine, just a bit slow at times"
+6653,PEN-0DE03C,8,"Service was okay, nothing special"
+6659,PEN-E0A539,10,Clean facility and quick consultation
+6661,PEN-6D6760,5,The lab took forever to process my sample
+6668,PEN-C06CF5,2,Why does the pharmacy queue take so long?
+6671,PEN-C76CE9,10,In and out in under 20 minutes
+6675,PEN-CA2858,1,"Registration was okay but after that, very long"
+6678,PEN-319632,2,I left without being attended to at all
+6683,PEN-E504D5,7,"It was fine, just a bit slow at times"
+6684,PEN-7E6FD9,3,Why does the pharmacy queue take so long?
+6685,PEN-D33DC4,0,Expected faster service given the subscription price
+6686,PEN-854C84,8,Not bad but not the fastest either
+6688,PEN-F0D5C4,7,"It was fine, just a bit slow at times"
+6693,PEN-772148,8,"It was fine, just a bit slow at times"
+6700,PEN-D2F995,7,"Service was okay, nothing special"
+6702,PEN-FF7EEC,10,"Smooth process today, no delays"
+6704,PEN-5C181C,6,"Registration was okay but after that, very long"
+6705,PEN-ED54AC,5,The lab took forever to process my sample
+6708,PEN-FFCB32,4,"Very slow service today, disappointed"
+6709,PEN-027589,10,Pharmacy was quick and staff explained my medication
+6719,PEN-B880A9,3,Staff were fine but the system is very slow
+6724,PEN-01A241,7,"Average experience, could be faster"
+6727,PEN-2C05B5,5,The lab queue is a nightmare on weekends
+6737,PEN-711EC9,6,I waited too long to see the doctor
+6739,PEN-CB10E8,8,"Service was okay, nothing special"
+6740,PEN-4DC86D,0,The lab queue is a nightmare on weekends
+6741,PEN-82CF9A,2,Gave up waiting and went to another clinic
+6748,PEN-0A341A,1,"Lab results took over an hour, unacceptable"
+6753,PEN-D96F9B,8,Not bad but not the fastest either
+6754,PEN-1D7413,10,Clean facility and quick consultation
+6755,PEN-6CD052,2,Expected faster service given the subscription price
+6757,PEN-9D067D,7,Wait was longer than I would like but staff helped promptly once seen
+6758,PEN-2FE87F,5,Too much delay at the clinic
+6763,PEN-33E45E,6,Nobody explained why the wait was so long
+6765,PEN-69BC46,7,Wait was longer than I would like but staff helped promptly once seen
+6769,PEN-9CAE41,7,"Average experience, could be faster"
+6770,PEN-080292,2,I sat for 2 hours and left without being seen
+6771,PEN-5E22D5,6,The lab took forever to process my sample
+6777,PEN-19581C,6,I sat for 2 hours and left without being seen
+6778,PEN-C9856D,9,Best clinic experience I have had in Nairobi
+6786,PEN-F2E12A,8,"Reasonable wait, friendly staff"
+6791,PEN-1E56AA,7,"Reasonable wait, friendly staff"
+6795,PEN-37E658,4,This has gotten worse over the past few visits
+6800,PEN-80EBCE,9,"Excellent service, very organised"
+6801,PEN-E0975C,7,"Average experience, could be faster"
+6802,PEN-AEA01D,10,Impressed by how fast the lab results came
+6810,PEN-77A7ED,6,I sat for 2 hours and left without being seen
+6811,PEN-7F8C4B,7,"Service was okay, nothing special"
+6820,PEN-69AEA0,7,A bit of a wait but staff were polite
+6827,PEN-5C761D,3,The lab queue is a nightmare on weekends
+6829,PEN-6FC131,5,Expected faster service given the subscription price
+6831,PEN-7A11E0,7,"Average experience, could be faster"
+6835,PEN-237EED,2,Why does the pharmacy queue take so long?
+6837,PEN-E3B424,3,This has gotten worse over the past few visits
+6838,PEN-15A0C7,8,"Service was okay, nothing special"
+6840,PEN-3DB573,4,Too much delay at the clinic
+6843,PEN-906B30,5,Why does the pharmacy queue take so long?
+6846,PEN-6E3BE0,9,Sunton branch never disappoints
+6848,PEN-B14EFD,6,Nobody explained why the wait was so long
+6852,PEN-93203A,1,"No one could tell me how much longer it would take, so I left"
+6854,PEN-AC3A4C,4,"Lab results took over an hour, unacceptable"
+6857,PEN-13DABE,8,"Service was okay, nothing special"
+6861,PEN-0EF065,1,This has gotten worse over the past few visits
+6863,PEN-DCDDD4,1,The lab took forever to process my sample
+6864,PEN-D29544,6,"Registration was okay but after that, very long"
+6865,PEN-FA9C8C,8,"Reasonable wait, friendly staff"
+6867,PEN-6A5842,6,Too much delay at the clinic
+6868,PEN-BEFD1D,6,I left without being attended to at all
+6870,PEN-76BC98,5,I left without being attended to at all
+6872,PEN-3E3CBC,10,In and out in under 20 minutes
+6876,PEN-A90A1E,6,This has gotten worse over the past few visits
+6879,PEN-F3B20E,8,"It was fine, just a bit slow at times"
+6880,PEN-CAC626,9,Pharmacy was quick and staff explained my medication
+6882,PEN-0F9F85,9,Sunton branch never disappoints
+6888,PEN-74FAB2,10,In and out in under 20 minutes
+6890,PEN-2CB091,7,Wait was longer than I would like but staff helped promptly once seen
+6897,PEN-183C5D,5,This has gotten worse over the past few visits
+6899,PEN-AB2833,5,"Very slow service today, disappointed"
+6910,PEN-4292F9,3,Expected faster service given the subscription price
+6912,PEN-56042C,7,A bit of a wait but staff were polite
+6918,PEN-652115,4,I left without being attended to at all
+6920,PEN-778229,6,Expected faster service given the subscription price
+6922,PEN-4AEF2F,9,"Smooth process today, no delays"
+6925,PEN-3C3727,8,Not bad but not the fastest either
+6927,PEN-6B6450,9,"Short wait, great service"
+6929,PEN-34970E,6,Waited so long I had to leave and come back another day
+6930,PEN-79CCBF,6,"Registration was okay but after that, very long"
+6938,PEN-746C6A,9,Very fast treatment from start to finish
+6939,PEN-2F44AE,9,Best clinic experience I have had in Nairobi
+6940,PEN-895742,10,Very fast treatment from start to finish
+6942,PEN-039DBE,3,Why does the pharmacy queue take so long?
+6944,PEN-9CC2AD,9,Impressed by how fast the lab results came
+6946,PEN-FD5C3C,9,"Short wait, great service"
+6947,PEN-990829,5,Nobody explained why the wait was so long
+6948,PEN-AD5B4A,0,Gave up waiting and went to another clinic
+6951,PEN-0A64EE,1,The lab took forever to process my sample
+6953,PEN-843627,8,"It was fine, just a bit slow at times"
+6954,PEN-875C8D,10,Very fast treatment from start to finish
+6957,PEN-938400,3,I waited too long to see the doctor
+6960,PEN-5766CF,10,Sunton branch never disappoints
+6965,PEN-8FE61D,4,This has gotten worse over the past few visits
+6967,PEN-EDFF06,10,Friendly and professional staff
+6971,PEN-3433E6,4,"Registration was okay but after that, very long"
+6973,PEN-E18D3D,7,Wait was longer than I would like but staff helped promptly once seen
+6974,PEN-4A68E9,2,Too much delay at the clinic
+6975,PEN-29564B,4,Waited so long I had to leave and come back another day
+6976,PEN-0A4CA2,5,The lab queue is a nightmare on weekends
+6979,PEN-1052ED,10,Friendly and professional staff
+6983,PEN-17805D,6,Expected faster service given the subscription price
+6986,PEN-EDE9F2,9,Sunton branch never disappoints
+6988,PEN-B4664D,7,Decent service overall
+6989,PEN-F673CF,8,Decent service overall
+6992,PEN-8A35CB,7,A bit of a wait but staff were polite
+6996,PEN-F29263,7,A bit of a wait but staff were polite
+6997,PEN-8C0625,10,"Smooth process today, no delays"
+7002,PEN-EC2A80,3,"Very slow service today, disappointed"
+7005,PEN-2C0D0F,2,"Lab results took over an hour, unacceptable"
+7008,PEN-9EF7EB,8,Not bad but not the fastest either
+7009,PEN-A18608,5,Staff were fine but the system is very slow
+7010,PEN-30B7D5,4,The lab took forever to process my sample
+7012,PEN-FD8577,3,The lab queue is a nightmare on weekends
+7013,PEN-B02704,6,"Very slow service today, disappointed"
+7015,PEN-72381C,7,Wait was longer than I would like but staff helped promptly once seen
+7016,PEN-3DBBBD,2,Nobody explained why the wait was so long
+7019,PEN-F35ABC,10,"Short wait, great service"
+7020,PEN-77C51B,10,In and out in under 20 minutes
+7021,PEN-91CF07,4,"Lab results took over an hour, unacceptable"
+7025,PEN-457B00,8,A bit of a wait but staff were polite
+7028,PEN-786AA4,6,Expected faster service given the subscription price
+7029,PEN-C2142D,6,I left without being attended to at all
+7035,PEN-EFB27B,7,"Reasonable wait, friendly staff"
+7036,PEN-C2A812,8,"Reasonable wait, friendly staff"
+7037,PEN-11F87E,8,Wait was longer than I would like but staff helped promptly once seen
+7039,PEN-FFDDDC,8,"Reasonable wait, friendly staff"
+7040,PEN-FAE118,5,Waited so long I had to leave and come back another day
+7043,PEN-E94363,7,"It was fine, just a bit slow at times"
+7046,PEN-4668F9,7,"It was fine, just a bit slow at times"
+7049,PEN-1AE234,4,Nobody explained why the wait was so long
+7050,PEN-90BED0,10,Best clinic experience I have had in Nairobi
+7052,PEN-B596E7,7,Not bad but not the fastest either
+7053,PEN-52D0D8,10,Impressed by how fast the lab results came
+7058,PEN-8A17DA,3,Nobody explained why the wait was so long
+7059,PEN-DCB434,4,The lab queue is a nightmare on weekends
+7061,PEN-DED33C,5,I sat for 2 hours and left without being seen
+7064,PEN-09C3C0,1,Waited so long I had to leave and come back another day
+7065,PEN-5B73E7,4,This has gotten worse over the past few visits
+7070,PEN-4FB7B5,1,Waited so long I had to leave and come back another day
+7071,PEN-67AD2B,3,Waited so long I had to leave and come back another day
+7072,PEN-D17ADE,8,Wait was longer than I would like but staff helped promptly once seen
+7076,PEN-DC097A,7,"It was fine, just a bit slow at times"
+7082,PEN-38E2E8,8,Not bad but not the fastest either
+7085,PEN-606EB1,9,"Short wait, great service"
+7089,PEN-C6B961,7,"It was fine, just a bit slow at times"
+7090,PEN-CC7E6E,10,Friendly and professional staff
+7091,PEN-C65153,9,"Short wait, great service"
+7093,PEN-248A4C,5,Why does the pharmacy queue take so long?
+7095,PEN-E5CCBC,8,"It was fine, just a bit slow at times"
+7098,PEN-2615FD,6,"Lab results took over an hour, unacceptable"
+7099,PEN-14363F,10,The clinical officer was very thorough
+7100,PEN-8F5AF4,5,Too much delay at the clinic
+7102,PEN-6FB2E5,7,Wait was longer than I would like but staff helped promptly once seen
+7104,PEN-C0E08F,10,The clinical officer was very thorough
+7105,PEN-B7446E,6,Why does the pharmacy queue take so long?
+7110,PEN-D99A6A,9,Best clinic experience I have had in Nairobi
+7112,PEN-358F05,4,Waited so long I had to leave and come back another day
+7114,PEN-56968D,1,Expected faster service given the subscription price
+7115,PEN-C1D09C,7,"Service was okay, nothing special"
+7119,PEN-A8006E,5,"Registration was okay but after that, very long"
+7121,PEN-FFA67D,5,I left without being attended to at all
+7124,PEN-0912D7,8,Not bad but not the fastest either
+7127,PEN-F4F654,4,Staff were fine but the system is very slow
+7128,PEN-873472,3,Waited so long I had to leave and come back another day
+7129,PEN-487CA7,4,The lab took forever to process my sample
+7131,PEN-E0D73B,10,Impressed by how fast the lab results came
+7133,PEN-D85E29,2,Gave up waiting and went to another clinic
+7138,PEN-5464EB,7,Wait was longer than I would like but staff helped promptly once seen
+7140,PEN-4E8B11,5,"Very slow service today, disappointed"
+7141,PEN-EAE580,5,I waited too long to see the doctor
+7142,PEN-AFC49B,3,"Registration was okay but after that, very long"
+7146,PEN-143332,5,Too much delay at the clinic
+7147,PEN-B32DD4,8,A bit of a wait but staff were polite
+7148,PEN-9E8CEA,8,"Service was okay, nothing special"
+7150,PEN-6E65BF,6,I waited too long to see the doctor
+7151,PEN-C44362,9,"Excellent service, very organised"
+7152,PEN-C04364,1,Nobody explained why the wait was so long
+7153,PEN-3E03C7,7,Not bad but not the fastest either
+7154,PEN-6B48FD,4,The lab took forever to process my sample
+7156,PEN-569D14,7,"Average experience, could be faster"
+7159,PEN-C1030F,4,Expected faster service given the subscription price
+7164,PEN-EA0C00,7,Not bad but not the fastest either
+7167,PEN-0F8A55,6,"Very slow service today, disappointed"
+7168,PEN-E382CB,1,Expected faster service given the subscription price
+7171,PEN-029F71,7,"Average experience, could be faster"
+7173,PEN-973CFE,4,"Registration was okay but after that, very long"
+7177,PEN-A01E14,4,Nobody explained why the wait was so long
+7178,PEN-6E4CD9,3,"Very slow service today, disappointed"
+7181,PEN-AD26AD,8,"Service was okay, nothing special"
+7183,PEN-8723D6,5,The lab took forever to process my sample
+7188,PEN-B1FD20,6,Why does the pharmacy queue take so long?
+7189,PEN-AD5775,8,"Reasonable wait, friendly staff"
+7190,PEN-C4EDA9,0,Gave up waiting and went to another clinic
+7192,PEN-FD8688,7,Wait was longer than I would like but staff helped promptly once seen
+7195,PEN-45D98D,2,"Lab results took over an hour, unacceptable"
+7198,PEN-FCEB01,2,I waited too long to see the doctor
+7202,PEN-8EDD75,3,Expected faster service given the subscription price
+7203,PEN-29B6B8,9,Best clinic experience I have had in Nairobi
+7205,PEN-F7B907,9,"Smooth process today, no delays"
+7212,PEN-3B7A46,5,I sat for 2 hours and left without being seen
+7218,PEN-47F7EA,3,Too much delay at the clinic
+7219,PEN-174D4D,6,Nobody explained why the wait was so long
+7220,PEN-2A9FFD,9,Pharmacy was quick and staff explained my medication
+7222,PEN-ACB324,5,"Very slow service today, disappointed"
+7223,PEN-6577A3,9,"Smooth process today, no delays"
+7225,PEN-E8FC42,3,Too much delay at the clinic
+7226,PEN-CFB5E0,4,Staff were fine but the system is very slow
+7227,PEN-FAA1F3,2,This has gotten worse over the past few visits
+7233,PEN-52AE8B,4,Staff were fine but the system is very slow
+7234,PEN-D533E1,2,This has gotten worse over the past few visits
+7236,PEN-0F2A08,1,The lab took forever to process my sample
+7240,PEN-6E3552,6,This has gotten worse over the past few visits
+7245,PEN-7D6C53,10,Friendly and professional staff
+7247,PEN-021115,1,Gave up waiting and went to another clinic
+7248,PEN-60913A,8,Decent service overall
+7249,PEN-BA79D5,7,"Service was okay, nothing special"
+7250,PEN-CD86AA,10,Friendly and professional staff
+7251,PEN-55D668,9,"Quick as always, thank you"
+7252,PEN-1F18EE,8,"Service was okay, nothing special"
+7257,PEN-D90F6A,9,"Smooth process today, no delays"
+7260,PEN-2E62AC,8,Wait was longer than I would like but staff helped promptly once seen
+7261,PEN-D9ABF0,8,Decent service overall
+7273,PEN-7FBADD,2,"Very slow service today, disappointed"
+7274,PEN-A9283C,2,"Lab results took over an hour, unacceptable"
+7275,PEN-8185E4,8,"Average experience, could be faster"
+7276,PEN-9E642A,5,The lab queue is a nightmare on weekends
+7278,PEN-21A969,10,The clinical officer was very thorough
+7279,PEN-043811,4,Nobody explained why the wait was so long
+7296,PEN-5D15F4,9,Best clinic experience I have had in Nairobi
+7303,PEN-1406F1,7,Not bad but not the fastest either
+7304,PEN-EDD6DE,8,A bit of a wait but staff were polite
+7305,PEN-EDA833,4,This has gotten worse over the past few visits
+7307,PEN-48884E,8,Wait was longer than I would like but staff helped promptly once seen
+7310,PEN-A82613,3,I sat for 2 hours and left without being seen
+7311,PEN-841737,9,"Short wait, great service"
+7312,PEN-1707C2,4,The lab took forever to process my sample
+7313,PEN-3F490A,9,Very fast treatment from start to finish
+7316,PEN-EFC392,4,Expected faster service given the subscription price
+7318,PEN-D61256,5,I waited too long to see the doctor
+7322,PEN-D32024,7,Not bad but not the fastest either
+7324,PEN-75DF89,8,Not bad but not the fastest either
+7325,PEN-00C119,10,Clean facility and quick consultation
+7328,PEN-7673DD,1,"Very slow service today, disappointed"
+7329,PEN-2392E7,5,Too much delay at the clinic
+7337,PEN-5346A5,2,The lab queue is a nightmare on weekends
+7340,PEN-0F9906,3,Staff were fine but the system is very slow
+7341,PEN-7EBC2D,8,"Service was okay, nothing special"
+7342,PEN-26895F,5,Nobody explained why the wait was so long
+7348,PEN-F041E4,5,I left without being attended to at all
+7349,PEN-BE6F9C,8,"Reasonable wait, friendly staff"
+7350,PEN-8C74F4,2,Expected faster service given the subscription price
+7351,PEN-3846E3,8,Wait was longer than I would like but staff helped promptly once seen
+7352,PEN-A7204E,0,Nobody explained why the wait was so long
+7353,PEN-092C07,9,"Short wait, great service"
+7354,PEN-3F564D,3,I left without being attended to at all
+7356,PEN-798EEE,8,"It was fine, just a bit slow at times"
+7359,PEN-400282,9,Pharmacy was quick and staff explained my medication
+7361,PEN-9B52A3,10,Friendly and professional staff
+7362,PEN-0AF397,9,"Excellent service, very organised"
+7363,PEN-47B804,7,"It was fine, just a bit slow at times"
+7365,PEN-89095B,6,This has gotten worse over the past few visits
+7366,PEN-D6E85E,0,I waited too long to see the doctor
+7367,PEN-10F5DD,8,A bit of a wait but staff were polite
+7368,PEN-00EFAB,8,A bit of a wait but staff were polite
+7369,PEN-1537AE,8,Not bad but not the fastest either
+7370,PEN-B76414,7,"Average experience, could be faster"
+7374,PEN-05E5D0,8,"Average experience, could be faster"
+7376,PEN-DDD507,2,I waited too long to see the doctor
+7384,PEN-FAB937,8,"It was fine, just a bit slow at times"
+7390,PEN-9B75E4,9,The clinical officer was very thorough
+7391,PEN-A5E88A,1,Too much delay at the clinic
+7395,PEN-226B7A,1,The lab queue is a nightmare on weekends
+7396,PEN-0D07D3,7,Not bad but not the fastest either
+7401,PEN-207D38,8,Not bad but not the fastest either
+7407,PEN-181D68,4,"Lab results took over an hour, unacceptable"
+7408,PEN-D36908,9,Clean facility and quick consultation
+7409,PEN-B60947,7,"It was fine, just a bit slow at times"
+7411,PEN-571829,7,"Reasonable wait, friendly staff"
+7412,PEN-F9A615,3,I waited too long to see the doctor
+7414,PEN-E19B49,3,This has gotten worse over the past few visits
+7416,PEN-3A4A40,5,Staff were fine but the system is very slow
+7422,PEN-F42B29,1,"Very slow service today, disappointed"
+7423,PEN-5AE680,7,Wait was longer than I would like but staff helped promptly once seen
+7426,PEN-1C0642,8,"Average experience, could be faster"
+7428,PEN-43A279,8,"Average experience, could be faster"
+7430,PEN-0BC466,7,"It was fine, just a bit slow at times"
+7431,PEN-5720E9,4,Why does the pharmacy queue take so long?
+7434,PEN-C394EC,8,Not bad but not the fastest either
+7440,PEN-450B68,10,"Excellent service, very organised"
+7441,PEN-8082F3,10,"Quick as always, thank you"
+7445,PEN-1A921F,9,The clinical officer was very thorough
+7448,PEN-C61AD1,7,"Average experience, could be faster"
+7451,PEN-9E7165,3,"Registration was okay but after that, very long"
+7454,PEN-0C5316,4,Too much delay at the clinic
+7456,PEN-43EB6F,4,"Registration was okay but after that, very long"
+7457,PEN-EEF978,8,Wait was longer than I would like but staff helped promptly once seen
+7459,PEN-CDA9C6,10,Friendly and professional staff
+7464,PEN-15DBF8,8,Decent service overall
+7466,PEN-2ABA0F,5,Expected faster service given the subscription price
+7467,PEN-3ED425,10,In and out in under 20 minutes
+7469,PEN-8D00C6,10,In and out in under 20 minutes
+7473,PEN-35B895,6,Waited so long I had to leave and come back another day
+7475,PEN-073F0A,4,The lab queue is a nightmare on weekends
+7478,PEN-1F7948,4,I waited too long to see the doctor
+7480,PEN-85E2DF,8,"Service was okay, nothing special"
+7484,PEN-AA5960,7,Decent service overall
+7487,PEN-4C237B,7,Decent service overall
+7488,PEN-A9F8B7,2,Staff were fine but the system is very slow
+7491,PEN-3A6B97,8,"Average experience, could be faster"
+7492,PEN-3A460F,8,"It was fine, just a bit slow at times"
+7498,PEN-4D97C1,10,Clean facility and quick consultation
+7500,PEN-E91D99,4,Staff were fine but the system is very slow
+7501,PEN-D7819A,6,Staff were fine but the system is very slow
+7503,PEN-0DE684,4,Waited so long I had to leave and come back another day
+7504,PEN-53B0A2,9,"Excellent service, very organised"
+7505,PEN-05F217,9,In and out in under 20 minutes
+7506,PEN-CB0E07,4,Staff were fine but the system is very slow
+7508,PEN-1A9C72,6,Why does the pharmacy queue take so long?
+7511,PEN-0AF8DD,2,This has gotten worse over the past few visits
+7514,PEN-D72414,4,Expected faster service given the subscription price
+7518,PEN-D7878E,3,I sat for 2 hours and left without being seen
+7521,PEN-07F50E,6,Waited so long I had to leave and come back another day
+7522,PEN-7D6AB4,6,The lab queue is a nightmare on weekends
+7524,PEN-A149F0,8,"Service was okay, nothing special"
+7527,PEN-6C77D2,10,The clinical officer was very thorough
+7528,PEN-43FACC,8,A bit of a wait but staff were polite
+7531,PEN-BE2ADF,9,Very fast treatment from start to finish
+7532,PEN-A2A47E,6,I left without being attended to at all
+7534,PEN-85985E,7,"Service was okay, nothing special"
+7541,PEN-C81D67,7,Decent service overall
+7545,PEN-8EE061,9,"Quick as always, thank you"
+7549,PEN-06518F,2,"Registration was okay but after that, very long"
+7550,PEN-C2800B,6,Too much delay at the clinic
+7551,PEN-9E332B,9,Best clinic experience I have had in Nairobi
+7555,PEN-E3CBF1,2,"Very slow service today, disappointed"
+7556,PEN-AB6AE2,8,A bit of a wait but staff were polite
+7560,PEN-092F70,6,The lab queue is a nightmare on weekends
+7561,PEN-73BD36,10,Best clinic experience I have had in Nairobi
+7564,PEN-C63ECF,9,Impressed by how fast the lab results came
+7565,PEN-AE0E67,3,Too much delay at the clinic
+7567,PEN-ADAC79,6,I left without being attended to at all
+7568,PEN-913330,2,I waited too long to see the doctor
+7570,PEN-A600C0,3,The lab queue is a nightmare on weekends
+7574,PEN-617C43,6,Expected faster service given the subscription price
+7578,PEN-31B262,3,I waited too long to see the doctor
+7582,PEN-0EC82E,6,"Very slow service today, disappointed"
+7586,PEN-262F5D,3,Too much delay at the clinic
+7587,PEN-31A7D8,6,"Lab results took over an hour, unacceptable"
+7589,PEN-FA8939,2,"Very slow service today, disappointed"
+7592,PEN-EF6C9E,6,This has gotten worse over the past few visits
+7593,PEN-42CC52,8,"It was fine, just a bit slow at times"
+7594,PEN-F9B747,7,Not bad but not the fastest either
+7595,PEN-1D783F,8,A bit of a wait but staff were polite
+7596,PEN-B61DE0,2,Staff were fine but the system is very slow
+7599,PEN-241353,10,In and out in under 20 minutes
+7600,PEN-C4087F,6,Waited so long I had to leave and come back another day
+7601,PEN-26D63F,7,Wait was longer than I would like but staff helped promptly once seen
+7604,PEN-C9979D,5,The lab took forever to process my sample
+7606,PEN-EB2DC6,5,Why does the pharmacy queue take so long?
+7607,PEN-69C445,9,Very fast treatment from start to finish
+7608,PEN-7EEF3B,3,"Registration was okay but after that, very long"
+7610,PEN-1C40C1,10,"Excellent service, very organised"
+7611,PEN-428447,10,Sunton branch never disappoints
+7612,PEN-7E5F5A,9,Clean facility and quick consultation
+7613,PEN-B1EF4D,4,Staff were fine but the system is very slow
+7614,PEN-C710FA,10,"Excellent service, very organised"
+7615,PEN-3F2258,2,Staff were fine but the system is very slow
+7618,PEN-427926,3,The lab queue is a nightmare on weekends
+7620,PEN-E69D55,10,"Quick as always, thank you"
+7625,PEN-351E8E,4,Why does the pharmacy queue take so long?
+7626,PEN-311062,9,The clinical officer was very thorough
+7627,PEN-9A4AF3,9,"Smooth process today, no delays"
+7629,PEN-22AE86,3,Nobody explained why the wait was so long
+7630,PEN-98CA27,9,"Smooth process today, no delays"
+7631,PEN-D73622,4,Too much delay at the clinic
+7632,PEN-8CAF09,8,Decent service overall
+7633,PEN-5A0E29,10,Clean facility and quick consultation
+7636,PEN-63D2C9,0,I left without being attended to at all
+7637,PEN-558213,6,Nobody explained why the wait was so long
+7638,PEN-4C761F,8,"Average experience, could be faster"
+7639,PEN-9C68A9,8,"Service was okay, nothing special"
+7643,PEN-428908,3,Waited so long I had to leave and come back another day
+7646,PEN-D16741,5,Staff were fine but the system is very slow
+7648,PEN-488187,6,Nobody explained why the wait was so long
+7649,PEN-023A4D,7,"Reasonable wait, friendly staff"
+7651,PEN-CD666B,8,"Reasonable wait, friendly staff"
+7658,PEN-3EAE54,1,"No one could tell me how much longer it would take, so I left"
+7659,PEN-400CA1,5,"Lab results took over an hour, unacceptable"
+7664,PEN-C4F17A,2,I sat for 2 hours and left without being seen
+7668,PEN-BCF3C5,4,"Very slow service today, disappointed"
+7669,PEN-DC78E1,5,"Registration was okay but after that, very long"
+7670,PEN-C1889C,1,Too much delay at the clinic
+7673,PEN-A3B836,3,"Registration was okay but after that, very long"
+7675,PEN-1645E5,9,Pharmacy was quick and staff explained my medication
+7676,PEN-B659AA,8,Wait was longer than I would like but staff helped promptly once seen
+7678,PEN-805093,3,The lab took forever to process my sample
+7679,PEN-C36813,7,Decent service overall
+7681,PEN-9FD97C,2,I left without being attended to at all
+7685,PEN-A2C0F7,6,"Registration was okay but after that, very long"
+7689,PEN-D8AE11,3,I sat for 2 hours and left without being seen
+7691,PEN-68E1DE,0,Why does the pharmacy queue take so long?
+7692,PEN-3F6B8E,3,I sat for 2 hours and left without being seen
+7697,PEN-336690,5,I sat for 2 hours and left without being seen
+7700,PEN-CFE04A,6,This has gotten worse over the past few visits
+7704,PEN-1DB4ED,5,This has gotten worse over the past few visits
+7705,PEN-4A1876,0,Why does the pharmacy queue take so long?
+7707,PEN-E2127D,8,Decent service overall
+7709,PEN-187C7D,9,Best clinic experience I have had in Nairobi
+7713,PEN-AD201A,9,Sunton branch never disappoints
+7718,PEN-CB3EAC,1,The lab queue is a nightmare on weekends
+7722,PEN-8325B2,6,Staff were fine but the system is very slow
+7723,PEN-98AB7A,10,"Excellent service, very organised"
+7724,PEN-13F35F,4,"Very slow service today, disappointed"
+7730,PEN-FE1CC4,8,"Service was okay, nothing special"
+7736,PEN-08C7CE,6,I waited too long to see the doctor
+7738,PEN-8B94E6,7,"It was fine, just a bit slow at times"
+7744,PEN-09D319,10,"Quick as always, thank you"
+7745,PEN-50EE53,2,I sat for 2 hours and left without being seen
+7748,PEN-A70892,10,Sunton branch never disappoints
+7749,PEN-800E89,7,"Average experience, could be faster"
+7753,PEN-1F7BB2,2,"Lab results took over an hour, unacceptable"
+7756,PEN-7A2E0F,10,"Smooth process today, no delays"
+7757,PEN-459404,10,"Excellent service, very organised"
+7759,PEN-A71F29,8,Not bad but not the fastest either
+7761,PEN-4E0703,7,Not bad but not the fastest either
+7763,PEN-AC7C27,1,Too much delay at the clinic
+7765,PEN-8772AB,9,In and out in under 20 minutes
+7768,PEN-B60D13,7,"Average experience, could be faster"
+7773,PEN-001F86,2,The lab queue is a nightmare on weekends
+7777,PEN-999A58,4,"Very slow service today, disappointed"
+7778,PEN-282AB7,8,"Service was okay, nothing special"
+7781,PEN-ED5239,7,"Service was okay, nothing special"
+7782,PEN-55A6D0,7,"Average experience, could be faster"
+7783,PEN-F037C1,7,"Average experience, could be faster"
+7785,PEN-C65EA0,6,This has gotten worse over the past few visits
+7786,PEN-F48DB8,7,"Service was okay, nothing special"
+7788,PEN-ED64A3,9,Pharmacy was quick and staff explained my medication
+7793,PEN-DBACE7,5,"Registration was okay but after that, very long"
+7797,PEN-11BF26,7,Decent service overall
+7799,PEN-93846B,4,I left without being attended to at all
+7801,PEN-05F3B1,3,The lab took forever to process my sample
+7805,PEN-2526FD,4,I sat for 2 hours and left without being seen
+7807,PEN-F8F602,6,The lab queue is a nightmare on weekends
+7808,PEN-155177,9,The clinical officer was very thorough
+7809,PEN-728A0E,3,The lab took forever to process my sample
+7810,PEN-AB2878,9,Very fast treatment from start to finish
+7815,PEN-FD3E91,5,Why does the pharmacy queue take so long?
+7816,PEN-C943A3,9,Best clinic experience I have had in Nairobi
+7818,PEN-025966,5,The lab took forever to process my sample
+7823,PEN-E72FC1,3,"Registration was okay but after that, very long"
+7824,PEN-4722D8,8,A bit of a wait but staff were polite
+7826,PEN-33CDDA,4,I sat for 2 hours and left without being seen
+7827,PEN-87CC61,1,I waited too long to see the doctor
+7830,PEN-97C8A1,1,Why does the pharmacy queue take so long?
+7833,PEN-C6B9C9,4,The lab took forever to process my sample
+7834,PEN-7B2AF5,2,I left without being attended to at all
+7841,PEN-584673,10,Impressed by how fast the lab results came
+7842,PEN-DD63D2,9,"Smooth process today, no delays"
+7847,PEN-B8142D,6,Nobody explained why the wait was so long
+7850,PEN-A4C4BF,10,Pharmacy was quick and staff explained my medication
+7853,PEN-86FB62,7,Wait was longer than I would like but staff helped promptly once seen
+7854,PEN-0B39CC,8,"Reasonable wait, friendly staff"
+7856,PEN-90DA99,9,Very fast treatment from start to finish
+7857,PEN-CA7B66,6,I left without being attended to at all
+7858,PEN-66D82F,8,A bit of a wait but staff were polite
+7859,PEN-55A6F6,9,Clean facility and quick consultation
+7860,PEN-49AC7F,6,This has gotten worse over the past few visits
+7863,PEN-9CA96F,10,In and out in under 20 minutes
+7865,PEN-C4BD0F,5,Nobody explained why the wait was so long
+7873,PEN-E2E89B,10,"Smooth process today, no delays"
+7875,PEN-ECEDF2,3,The lab took forever to process my sample
+7878,PEN-62A7A4,5,This has gotten worse over the past few visits
+7879,PEN-8AE5E0,10,Impressed by how fast the lab results came
+7881,PEN-D96CAF,2,Why does the pharmacy queue take so long?
+7884,PEN-C9868A,2,"Very slow service today, disappointed"
+7886,PEN-ECC6D5,8,"Service was okay, nothing special"
+7888,PEN-5FAF79,8,Decent service overall
+7890,PEN-69C32E,5,The lab queue is a nightmare on weekends
+7892,PEN-A819F7,4,Waited so long I had to leave and come back another day
+7895,PEN-4BEF6E,3,Nobody explained why the wait was so long
+7897,PEN-D6EADE,5,The lab took forever to process my sample
+7901,PEN-FE85C2,4,The lab took forever to process my sample
+7902,PEN-1CE26B,8,"Reasonable wait, friendly staff"
+7904,PEN-758068,7,Wait was longer than I would like but staff helped promptly once seen
+7909,PEN-922792,7,"Service was okay, nothing special"
+7914,PEN-820851,9,"Short wait, great service"
+7915,PEN-205730,7,Not bad but not the fastest either
+7916,PEN-FD82E7,2,Staff were fine but the system is very slow
+7917,PEN-E65899,7,Wait was longer than I would like but staff helped promptly once seen
+7920,PEN-BB4DBB,9,"Quick as always, thank you"
+7922,PEN-FA5ECF,5,Staff were fine but the system is very slow
+7924,PEN-581527,6,I left without being attended to at all
+7927,PEN-40BE9B,5,I left without being attended to at all
+7936,PEN-D7FF23,10,Friendly and professional staff
+7939,PEN-23AF5F,1,Why does the pharmacy queue take so long?
+7940,PEN-C39600,10,Impressed by how fast the lab results came
+7944,PEN-2BB4D3,8,Wait was longer than I would like but staff helped promptly once seen
+7945,PEN-B03825,2,I waited too long to see the doctor
+7949,PEN-920990,5,Waited so long I had to leave and come back another day
+7953,PEN-5D5DEB,8,"It was fine, just a bit slow at times"
+7954,PEN-C733DF,0,Waited so long I had to leave and come back another day
+7956,PEN-4995C7,7,Decent service overall
+7957,PEN-0389E2,10,"Excellent service, very organised"
+7960,PEN-1D49C1,9,"Short wait, great service"
+7961,PEN-B91975,10,Clean facility and quick consultation
+7962,PEN-71A41C,4,Why does the pharmacy queue take so long?
+7964,PEN-2EEB66,1,The lab queue is a nightmare on weekends
+7965,PEN-577304,8,"Average experience, could be faster"
+7970,PEN-747348,0,"Lab results took over an hour, unacceptable"
+7971,PEN-6F9791,5,"Lab results took over an hour, unacceptable"
+7973,PEN-C22AED,9,"Excellent service, very organised"
+7974,PEN-1C62F7,5,I sat for 2 hours and left without being seen
+7977,PEN-7DE166,7,"It was fine, just a bit slow at times"
+7979,PEN-7D1059,8,A bit of a wait but staff were polite
+7980,PEN-A0231A,3,Nobody explained why the wait was so long
+7981,PEN-4E5C17,4,The lab queue is a nightmare on weekends
+7982,PEN-D4840B,10,Clean facility and quick consultation
+7984,PEN-FD2343,6,Nobody explained why the wait was so long
+7988,PEN-05CF6E,10,Clean facility and quick consultation
+7992,PEN-D63875,10,Very fast treatment from start to finish
+7996,PEN-613D92,7,Decent service overall
+7999,PEN-9F925D,9,The clinical officer was very thorough
+8000,PEN-1056BE,7,Not bad but not the fastest either
+8002,PEN-78965A,2,Why does the pharmacy queue take so long?
+8003,PEN-FF7A3C,8,Wait was longer than I would like but staff helped promptly once seen
+8004,PEN-3B6EE1,10,Clean facility and quick consultation
+8006,PEN-5309B1,3,I sat for 2 hours and left without being seen
+8008,PEN-D3CDA8,10,Very fast treatment from start to finish
+8010,PEN-FEA877,7,Wait was longer than I would like but staff helped promptly once seen
+8012,PEN-469A91,5,"Registration was okay but after that, very long"
+8013,PEN-928FE2,2,Waited so long I had to leave and come back another day
+8014,PEN-D6495A,3,Staff were fine but the system is very slow
+8018,PEN-BA7E4A,7,"It was fine, just a bit slow at times"
+8019,PEN-035241,4,This has gotten worse over the past few visits
+8025,PEN-F2D7FF,4,I left without being attended to at all
+8027,PEN-8CF276,8,A bit of a wait but staff were polite
+8030,PEN-3109DB,9,Impressed by how fast the lab results came
+8033,PEN-033894,10,Very fast treatment from start to finish
+8036,PEN-89E6C1,7,A bit of a wait but staff were polite
+8040,PEN-14D274,5,I left without being attended to at all
+8045,PEN-7543C3,6,Nobody explained why the wait was so long
+8047,PEN-772296,3,The lab took forever to process my sample
+8048,PEN-EAD390,7,"Average experience, could be faster"
+8051,PEN-10BA86,6,This has gotten worse over the past few visits
+8052,PEN-ACD0A2,9,Pharmacy was quick and staff explained my medication
+8053,PEN-18E798,7,Wait was longer than I would like but staff helped promptly once seen
+8055,PEN-448A86,5,The lab took forever to process my sample
+8059,PEN-86D8A7,7,A bit of a wait but staff were polite
+8060,PEN-705D2B,3,Nobody explained why the wait was so long
+8062,PEN-8B4E1B,2,The lab queue is a nightmare on weekends
+8069,PEN-3BF6C0,10,"Short wait, great service"
+8072,PEN-8D559D,4,Too much delay at the clinic
+8076,PEN-C480B9,9,In and out in under 20 minutes
+8077,PEN-002694,9,"Quick as always, thank you"
+8081,PEN-FEDD12,7,"Reasonable wait, friendly staff"
+8083,PEN-6CA68A,6,"Registration was okay but after that, very long"
+8084,PEN-58A454,2,Waited so long I had to leave and come back another day
+8087,PEN-3F5553,7,Not bad but not the fastest either
+8092,PEN-897015,2,Staff were fine but the system is very slow
+8097,PEN-1ECA8D,2,I waited too long to see the doctor
+8098,PEN-2B631E,4,I left without being attended to at all
+8099,PEN-85E20B,7,A bit of a wait but staff were polite
+8102,PEN-01FBE0,6,Too much delay at the clinic
+8103,PEN-612A1F,9,Best clinic experience I have had in Nairobi
+8106,PEN-2959B6,8,Wait was longer than I would like but staff helped promptly once seen
+8108,PEN-97B32E,4,The lab took forever to process my sample
+8110,PEN-8C7086,10,In and out in under 20 minutes
+8111,PEN-F5FF8D,2,Waited so long I had to leave and come back another day
+8115,PEN-6E24B8,5,The lab queue is a nightmare on weekends
+8116,PEN-E3F8EE,7,"It was fine, just a bit slow at times"
+8117,PEN-C7AC8B,1,I left without being seen after waiting too long
+8119,PEN-7B5E1E,9,The clinical officer was very thorough
+8123,PEN-75B6CC,6,"Very slow service today, disappointed"
+8124,PEN-91C25D,4,Waited so long I had to leave and come back another day
+8126,PEN-E4DC7E,4,Too much delay at the clinic
+8129,PEN-8CB40A,10,Friendly and professional staff
+8130,PEN-5A8BBC,7,Decent service overall
+8132,PEN-18C6B5,3,Waited so long I had to leave and come back another day
+8133,PEN-A3A74E,2,"Registration was okay but after that, very long"
+8135,PEN-0F3F52,6,Why does the pharmacy queue take so long?
+8136,PEN-8BF5C5,5,Why does the pharmacy queue take so long?
+8138,PEN-CFEBC8,8,"It was fine, just a bit slow at times"
+8143,PEN-D65859,9,"Quick as always, thank you"
+8144,PEN-DC3C7E,5,I sat for 2 hours and left without being seen
+8149,PEN-ADD175,7,Decent service overall
+8150,PEN-079534,7,A bit of a wait but staff were polite
+8151,PEN-946BB2,3,"Lab results took over an hour, unacceptable"
+8155,PEN-D1D01E,7,"Average experience, could be faster"
+8165,PEN-0D40BA,8,Decent service overall
+8167,PEN-F028E7,7,Wait was longer than I would like but staff helped promptly once seen
+8171,PEN-8463A3,3,The lab queue is a nightmare on weekends
+8180,PEN-05E418,7,"Reasonable wait, friendly staff"
+8182,PEN-888F5B,9,Sunton branch never disappoints
+8183,PEN-FE22A0,4,"Registration was okay but after that, very long"
+8184,PEN-CD81EF,4,This has gotten worse over the past few visits
+8185,PEN-6FBEE3,2,Nobody explained why the wait was so long
+8188,PEN-F643C8,8,Wait was longer than I would like but staff helped promptly once seen
+8194,PEN-BD9505,7,Decent service overall
+8195,PEN-54E612,2,I left without being attended to at all
+8196,PEN-4EDF3F,7,"Reasonable wait, friendly staff"
+8197,PEN-B79944,8,"Service was okay, nothing special"
+8200,PEN-1324A7,5,Waited so long I had to leave and come back another day
+8203,PEN-DE36B3,2,I sat for 2 hours and left without being seen
+8204,PEN-66BB50,8,"Service was okay, nothing special"
+8206,PEN-D4A64E,8,Not bad but not the fastest either
+8211,PEN-552DE8,6,The lab took forever to process my sample
+8212,PEN-440E44,7,A bit of a wait but staff were polite
+8216,PEN-05BFF8,3,Waited so long I had to leave and come back another day
+8220,PEN-B0DE05,9,Clean facility and quick consultation
+8221,PEN-448231,9,Pharmacy was quick and staff explained my medication
+8229,PEN-54805D,8,Wait was longer than I would like but staff helped promptly once seen
+8230,PEN-B521D7,5,I waited too long to see the doctor
+8232,PEN-13681D,7,Wait was longer than I would like but staff helped promptly once seen
+8233,PEN-D5D3A2,8,Wait was longer than I would like but staff helped promptly once seen
+8235,PEN-F1AA6A,6,I waited too long to see the doctor
+8241,PEN-10AA4E,5,Too much delay at the clinic
+8244,PEN-4BACE0,9,"Quick as always, thank you"
+8245,PEN-57F190,8,"Average experience, could be faster"
+8250,PEN-759126,6,I left without being attended to at all
+8256,PEN-5246DA,6,Expected faster service given the subscription price
+8257,PEN-855674,6,Waited so long I had to leave and come back another day
+8258,PEN-94853C,5,The lab queue is a nightmare on weekends
+8260,PEN-5131E2,4,"Registration was okay but after that, very long"
+8262,PEN-840FA3,3,I sat for 2 hours and left without being seen
+8265,PEN-07A0F0,3,Gave up waiting and went to another clinic
+8268,PEN-8CCB32,6,I left without being attended to at all
+8270,PEN-596D67,8,Not bad but not the fastest either
+8273,PEN-AC62BA,9,"Short wait, great service"
+8277,PEN-1A549D,10,Clean facility and quick consultation
+8278,PEN-089616,1,Nobody explained why the wait was so long
+8280,PEN-EF5F0A,7,"Service was okay, nothing special"
+8283,PEN-AFD9F9,5,"Very slow service today, disappointed"
+8284,PEN-B5AA11,3,Expected faster service given the subscription price
+8287,PEN-72C1BE,3,Expected faster service given the subscription price
+8289,PEN-F111E8,4,The lab took forever to process my sample
+8290,PEN-2C7BCE,4,I sat for 2 hours and left without being seen
+8291,PEN-DE8098,9,Sunton branch never disappoints
+8294,PEN-794B67,1,I sat for 2 hours and left without being seen
+8300,PEN-877615,8,"It was fine, just a bit slow at times"
+8301,PEN-6640CA,8,Wait was longer than I would like but staff helped promptly once seen
+8302,PEN-776ADD,6,I waited too long to see the doctor
+8306,PEN-D7FC71,10,Best clinic experience I have had in Nairobi
+8309,PEN-7A8CBC,10,"Excellent service, very organised"
+8311,PEN-C3CF81,3,"Registration was okay but after that, very long"
+8314,PEN-600117,6,I waited too long to see the doctor
+8315,PEN-2A5465,8,"Average experience, could be faster"
+8319,PEN-8778C0,5,The lab took forever to process my sample
+8321,PEN-94AB6D,3,Nobody explained why the wait was so long
+8322,PEN-E55343,6,"Very slow service today, disappointed"
+8323,PEN-E6023B,8,"Average experience, could be faster"
+8324,PEN-A9B95E,4,Staff were fine but the system is very slow
+8325,PEN-FC7063,9,The clinical officer was very thorough
+8326,PEN-EFFC67,9,Clean facility and quick consultation
+8327,PEN-6B45CC,1,The lab took forever to process my sample
+8331,PEN-C60076,2,Waited so long I had to leave and come back another day
+8333,PEN-C44AE7,8,Decent service overall
+8339,PEN-26CCA8,7,"Service was okay, nothing special"
+8340,PEN-7A16C0,10,Pharmacy was quick and staff explained my medication
+8341,PEN-E34165,1,Expected faster service given the subscription price
+8343,PEN-F91A4B,8,Wait was longer than I would like but staff helped promptly once seen
+8345,PEN-A658C7,1,I waited too long to see the doctor
+8346,PEN-ED1ECE,9,"Short wait, great service"
+8348,PEN-A85483,8,"Reasonable wait, friendly staff"
+8350,PEN-ED4A94,8,"It was fine, just a bit slow at times"
+8351,PEN-8B30B7,2,I left without being attended to at all
+8352,PEN-45C7F6,5,Waited so long I had to leave and come back another day
+8354,PEN-BB6059,8,"Reasonable wait, friendly staff"
+8357,PEN-2335C4,4,I waited too long to see the doctor
+8358,PEN-415906,4,I sat for 2 hours and left without being seen
+8361,PEN-88ACBD,8,"Reasonable wait, friendly staff"
+8362,PEN-8455EF,10,Very fast treatment from start to finish
+8365,PEN-10D27C,10,Sunton branch never disappoints
+8369,PEN-381A56,5,This has gotten worse over the past few visits
+8372,PEN-E17179,9,Clean facility and quick consultation
+8373,PEN-372776,3,I left without being attended to at all
+8375,PEN-340475,6,"Registration was okay but after that, very long"
+8376,PEN-44C6A3,5,"Very slow service today, disappointed"
+8379,PEN-980DAB,6,I left without being attended to at all
+8380,PEN-753589,4,The lab took forever to process my sample
+8381,PEN-52D918,3,The lab queue is a nightmare on weekends
+8382,PEN-DEA5AB,9,Best clinic experience I have had in Nairobi
+8384,PEN-DB2BB8,4,The lab took forever to process my sample
+8385,PEN-87513B,4,The lab queue is a nightmare on weekends
+8387,PEN-2DB9E6,3,The lab queue is a nightmare on weekends
+8388,PEN-A18A71,0,Gave up waiting and went to another clinic
+8389,PEN-BDD917,8,"Average experience, could be faster"
+8391,PEN-D90147,5,Why does the pharmacy queue take so long?
+8393,PEN-7E483F,3,Too much delay at the clinic
+8394,PEN-9FCD91,8,"Service was okay, nothing special"
+8395,PEN-2EF0B2,10,"Quick as always, thank you"
+8397,PEN-CFE711,2,The lab queue is a nightmare on weekends
+8405,PEN-05FC86,9,"Short wait, great service"
+8407,PEN-E39C7B,4,"Lab results took over an hour, unacceptable"
+8408,PEN-2BEA56,6,The lab queue is a nightmare on weekends
+8409,PEN-A29D09,8,"Service was okay, nothing special"
+8412,PEN-7AAE61,10,Friendly and professional staff
+8414,PEN-157E58,2,Waited so long I had to leave and come back another day
+8418,PEN-55C97F,2,Why does the pharmacy queue take so long?
+8421,PEN-8E5535,8,Decent service overall
+8425,PEN-C543DE,7,Not bad but not the fastest either
+8428,PEN-8190C9,6,Nobody explained why the wait was so long
+8429,PEN-B7F1FF,8,"Average experience, could be faster"
+8430,PEN-07868B,1,Waited so long I had to leave and come back another day
+8431,PEN-50F0A9,7,A bit of a wait but staff were polite
+8432,PEN-E22BD4,2,"Very slow service today, disappointed"
+8434,PEN-BA3B91,0,Why does the pharmacy queue take so long?
+8436,PEN-0A6C71,9,Very fast treatment from start to finish
+8438,PEN-7BE769,9,Sunton branch never disappoints
+8441,PEN-B9E005,4,"Registration was okay but after that, very long"
+8442,PEN-20B61D,4,Why does the pharmacy queue take so long?
+8446,PEN-1A881A,7,"Reasonable wait, friendly staff"
+8447,PEN-A90524,5,Expected faster service given the subscription price
+8449,PEN-D80CD4,8,A bit of a wait but staff were polite
+8451,PEN-C4457E,4,Waited so long I had to leave and come back another day
+8454,PEN-E69C27,5,Too much delay at the clinic
+8457,PEN-582FE3,5,Waited so long I had to leave and come back another day
+8462,PEN-99689A,5,I sat for 2 hours and left without being seen
+8464,PEN-29584E,7,"It was fine, just a bit slow at times"
+8465,PEN-80B6A7,10,Pharmacy was quick and staff explained my medication
+8466,PEN-BDDB72,8,"Reasonable wait, friendly staff"
+8469,PEN-881E86,2,Staff were fine but the system is very slow
+8472,PEN-B14B9D,4,I sat for 2 hours and left without being seen
+8475,PEN-B2AF60,3,"Lab results took over an hour, unacceptable"
+8478,PEN-723D55,4,Too much delay at the clinic
+8479,PEN-0DD4B2,7,"Reasonable wait, friendly staff"
+8482,PEN-397517,5,"Registration was okay but after that, very long"
+8487,PEN-A521EA,3,The lab queue is a nightmare on weekends
+8488,PEN-BC0F13,8,"It was fine, just a bit slow at times"
+8489,PEN-32A308,8,"Service was okay, nothing special"
+8490,PEN-515ADC,1,I sat for 2 hours and left without being seen
+8493,PEN-0BAC62,8,"Service was okay, nothing special"
+8495,PEN-367151,9,Sunton branch never disappoints
+8497,PEN-CB809C,9,Best clinic experience I have had in Nairobi
+8498,PEN-7740F7,7,A bit of a wait but staff were polite
+8499,PEN-CFC383,3,Nobody explained why the wait was so long
