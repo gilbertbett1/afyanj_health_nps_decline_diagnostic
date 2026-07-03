@@ -1,4 +1,4 @@
-# AfyaNJ Health NPS Decline Diagnostic
+# Afyanj Health NPS Decline Diagnostic
 
 This portfolio project simulates a real business problem for a brick-and-click healthcare organization experiencing a decline in Net Promoter Score (NPS). It uses synthetic but realistic outpatient visit and SMS feedback data to diagnose the operational drivers of falling patient satisfaction.
 
